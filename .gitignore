@@ -1,0 +1,8 @@
+# Local tooling and robot scratch files. Never published.
+.claude/
+.paysa/
+pr-body.md
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

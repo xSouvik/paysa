@@ -1,0 +1,14 @@
+{
+  "name": "Paysa — Pay & Pension",
+  "short_name": "Paysa",
+  "description": "7th CPC salary, DA, increments, MACP and NPS / UPS / OPS retirement calculator.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe8",
+  "theme_color": "#f4efe8",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,54 @@
+# Publishes the app + data to GitHub Pages. Runs on every push to main (e.g. when you merge a
+# DA pull request) and after each news update. Tests and data checks must pass first,
+# so a broken file never reaches users.
+name: Deploy app
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main              # include the news commit when called right after it
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test calculations and data
+        run: |
+          node --test tests/*.test.mjs
+          node scripts/validate-data.mjs
+
+      # Only the files the app needs are published. Scripts, tests and docs stay out of the site.
+      - name: Assemble site
+        run: |
+          mkdir _site
+          cp -r index.html sw.js manifest.webmanifest css js assets data _site/
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

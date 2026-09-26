@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "version": 1,
+  "updated": "2026-09-26",
+  "notice": "July 2026 DA not yet announced. 63% is an estimate from the CPI-IW index; some estimates say 62–64%.",
+  "da": [
+    { "from": "2024-01-01", "rate": 50, "status": "notified" },
+    { "from": "2024-07-01", "rate": 53, "status": "notified" },
+    { "from": "2025-01-01", "rate": 55, "status": "notified" },
+    { "from": "2025-07-01", "rate": 58, "status": "notified" },
+    { "from": "2026-01-01", "rate": 60, "status": "notified", "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245&reg=48&lang=2" },
+    { "from": "2026-07-01", "rate": 63, "status": "expected", "source": "https://www.staffnews.in/2026/08/da-dr-from-july-2026-63-percent-cpi-iw-for-june-2026.html" }
+  ],
+  "hra": {
+    "bands": [
+      { "minDA": 0, "X": 24, "Y": 16, "Z": 8 },
+      { "minDA": 25, "X": 27, "Y": 18, "Z": 9 },
+      { "minDA": 50, "X": 30, "Y": 20, "Z": 10 }
+    ],
+    "min": { "X": 5400, "Y": 3600, "Z": 1800 }
+  },
+  "ta": [
+    { "minLevel": "9", "tpta": 7200, "other": 3600 },
+    { "minLevel": "3", "tpta": 3600, "other": 1800 },
+    { "minLevel": "1", "minPay": 24200, "tpta": 3600, "other": 1800 },
+    { "minLevel": "1", "tpta": 1350, "other": 900 }
+  ],
+  "cghs": [
+    { "maxLevel": "5", "amount": 250 },
+    { "maxLevel": "6", "amount": 450 },
+    { "maxLevel": "11", "amount": 650 },
+    { "maxLevel": "18", "amount": 1000 }
+  ],
+  "cgegis": { "A": 120, "B": 60, "C": 30 },
+  "gratuityCeiling": 2500000,
+  "leaveMaxDays": 300,
+  "nps": { "employee": 10, "govt": 14 },
+  "ups": { "employee": 10, "govt": 18.5, "individualGovt": 10, "minPayout": 10000, "fullServiceMonths": 300, "minServiceYears": 10 },
+  "ops": { "minPension": 9000, "commutePct": 40, "commutationFactor": 8.194 },
+  "tax": {
+    "fy": "2026-27",
+    "stdDeduction": 75000,
+    "rebateLimit": 1200000,
+    "cessPct": 4,
+    "slabs": [[400000, 0], [800000, 5], [1200000, 10], [1600000, 15], [2000000, 20], [2400000, 25], [null, 30]]
+  },
+  "cpc8": {
+    "status": "Consultation under way; report expected around May 2027",
+    "fitmentMin": 1.8,
+    "fitmentMax": 2.86,
+    "fitmentDefault": 2.28
+  },
+  "sources": [
+    { "title": "DA 60% from 1 Jan 2026", "publisher": "PIB", "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253245&reg=48&lang=2" },
+    { "title": "July 2026 DA estimate", "publisher": "StaffNews", "url": "https://www.staffnews.in/2026/08/da-dr-from-july-2026-63-percent-cpi-iw-for-june-2026.html" },
+    { "title": "Gratuity ceiling ₹25 lakh", "publisher": "PIB", "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2022470" },
+    { "title": "Unified Pension Scheme", "publisher": "PFRDA", "url": "https://pfrda.org.in/schemes/national-pension-system/unified-pension-scheme" },
+    { "title": "Commutation table (1.1.2006)", "publisher": "7th CPC News", "url": "https://7thpaycommissionnews.in/7th-cpc-new-table-for-commutation-of-pension/" },
+    { "title": "8th Pay Commission", "publisher": "8cpc.gov.in", "url": "https://8cpc.gov.in/" }
+  ]
+}
