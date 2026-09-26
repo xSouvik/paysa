@@ -126,7 +126,9 @@ async function fromPIB() {
   const out = [];
   let pages = 0;
   try {
-    for (const it of items(await get(PIB_FEED))) {
+    const feed = items(await get(PIB_FEED));
+    console.log(`PIB feed: ${feed.length} latest releases checked`);
+    for (const it of feed) {
       const feedTitle = tag(it, 'title');
       const link = tag(it, 'link');
       if (!isHttps(link) || !(RELEVANT_HI.test(feedTitle) || RELEVANT_EN.test(feedTitle))) continue;
@@ -224,7 +226,9 @@ async function main() {
   const next = { schema: 1, updated: new Date().toISOString(), items: all };
   const problems = validateNews(next);
   if (problems.length) { console.error('News failed validation:\n' + problems.join('\n')); process.exit(1); }
-  console.log(`New stories: ${fresh.length}, total kept: ${all.length}`);
+  const oldIds = existing.items.map(i => i.id).join(), newIds = all.map(i => i.id).join();
+  const added = all.filter(i => !existing.items.some(o => o.id === i.id)).length;
+  console.log(`Stories added to the feed: ${added}, total kept: ${all.length}`);
 
   await rm(PROPOSAL_DIR, { recursive: true, force: true });
   if (proposal) {
@@ -233,7 +237,8 @@ async function main() {
   }
 
   if (DRY) { console.log(JSON.stringify(fresh.slice(0, 5), null, 2)); return; }
-  if (fresh.length || !existing.items.length) await writeFile(NEWS_FILE, JSON.stringify(next, null, 2) + '\n');
+  // Only write (and so commit + redeploy) when the list of stories actually changed
+  if (oldIds !== newIds) await writeFile(NEWS_FILE, JSON.stringify(next, null, 2) + '\n');
 }
 
 if (process.argv[1]?.endsWith('fetch-news.mjs')) {
