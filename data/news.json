@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-10-02T12:35:02.560Z",
+  "updated": "2026-10-02T22:14:20.713Z",
   "items": [
+    {
+      "id": "1d0ajg8",
+      "title": "Bank Of Baroda Enters Pension Fund Business In India Now - Newz Daddy",
+      "source": "Newz Daddy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWZjMzZBQnZLUkRWd0s0OEhQa0NhZzlwcUxaUTFiRldueFNoWkUyY05nNHYzYmx6VHE2V1BnaF9QY1BsdS1YbEpYMkc0RFJPbjcydE5ZeHBHaVdnZWJpVlJQMUtpWG0xVmF3UHZpQUc0bEJoU2xnVkJSRXFyZE9Fdm00X1d4QWFGclVuOXk3TWpmbDjSAZMBQVVfeXFMTkFmYzM2QUJ2S1JEVndLNDhIUGtDYWc5cHFMWlExYkZXbnhTaFpFMmNOZzR2M2JselRxNldQZ2hfUGNQbHUtWGxKWDJHNERST243MnROWXhwR2lXZ2ViaVZSUDFLaVhtMVZhd1B2aUFHNGxCaFNsZ1ZCUkVxcmRPRXZtNF9XeEFhRnJVbjl5N01qZmw4?oc=5",
+      "date": "2026-10-02T12:31:19.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ]
+    },
     {
       "id": "o6up0g",
       "title": "67% DA from January 2027? Latest CPI-IW data gives central govt employees a big clue",
@@ -325,6 +336,17 @@
       "tags": [
         "DA",
         "Pay"
+      ]
+    },
+    {
+      "id": "1vevvzf",
+      "title": "DA hike after August inflation data: Will dearness…",
+      "source": "inkl",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT1dXWk5HVHRpSGJEdnA4LWV3SXdlUGpzNU4zRnV6N1BQZVFSamdPRXBKV19XZklUd2s3YU1lU2stWDR6TmRXVnJiRGQwcnNUX3BjOHJYb2xkMU92bnJsei1yMmRoZkIwcUc5d0pvSTd6WFZHakJfNVdfR01SS0Rzc053aEVtTDdWaXQ1UHdHTTQtU0VsTklWQWhYTGxVMHJ1Z0ZlZEJjWm5UMDhuYW5xVFpEM2lMU3plRlJYMVpyTWR1NThWRzdfejVybXdySjZseUhETk5WQUs2dS1ZUVZaTFlHMWd0MF8yOEpHag?oc=5",
+      "date": "2026-09-30T12:45:00.000Z",
+      "official": false,
+      "tags": [
+        "DA"
       ]
     },
     {
@@ -671,29 +693,6 @@
       "official": false,
       "tags": [
         "DA"
-      ]
-    },
-    {
-      "id": "1h9ns5i",
-      "title": "8th Pay Commission: Productivity-Linked Bonus before Durga Puja? What employees want now, and from 8th CPC later",
-      "source": "Upstox",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR0N1OVBSelkzRlpiSTY2dHBvMkU2VEJmd3QyY2hzak9KQ2tBSzVlN2J5WF9vMlozTjNvUHlZOXVXRDZiMVQ0bWxSa3lqWmhuWUgzX1lhZmhTdkpKVFF5dWFHNUNEeHRNNnR4eFRPd0taVm1zbjlLaVN3SGZEVDcyb3NpSThEU1pCRjZUVzRFTVdzYlU3NnVpS3ZRdlVBY3JUUnB4ME82VXF6bWVsU1hoeDM5RXJvTXZFYXlSamhwOUluUTJnSzJZNkpvN09rWVFJeEIzYUFZZ1VWdzhyOWNaTTZVRjJJSGRyQ1JfdmpjVjFyUXJhUzNmZkVaaTFlXzVpTlpnc09UNjduNE42UFE?oc=5",
-      "date": "2026-09-29T04:43:49.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ]
-    },
-    {
-      "id": "1704oud",
-      "title": "8th pay commission: Awaiting announcement? Here are the terms of reference and timeline of recommendations, explained",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZllCc0JBT2g5R1d3al9YYkl5azdFdmhYVlN3UUVUeGNJSTZmQlMyc3hEVS1Ha2NyQXpLZ21jOFNHbE04ZkxpMlJmbDRrSm1BZVh5T0dVYWYyYWR1VmxkbzFJSWkxbFBDb3VwMENUQlduRmtPNmp6X3hNUzNlQ1p0bUU1M3hvLWxWTVNRdVB2M21wTXFSN1J5bS1IdEJ2bFRKc2pGSkViSXFYdmlkQU9TWk5NZ2laVXV6elB5bGlnMlRoRUVkNmoydnJ6aHlBVTNMMi1pZWFuQjdqVGprM014N0tWM2huMTRaa2hDRDlmQzlIZ2tpTjJBeTU1RmlZOTlFZUpGNWNGRFcyOU5LOENXbjhWNW0xUdIBmwJBVV95cUxPRnVZOWQ4OHVXand3NF81cjZYQ1UxenpqWVc1ZFlfelZYSXZnR0lyMG9CSWFHcVRqNzVFSE5jRTZ2Y1lXd2hpcDVoQ1U5cmlKMHk0b2xPazhoNG8yRVgwVHlxYkVKWEU4bFg0SjhndURhNnZpczZFMmk4NUVqY1RwdEF0akRvZjk5X3AxYXAzcV9xUjVZUmZYWjRZUlhUZTItSTlTSVpYSjN4aWRnUXp0UFF6MDRySWZiU0lQTHNCRWFab3VYdVU3elFNSlN2c0VHaURXSzBxVURvWEFXaXdlWE1wRVE5Q1BhQ004dl9vYW1rSlJnOXlPQjZpNmNybW5peFVWTDBmdS10MDVsbDBtR0syUmdZbWwycGl3?oc=5",
-      "date": "2026-09-28T18:41:34.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
       ]
     }
   ]
