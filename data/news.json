@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-10-05T14:38:50.723Z",
+  "updated": "2026-10-06T00:03:28.758Z",
   "items": [
+    {
+      "id": "udc1ow",
+      "title": "CGHS beneficiaries lose access to fresh treatment at 99 hospitals, clinics",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUjhYdG1adlRfRzhaRUNkNGQxcldFME14RVEtY2JSSVRmSDJrTWozUlJNaFFpY2NfaV95aEI3NlpwXzA3YmRVTjFOTDVWWFNzM2w4M2NzNUFqZ1NzcFhBaUNxenYxNHd0RktMc3hqVlh6XzFsaFY1eWlQOF9DaENFY1NxNU5LX0ZwQTBRdENDb2ZZWklYTlVKY0ZIVEoxaFdKbE4yOVRPLWFraXY4LTlsbWphRC1MSTRYcC1kRmFmRjBXLVMxMk9OMWw4eVd4RUtxT1RDYkNiTHRoa0hKWnpaYmRjc0rSAeQBQVVfeXFMUFI4WHRtWnZUX0c4WkVDZDRkMXJXRTBNeEVRLWNiUklUZkgya01qM1JSTWhRaWNjX2lfeWhCNzZacF8wN2JkVU4xTkw1VlhTczNsODNjczVBamdTc3BYQWlDcXp2MTR3dEZLTHN4alZYel8xbGhWNXlpUDhfQ2hDRWNTcTVOS19GcEEwUXRDQ29mWVpJWE5VSmNGSFRKMWhXSmxOMjlUTy1ha2l2OC05bG1qYUQtTEk0WHAtZEZhZkYwVy1TMTJPTjFsOHlXeEVLcU9UQ2JDYkx0aGtISlp6WmJkY3NK?oc=5",
+      "date": "2026-10-05T17:40:00.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ]
+    },
     {
       "id": "x9mygn",
       "title": "डॉ. जितेंद्र सिंह ने पेंशनभोगियों की जीवन सुगमता की प्रतिबद्धता दोहराई; डिजिटल पेंशन सेवाओं को अपनाने का आह्वान किया",
@@ -12,6 +23,31 @@
       "official": true,
       "tags": [
         "Pension"
+      ]
+    },
+    {
+      "id": "otqn56",
+      "title": "Central Government Revises Variable Dearness Allowance; Check New Minimum Wages Effective October 1",
+      "source": "LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUpFOERYT3IyZWpVZFAyQnhFLUVLakk1VEh4Rnh1cm5OOUg2SkdoRHZ1NDJyeThBZUtHaldvQ0tJMFUzT0tYOEhiS2J2OEJDZm5QTlo1dk5fQktLZ1JSSmxZLV92R2JfYk5CckRKNEo0MlRLWkZmdUd1bFA0a05NeHNqZzVvdUpJZFEyM2ZSdjlWc0s0VXJlNUE3aGwzejhNRU9vdWRrcDl6VVhjZzJPc2ZWclh2QW1YRmZmc3BJLVZpM1dfc0tRekdpM2JKOGM0dUQzN2k5V1d3Ui1mR05xSdIB5gFBVV95cUxOd2FHTjJ3SWJDOWNrMjhVTFlCRmtNRFFDS25XZ2YyNV9scVdReWhzaXg2QWlic3JGRVZ1Zi1SMmlveDIzNmlnZDFMWHNOZTgyRnpCZU9ZWGE2bDk0cnR2cW5Yd3pHRFVSV2NEMWpZUFR1QkllUkU2d2d1MHVPVndsWlJwamZyV1ZfN0Y3cUJLU2N3SGtsUEE4N014c2RlX3ZiTE5UM3NxVGM3dnVjNWZNVDltUzZfQktEc1hxdENqM1VDc2VZUFdmNmliYUZ0RXdReVp0OVpvaW5yeVRFVXRsZ3ZBSW1oQQ?oc=5",
+      "date": "2026-10-05T13:53:09.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ]
+    },
+    {
+      "id": "1ir1111",
+      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
+      "source": "Goodreturns",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0lHWW9iZEtMVmhIbC1UbndIS3hWQWFPcnY5U3RGaENfRlhCQ0huRzhMQ2drVFZFV1ljSWsxWWtuNllmazRFWjJSUndkYjJyOVpHNTYwNEkydi1uQy1aQzRSVjAtRnhiY2JBUTkxaEdDSnRLTTlHRFRjS2xWMXdsVjFVZWdfbkRBanpTRk5Mbi1XY2JlUG5pWXYwZG5LWFdSdE9vY08yZXBYWXlpYkxSdkVZTkswRWdPVW1EVjN3MlB3UVdKeDhhX2w1SWpTUTRvSXVWaXR0ZTN1cU0?oc=5",
+      "date": "2026-10-05T13:39:38.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
       ]
     },
     {
@@ -114,6 +150,18 @@
       "official": false,
       "tags": [
         "8th CPC"
+      ]
+    },
+    {
+      "id": "1k9uq83",
+      "title": "8th Pay Commission News: Bengaluru, Mumbai Meetings In October; What Employees And Pensioners Need To Know",
+      "source": "Times Now",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZWpRSWVvSXlSRmNWSUNFZ3FYR1QzeHV4TVVXandxYWtBTVpzdHhvSUN6eVFDMW51NnhVTl82VWhkd0FCakh5Vm9DdF91VURDVG9IbGpWTTZ2TzZCcS00VF9DYTVvbTJmSnk5dFR3S0FiRHFpVFZoaWtOczh1TFRuaW9tYy1sRnNxTHFJWVl5QUVyV0hMaV9taU55OGFBWFVydnNrZTVoSGVNSjFSR0wtYWYtMGR1MHA2cGxaaU56UVFxcG8wVkNoRkdqOWhVcUhqOXZGWGV1ZDdNZ2VQNkd1M1dNeVhNMjBhUFNXMFNZbVRMN0dtLTBIRHV6ODd1MjjSAYQCQVVfeXFMUHhuamh4UVVfMnlWUmN1UWtqaGtGOXZFQXQ0a1k0allRZ0I1TzFRcUlNVXV3U1ZnY0pzMnRBWmFRaUxhQkdCWjlkUi1uNmpPeGozRUZYZVJSa2xpVTBFaFY5R0ROdGlBWXFQaEsyS1hzMkdJazU2VWhTTFJTUU9PMVFkeGdpS3pvZ2VTSHRsenc5SHBSbzM2ZDlKUTl1a09aYVJiOVRlRWNzSDNvcWgtUmRXNUdWOW1fSnNSNlp3WnJoYVJJWVQ2YVozWDZpbkxuMHNGQmE0bnNhRWhOQ2hsbDF4d1NXNFpOQTNlLVNodFZwdDVpbnVDcnE2blg2QWhyT0NGS18?oc=5",
+      "date": "2026-10-05T04:30:07.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
       ]
     },
     {
@@ -648,53 +696,6 @@
       "tags": [
         "8th CPC",
         "Pay"
-      ]
-    },
-    {
-      "id": "14xyr6e",
-      "title": "8th Pay Commission Update: Shamli Pensioners Demand OPS, DA Arrears; Read On",
-      "source": "Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2REMnpkYmtjX0JFQUZIekpnV2JFWkNtYjFnUDg3QUVoekZxQzdvbEowdjRjcU92M3JNVUN6azFGNVhWWndDYlZ0Q1FweDZLcFRJMlJPVWJlVlBrcjFQMng5VmhOa1RqSVF3OGF6MFZJeEN3cndBNnV2VGw5dGpnRHM1Mk5NMWtxeWo5UVI4LW9za1JZM3RJVl9XblIzbW4wRnNOS19OTUtqazBuM2JNYk84aHZOMVI3cWFVVF9sTzJMWWFiT1ow0gHMAUFVX3lxTE9XSWxBal9LMXRSZlNLMUdMUXJTMV9ybTM0Qm1wckdKaW9WTHIyc1Q4eFRJQk5aWlI5NHFPYzJyd1NrU21fSWMwY3ZLUjh4MUZETUR4N21EOHZYZEhxWEgxbFdzWHpHeWprZmNoVTF6MUV0T1NXdWJSR2d3LUlVQ25ENW0wQ09DYUxJdkRRSjV6TVRRQVBNWk8tSUMxcVlxVk5qWkJHbGZOemVJY3I1aW5QOG15RHExQTVJR0FQcEdweUhvRnJjV2RNMy1yNA?oc=5",
-      "date": "2026-10-01T07:36:23.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ]
-    },
-    {
-      "id": "blr16l",
-      "title": "DA Hike: Central Government Employees Can See Massive Dearness Allowance Hike; May Reach 65%",
-      "source": "Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTy1hVF9wV1duMHRtNjVUendoYWJCVGR6S1NJZVNWUHp1XzBOcEx3ajVscFNlMnhWdU5pVWNBMnk5clRrM0tqbkRvUXRaUUUyMkRfWmN4Z0s1bU1xeThzS1pKSk9wZE9zZ3NlYUd1eU9WTGR3c29FSzdGS1ctOGxtaHo5dTV5b0pUS21SdHZwR2dxZjZkSFJScjh0dE9aYndxY1BaVmx1ODM3TDNldkFBOGFvRXlWTkMxNGRHdUpmYk8taXIwZE1Ja241a2NMYkdrMVNaanpRakZXanQt0gHiAUFVX3lxTE5VbGVCVVk1VHFlaHNBcE5zWjFpRnR0SWR1TjZ1aWhlNVhYTmxBYm1DSkNxaTE3NkZlakNPcElUTi1tOWgwNi16WHNXY3I4Q1U1TGhONks2UWhPcmpEVV83MWFodFEzc3JWWDJrczhiN09iZ1o0SkdTNlQ3SmhzcmMwQVJQMHlqTGxmNzkwQm5BRWVWVE5DdmpCb1E3SWdQRk9pVllGVjk3NWJxTW0xOVl3NzlkalNJZlltSm1kVi1mOHhlRHZGc1NZWGpjRHRqbWxHSnpfVmN0NDM1WkU2YUNmM2c?oc=5",
-      "date": "2026-10-01T05:09:04.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ]
-    },
-    {
-      "id": "bzycvv",
-      "title": "DA hike: August CPI-IW rises to 154.4; is 65% DA likely for central govt employees? Here’s what the calculation shows",
-      "source": "Livemint",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcUh2d1hPckFlRDN0R0dnaWZQWkphMFdCd3BHX0RJR0VZUGFSTURFb2lxYVIwMEN2SThONktsb3ZpZ1hLUWNBUWt2cEVxOUI3WXhhYm95RG1TUXJBSWRrN0VSWEl6SG9DZFJTdDREMzhoSEtRd1ZJZVZ2Y0pHa2l4SmJlRXROOVRwY3lGQUtVRTU2NVF6RFdKZWVWOUJRS01OcUpXeUJfaUVkeHJxdHlycWRZamhkNkJPTjdKM1QwQkJ2eHZneUd2M1B2UzlUTUhNd2tJXzdCWHFSUkpoNWtfcVdFQzhDVF80Y1ZFU0pEdjlLSkJSM0FvT2lxUklXRndrZTRlTjdiYmYyUGRKWEHSAZMCQVVfeXFMT0hYTFFqOFdPaGRiZ2RJVi1neUJNaExfM0EyRU94a1pJSFBqR1dsV0h4Vkl3a3dvS3p6R05zMlBTaXI0QW5yWGZZWVZYeHJOT0dkZFZNa0VoV1RHQkt5YkpsbU9GRWxWRnVnR21XcVpKcWpIOHhLTUNGMkdQeGV3WlQ5Z01LUXZ2a0I3WUNmc0RoTHdmcm5rblE5ZGpUUnplSllhV0wyVHBVN1RqT2k2OFJGTEtFM3NscmNna1YxTC1ZQWNBSU05YVk1bjhrNFpCdk9BQnhSNHhsUXJadjFuUTNrUHJMM3NDZjZIdGZSMnRJa0liQWNnQ24yNjlDR1N1a0pXdmFDWlp2ZjBIRkhlQTlIdjA?oc=5",
-      "date": "2026-10-01T04:43:43.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ]
-    },
-    {
-      "id": "1lx5e1b",
-      "title": "EPS pension: Basic pay above Rs 25,000? Why you may not qualify for EPS membership",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTTdWdENkQWVLOXB0ZGpTTDRxeFhLcUJJOTNLYlV4WXJfc2Z0UElhc0ZWM2EwMGpndWp1eFNyQ3RWVW1qeXdCVzFHUFRIay10aWh0SVBDcW9IQTFLTzlWb2Q3R2ZKV240clc5MFpXSVJIT1R6akpDSXc3WmtrbmU4dXpjUTN2OTIxX0NQd09scUIyQVp1cmkzNzBWRC1zTFBQdnMwVU11NUd2aVR3Mm5MUnJFV190RUt0UXg3WS1CZWpEWDhyWHdsWUtpRzY1YW80ZVhfZmNuRW1mOHBZcmfSAeMBQVVfeXFMUDNNeGUzdEFtS0t4eU1jYXZ4NmFIQmRjbEk3RmlULVk0U05odXZpSVR6ZTZ5YnZsZ3dsYkNYa0V4ZXctZ2U2Rm1XNFVybmVWeExVOXB5cWw1NnRBal9QZU5BeXlpLWxOTlhFSXZ2MERqdWRnQ2FSb19TX2NXN1NXeWU5djF3UHRtbmJIZ081M0ZYbllvTVpqdGtZb2xJUFkyZU5UWXN5MzNTODVYZmhlTXhyRGdzM00xdWQzb0N6dm9Od2o3eE10bUp3RXJSRlJPMklFTWZCVEhZR1ZQVFRPbXpMa2s?oc=5",
-      "date": "2026-10-01T04:30:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
       ]
     }
   ]
