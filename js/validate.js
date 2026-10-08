@@ -96,6 +96,10 @@ export function validateNews(n) {
     need(typeof it.title === 'string' && it.title.length > 0 && it.title.length <= 300, `${at}.title invalid`);
     need(typeof it.source === 'string' && it.source.length <= 80, `${at}.source invalid`);
     need(isHttps(it.url), `${at}.url must be https`);
+    // Privacy: links must go straight to the publisher, never through a tracking redirect
+    need(!/(^|\.)(news\.google\.com|google\.com\/url)/.test((() => { try { return new URL(it.url).hostname; } catch { return ''; } })()), `${at}.url must not be a Google redirect`);
+    need(it.speculative == null || typeof it.speculative === 'boolean', `${at}.speculative must be true/false`);
+    need(it.summary == null || (typeof it.summary === 'string' && it.summary.length <= 300), `${at}.summary too long`);
     need(!Number.isNaN(Date.parse(it.date)), `${at}.date invalid`);
     need(typeof it.official === 'boolean', `${at}.official must be true/false`);
     need(Array.isArray(it.tags) && it.tags.every(t => NEWS_TAGS.includes(t)), `${at}.tags invalid`);

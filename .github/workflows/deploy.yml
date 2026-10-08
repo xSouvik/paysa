@@ -1,5 +1,5 @@
 # Publishes the app + data to GitHub Pages. Runs on every push to main (e.g. when you merge a
-# DA pull request) and after each news update. Tests and data checks must pass first,
+# DA pull request) and when the news robot starts it. Tests and data checks must pass first,
 # so a broken file never reaches users.
 name: Deploy app
 
@@ -7,32 +7,32 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  workflow_call:
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Only the newest version matters: a newer deploy replaces an older or stuck one.
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
-          ref: main              # include the news commit when called right after it
+          ref: main
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 22
+          node-version: 24
 
       - name: Test calculations and data
         run: |
@@ -46,9 +46,9 @@ jobs:
           cp -r index.html sw.js manifest.webmanifest css js assets data _site/
           touch _site/.nojekyll
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

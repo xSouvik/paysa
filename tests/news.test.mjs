@@ -1,7 +1,15 @@
 // Run: node --test tests/
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { detectDA } from '../scripts/fetch-news.mjs';
+import { detectDA, isSpeculative } from '../scripts/fetch-news.mjs';
+
+test('guesswork headlines are flagged as speculation, facts are not', () => {
+  assert.equal(isSpeculative('DA Hike 2026: Central Govt Employees May Get 3% Increase From July', false), true);
+  assert.equal(isSpeculative('8th Pay Commission: When will salary hikes reach employees?', false), true);
+  assert.equal(isSpeculative('Dearness allowance: No DA hike decision in Union Cabinet meeting today', false), false);
+  assert.equal(isSpeculative('Railways notifies Unified Pension Scheme rules for NPS-covered employees', false), false);
+  assert.equal(isSpeculative('Cabinet may approve DA', true), false); // official sources are never marked speculation
+});
 
 // Wording of the real PIB release of 18 Apr 2026 (DA from 01.01.2026)
 const PIB_JAN_2026 = 'Cabinet approves additional instalment of Dearness Allowance to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.01.2026 Posted On: 18 APR 2026 3:14PM by PIB Delhi The Union Cabinet chaired by the Prime Minister has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.01.2026 representing an increase of 2% over the existing rate of 58% of the Basic Pay/Pension, to compensate against price rise.';

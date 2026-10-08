@@ -13,7 +13,17 @@ const RATES = new URL('../data/rates.json', import.meta.url);
 
 const branch = `da-${p.from}-${p.rate}`;
 if (run('git', ['ls-remote', '--heads', 'origin', branch])) {
-  console.log(`Proposal ${branch} already open. Nothing to do.`);
+  // Already proposed. If it has waited more than 3 days, post a reminder (at most once a day).
+  try {
+    const pr = JSON.parse(run('gh', ['pr', 'view', branch, '--json', 'number,createdAt,state,comments']));
+    const age = Date.now() - Date.parse(pr.createdAt);
+    const lastNote = Math.max(0, ...pr.comments.map(c => Date.parse(c.createdAt)));
+    if (pr.state === 'OPEN' && age > 3 * 864e5 && Date.now() - lastNote > 864e5) {
+      run('gh', ['pr', 'comment', String(pr.number), '--body', `⏰ Reminder: this DA update has been waiting ${Math.floor(age / 864e5)} days. Users still see the old rate until it is merged.`]);
+      console.log('Posted reminder on', pr.number);
+    }
+  } catch (err) { console.warn('Reminder skipped:', err.message); }
+  console.log(`Proposal ${branch} already open.`);
   process.exit(0);
 }
 

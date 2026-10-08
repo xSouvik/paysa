@@ -2,8 +2,9 @@
 // Collects news for Paysa and writes data/news.json. Runs on GitHub Actions (see .github/workflows/news.yml).
 //
 //  • Official: Press Information Bureau releases (pib.gov.in) matching pay/pension keywords.
-//  • Media: headlines from Google News searches. Only the headline, source name and link are kept,
-//    never article text.
+//  • Media: headlines from Google News searches. Only the headline, source name and the publisher's
+//    own link are kept (Google redirect links are resolved, so Google never sees what users open).
+//    Never article text. Guesswork headlines ("may get 3%", "when will…?") are flagged as speculation.
 //
 // If an official PIB release announces the pending DA instalment, this also writes
 // .paysa/da-proposal.json. The workflow turns that into a pull request for a human to approve.
@@ -23,6 +24,8 @@ const DRY = process.argv.includes('--dry');
 const MAX_ITEMS = 60;
 const MAX_AGE_DAYS = 120;
 const MAX_PIB_PAGES = 8;
+const MAX_PER_SOURCE = 6;      // stops one outlet's listicles from flooding the feed
+const MAX_RESOLVE = 60;        // Google link look-ups per run
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Safari/537.36';
 
 const PIB_FEED = 'https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3';
@@ -36,13 +39,16 @@ const QUERIES = [
   'CGHS central government employees',
   '"railway employees" bonus OR allowance OR pension',
   '"central government employees" HRA OR gratuity OR "leave encashment" OR increment',
+  // Public broadcasters (official): All India Radio and DD News
+  'site:newsonair.gov.in "central government" OR pensioners OR "pay commission" OR "dearness"',
+  'site:ddnews.gov.in "central government employees" OR pensioners OR "pay commission" OR "dearness"',
 ];
 
 // ---------- Relevance ----------
 const RELEVANT_EN = /dearness|\bDA\b|\bDR\b|pay commission|\bCPC\b|pension|\bNPS\b|\bUPS\b|\bOPS\b|CGHS|gratuity|allowance|increment|MACP|leave encashment|central (govt|government) (employees|staff)|railway (employees|staff)|productivity.linked bonus/i;
 const RELEVANT_HI = /महंगाई|पेंशन|वेतन आयोग|केंद्र(ीय)? सरकार के कर्मचारि|सीजीएचएस|रेलवे कर्मचारि|बोनस|भत्त/;
 // Skip state-government, bank and PSU pay stories: they don't apply to central employees
-const OFF_TOPIC = /\b(state (govt|government)s?|state-?wise|states|uttar pradesh|bihar|punjab|kerala|tamil nadu|west bengal|karnataka|rajasthan|maharashtra|telangana|andhra|odisha|gujarat|haryana|himachal|jharkhand|assam|goa|madhya pradesh|uttarakhand|chhattisgarh|tripura|manipur|meghalaya|mizoram|nagaland|sikkim|arunachal|j&k|jammu|ladakh|puducherry|bank employees|bank staff|LIC|EPFO|EPS-95|PSU|SBI|mla|mp salary)\b/i;
+const OFF_TOPIC = /\b(states?|state-?wise|uttar pradesh|bihar|punjab|kerala|tamil nadu|west bengal|karnataka|rajasthan|maharashtra|telangana|andhra|odisha|gujarat|haryana|himachal|jharkhand|assam|goa|madhya pradesh|uttarakhand|chhattisgarh|tripura|manipur|meghalaya|mizoram|nagaland|sikkim|arunachal|j&k|jammu|ladakh|puducherry|bank employees|bank staff|LIC|EPFO|EPS-95|PSU|SBI|mla|mp salary)\b/i;
 
 // Low-quality sites that regularly post misleading pay headlines. Add more here as they show up.
 const BLOCKED_SOURCES = /(^|\.)(timesbull\.com|jagrantv\.com|thenewsmill\.com)$/i;
@@ -61,6 +67,10 @@ const tagsFor = text => {
   const tags = TAG_RULES.filter(([, re]) => re.test(text)).map(([t]) => t);
   return (tags.length ? tags : ['Pay']).filter(t => NEWS_TAGS.includes(t)).slice(0, 3);
 };
+
+// Guesswork rather than news: predictions, questions, "check how much" explainers, clickbait.
+const SPECULATION = /\?|\b(may|might|likely|could|expected|expect|expecting|possible|possibly|set to|soon|when will|what to expect|predict\w*|projected|estimate[sd]?|calculator|check (how|salary|new|details|impact|trends?|here)|know (how|salary|impact|details)|big update|good news|bumper|jackpot|top \d+|rumou?r|demand\w*|urge[sd]?|seek\w*)\b/i;
+export const isSpeculative = (title, official) => !official && SPECULATION.test(title);
 
 // A headline like "Cabinet approves 2% DA hike" that matches the last hike already in rates.json is
 // almost always the old announcement resurfacing with a new date. Skip those unless PIB confirms a new one.
@@ -95,6 +105,37 @@ async function get(url) {
   return res.text();
 }
 
+// Google News RSS links are redirects through Google. Resolve them to the publisher's own URL.
+const isGoogle = u => { try { return new URL(u).hostname.endsWith('news.google.com'); } catch { return false; } };
+export async function resolveGoogle(url) {
+  const id = new URL(url).pathname.split('/').pop();
+  const page = await get(`https://news.google.com/articles/${id}`);
+  const sg = (page.match(/data-n-a-sg="([^"]+)"/) || [])[1];
+  const ts = (page.match(/data-n-a-ts="([^"]+)"/) || [])[1];
+  if (!sg || !ts) throw new Error('no signature');
+  const inner = ['garturlreq', [['X', 'X', ['X', 'X'], null, null, 1, 1, 'US:en', null, 1, null, null, null, null, null, 0, 1], 'X', 'X', 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0], id, Number(ts), sg];
+  const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
+    method: 'POST', signal: AbortSignal.timeout(20000),
+    headers: { 'content-type': 'application/x-www-form-urlencoded;charset=UTF-8', 'user-agent': UA },
+    body: 'f.req=' + encodeURIComponent(JSON.stringify([[['Fbv4je', JSON.stringify(inner), null, 'generic']]])),
+  });
+  const arr = JSON.parse((await res.text()).split('\n\n')[1]);
+  const out = JSON.parse(arr[0][2])[1];
+  if (!isHttps(out) || isGoogle(out)) throw new Error('bad target');
+  return out;
+}
+
+async function resolveAll(list) {
+  const todo = list.filter(i => isGoogle(i.url)).slice(0, MAX_RESOLVE);
+  let ok = 0;
+  for (let i = 0; i < todo.length; i += 4) {
+    await Promise.all(todo.slice(i, i + 4).map(async it => {
+      try { it.url = await resolveGoogle(it.url); ok++; } catch { /* stays unresolved → dropped below */ }
+    }));
+  }
+  if (todo.length) console.log(`Resolved ${ok}/${todo.length} Google links to publisher URLs`);
+}
+
 // ---------- Sources ----------
 async function fromGoogleNews() {
   const out = [];
@@ -113,7 +154,7 @@ async function fromGoogleNews() {
         try { host = new URL(sourceUrl).hostname; } catch { /* ignore */ }
         if (BLOCKED_SOURCES.test(host)) continue;
         out.push({
-          title: cap(title, 240), source: cap(source || host || 'News', 60), url, date: date.toISOString(),
+          title: cap(title, 240), source: cap(/^https?:/i.test(source) || !source ? host.replace(/^www\./, '') || 'News' : source, 60), url, date: date.toISOString(),
           official: /(\.gov\.in|\.nic\.in|pfrda\.org\.in)$/.test(host), tags: tagsFor(title),
         });
       }
@@ -218,15 +259,24 @@ async function main() {
 
   const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
   const now = Date.now() + 864e5;                // ignore obviously future-dated items
-  const all = [...fresh, ...existing.items]
+  const candidates = [...fresh, ...existing.items]
     .filter(i => Date.parse(i.date) > cutoff && Date.parse(i.date) < now)
-    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+    .filter(i => i.official || !OFF_TOPIC.test(i.title))   // re-check older items when filters improve
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+  if (!DRY) await resolveAll(candidates.slice(0, MAX_ITEMS * 2));
+  const perSource = {};
+  const all = candidates
+    .filter(i => !isGoogle(i.url))               // never publish a Google redirect link
+    .filter(i => (perSource[i.source] = (perSource[i.source] || 0) + 1) <= MAX_PER_SOURCE)
+    .map(i => ({ ...i, speculative: isSpeculative(i.title, i.official) }))
     .slice(0, MAX_ITEMS);
+  console.log(`Speculation flagged: ${all.filter(i => i.speculative).length}/${all.length}`);
 
   const next = { schema: 1, updated: new Date().toISOString(), items: all };
   const problems = validateNews(next);
   if (problems.length) { console.error('News failed validation:\n' + problems.join('\n')); process.exit(1); }
-  const oldIds = existing.items.map(i => i.id).join(), newIds = all.map(i => i.id).join();
+  const sig = list => list.map(i => `${i.id}|${i.url}|${i.speculative}`).join();
+  const oldIds = sig(existing.items), newIds = sig(all);
   const added = all.filter(i => !existing.items.some(o => o.id === i.id)).length;
   console.log(`Stories added to the feed: ${added}, total kept: ${all.length}`);
 
