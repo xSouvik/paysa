@@ -1,7 +1,57 @@
 {
   "schema": 1,
-  "updated": "2026-10-08T08:42:06.694Z",
+  "updated": "2026-10-08T13:29:29.357Z",
   "items": [
+    {
+      "id": "nd0m65",
+      "title": "CAPF vs Government: Why OPS, ₹5,400 Grade Pay and OGAS Remain Unresolved Despite Court Victories",
+      "source": "Indianmasterminds",
+      "url": "https://indianmasterminds.com/news/capf-ops-5400-grade-pay-ogas-court-verdicts-unresolved-240441/",
+      "date": "2026-10-08T11:34:46.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "k9lxar",
+      "title": "Meet the 8th Pay Commission in Mumbai? Apply by 10 October",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/8th-pay-commission-mumbai-visit-october-2026-how-to-apply",
+      "date": "2026-10-08T11:08:54.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "jkuwt0",
+      "title": "8th Pay Commission Latest News: Bengaluru Meetings Underway, Mumbai Visit Next; What Employees and Pensioners Should Know",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-bengaluru-meetings-underway-mumbai-visit-next-what-employees-and-pensioners-should-know-301368/",
+      "date": "2026-10-08T10:59:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "h19v9s",
+      "title": "Productivity Linked Bonus (PLB) for the financial year 2025-26 - Circulation of fake/fabricated letter: Clarification by Railway Board",
+      "source": "8th Pay Commission - Staff News",
+      "url": "https://www.staffnews.in/2026/10/productivity-linked-bonus-plb-for-2025-26-railway-board-on-fake-letter.html",
+      "date": "2026-10-08T09:14:34.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "sozj9z",
       "title": "8th Pay Commission DA calculator: What 25% dearness allowance may mean for Level6-8 employees",
@@ -175,6 +225,18 @@
       "tags": [
         "8th CPC",
         "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "i0s4ca",
+      "title": "8th Pay Commission Bengaluru Update: Key meeting today, check who can apply and the deadline here",
+      "source": "India.com",
+      "url": "https://www.india.com/business/8th-pay-commission-dearness-allowance-finance-ministry-nirmala-sitharaman-karnataka-nic-platform-retired-civil-defence-railway-medical-insurance-8533588/amp/",
+      "date": "2026-10-07T04:09:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
       ],
       "speculative": false
     },
@@ -692,70 +754,6 @@
       "source": "LatestLY",
       "url": "https://www.latestly.com/india/news/da-hike-2027-dearness-allowance-may-rise-to-67-know-how-much-salary-could-increase-7632162.html",
       "date": "2026-10-04T09:45:34.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1g4k76q",
-      "title": "8th Pay Commission Delay: How Much Arrears Could You Get For Rs 50,000 Basic Salary",
-      "source": "ABP Live English",
-      "url": "https://news.abplive.com/business/8th-pay-commission-delay-how-much-arrears-could-you-get-for-rs-50000-basic-salary-1869674",
-      "date": "2026-10-04T07:59:15.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1fwech9",
-      "title": "DA Hike Update: Salary Expected To Increase By 67% By 2027 Read On",
-      "source": "Menafn",
-      "url": "https://menafn.com/1111756802/DA-Hike-Update-Salary-Expected-To-Increase-By-67-By-2027-Read-On",
-      "date": "2026-10-04T07:16:39.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "18ci93r",
-      "title": "8th Pay Commission: Bengaluru, Mumbai Meetings In October; What Employees And Pensioners Need To Know",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-bengaluru-mumbai-meetings-in-october-what-employees-and-pensioners-need-to-know-article-156271276",
-      "date": "2026-10-04T07:12:46.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "xk0pws",
-      "title": "DA Hike 2026: Will Government Employees Get Another Increase Around Diwali?",
-      "source": "News18",
-      "url": "https://www.news18.com/photogallery/india/da-hike-2026-will-government-employees-get-another-increase-around-diwali-shil-ws-l-10359005.html",
-      "date": "2026-10-03T23:30:00.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "12oq1wp",
-      "title": "Dearness Allowance Update: Central Government Likely To Announce DA Hike Before Dussehra",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/dearness-allowance-update-central-government-likely-to-announce-da-hike-before-dussehra-7631346.html",
-      "date": "2026-10-03T12:54:16.000Z",
       "official": false,
       "tags": [
         "DA",
