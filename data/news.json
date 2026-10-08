@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-10-08T13:29:29.357Z",
+  "updated": "2026-10-08T23:21:13.933Z",
   "items": [
+    {
+      "id": "1h4yn2n",
+      "title": "Fake Railway Board Letter on Productivity Linked Bonus Circulated on Social Media; Railways Issues Clarification",
+      "source": "Punekar News",
+      "url": "https://www.punekarnews.in/fake-railway-board-letter-on-productivity-linked-bonus-circulated-on-social-media-railways-issues-clarification/",
+      "date": "2026-10-08T15:24:43.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "nd0m65",
       "title": "CAPF vs Government: Why OPS, ₹5,400 Grade Pay and OGAS Remain Unresolved Despite Court Victories",
@@ -11,6 +24,18 @@
       "official": false,
       "tags": [
         "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1btbsc0",
+      "title": "July DA: no Cabinet order yet, formula says 63%",
+      "source": "indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/da-july-2026-status-63-percent-cabinet-approval-pending",
+      "date": "2026-10-08T11:08:54.000Z",
+      "official": false,
+      "tags": [
+        "DA"
       ],
       "speculative": false
     },
@@ -51,6 +76,20 @@
         "Pay"
       ],
       "speculative": false
+    },
+    {
+      "id": "bhprk0",
+      "title": "8th Pay Commission DA calculator: Why Level 8 employees' salary may reach Rs 1.53 lakh with 25% DA",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-da-salary-fitment-factor-calculator-25-dearness-allowance-estimates-for-level-6-8-employees/articleshow/134782713.cms",
+      "date": "2026-10-08T07:37:58.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "sozj9z",
@@ -675,18 +714,6 @@
       "speculative": false
     },
     {
-      "id": "1b7lszt",
-      "title": "8th Pay Commission arrear calculator: Level 7 employees may lose up to Rs 3.32 lakh due to delay",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-arrear-calculator-level-7-employees-may-lose-up-to-rs-3-32-lakh-due-to-delay/slideshow/134688858.cms",
-      "date": "2026-10-05T06:50:58.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
       "id": "7827nn",
       "title": "8th Pay Commission Arrears: How Much Back Pay Will You Get If The Rollout Is Delayed?",
       "source": "Asianet Newsable",
@@ -735,31 +762,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "13b6cdj",
-      "title": "8th Pay Commission holds consultations in Oct | Tap to know more | Inshorts",
-      "source": "Inshorts",
-      "url": "https://inshorts.com/en/amp_news/8th-pay-commission-holds-consultations-in-oct-1791121107231",
-      "date": "2026-10-04T13:41:04.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1qrula2",
-      "title": "DA Hike 2027: Dearness Allowance May Rise to 67%, Know How Much Salary Could Increase",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/da-hike-2027-dearness-allowance-may-rise-to-67-know-how-much-salary-could-increase-7632162.html",
-      "date": "2026-10-04T09:45:34.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
