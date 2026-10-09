@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "updated": "2026-10-08T23:21:13.933Z",
+  "updated": "2026-10-09T06:08:36.447Z",
   "items": [
+    {
+      "id": "gwhane",
+      "title": "Indian Railways warns against fake bonus letter; ₹41,149 productivity linked bonus claim is fabricated",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/indian-railways-warns-against-fake-bonus-letter-rs-41149-productivity-linked-bonus-claim-is-fabricated/article-201563/",
+      "date": "2026-10-09T03:10:11.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "z4uc9a",
+      "title": "8th Pay Commission salary: How 3.833x vs 4x fitment factors could mean ₹3,006 monthly basic-pay gap",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-how-3-833x-vs-4x-fitment-factors-could-mean-3-006-monthly-basic-pay-gap-11791510361724.html",
+      "date": "2026-10-09T02:33:59.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1e2dzqt",
+      "title": "CGHS Chennai – Fresh empanelment of PGS Hospital, Coimbatore with effect from 23/09/2026 for a period of three years",
+      "source": "8th Pay Commission - Staff News",
+      "url": "https://www.staffnews.in/2026/10/cghs-chennai-fresh-empanelment-of-pgs-hospital.html",
+      "date": "2026-10-09T00:43:29.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
     {
       "id": "1h4yn2n",
       "title": "Fake Railway Board Letter on Productivity Linked Bonus Circulated on Social Media; Railways Issues Clarification",
@@ -701,17 +739,16 @@
       "speculative": false
     },
     {
-      "id": "13v1xt8",
-      "title": "Variable dearness allowance hike from October 1: Check revised minimum wages for workers across categories",
+      "id": "1n3tqfe",
+      "title": "8th Pay Commission arrear calculator: Level 7 employees may lose up to Rs 3.32 lakh due to delay",
       "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/variable-dearness-allowance-hike-from-october-1-check-revised-minimum-wages-for-workers-across-categories/articleshow/134688971.cms",
-      "date": "2026-10-05T07:17:33.000Z",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-arrear-calculator-level-7-employees-may-lose-up-to-rs-3-32-lakh-due-to-delay/8th-pay-commission-arrear-calculator-why-implementation-delay-could-reduce-employees-gains/slideshow/134688858.cms",
+      "date": "2026-10-05T07:32:56.000Z",
       "official": false,
       "tags": [
-        "DA",
-        "Pay"
+        "8th CPC"
       ],
-      "speculative": false
+      "speculative": true
     },
     {
       "id": "7827nn",
@@ -724,44 +761,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "1k9uq83",
-      "title": "8th Pay Commission News: Bengaluru, Mumbai Meetings In October; What Employees And Pensioners Need To Know",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-bengaluru-mumbai-meetings-in-october-what-employees-and-pensioners-need-to-know-article-156271276",
-      "date": "2026-10-05T04:30:07.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "v96i8o",
-      "title": "Old Pension Scheme: Calcutta HC says employees cannot lose pension benefits over a technical job-switching lapse",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/old-pension-scheme-calcutta-hc-says-employees-cannot-lose-pension-benefits-over-a-technical-job-switching-lapse/amp-11791168273569.html",
-      "date": "2026-10-05T02:55:15.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "126zhtu",
-      "title": "डॉ. जितेंद्र सिंह 5 अक्टूबर 2026 को नई दिल्ली स्थित आईआईपीए में आयोजित होने वाली 17वीं पेंशन अदालत की अध्यक्षता करेंगे",
-      "summary": "पेंशन अदालत केंद्रीय सरकारी पेंशनभोगियों की शिकायतों के तत्काल निवारण के लिए पेंशन एवं पेंशनभोगी कल्याण विभाग द्वारा शुरू की गई एक अभिनव पहल है। यह एक साझा मंच प्रदान करती है जहाँ किसी विशेष प्रकार की शिकायत से संबंधित…",
-      "source": "PIB",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2318952",
-      "date": "2026-10-04T21:24:49.036Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
