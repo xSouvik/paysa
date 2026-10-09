@@ -1,7 +1,136 @@
 {
   "schema": 1,
-  "updated": "2026-10-09T06:08:36.447Z",
+  "updated": "2026-10-09T13:17:07.139Z",
   "items": [
+    {
+      "id": "ys5pof",
+      "title": "8th Pay Commission: When can government employees expect salary hikes? Check report timeline",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-when-can-government-employees-expect-salary-hikes-check-report-timeline-11791544307082.html",
+      "date": "2026-10-09T11:42:14.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "l04imi",
+      "title": "How DA is worked out: 60% of basic pay, nothing else",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/da-calculation-60-percent-basic-pay-2026",
+      "date": "2026-10-09T11:28:16.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1wtow0n",
+      "title": "DA Hike 2026: How Much Will Salaries Increase if Dearness Allowance Rises to 63%? Will Employees Have to Wait Until Diwali?",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/da-hike-2026-how-much-will-salaries-increase-if-dearness-allowance-rises-to-63-will-employees-have-to-wait-until-diwali/",
+      "date": "2026-10-09T11:00:55.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1dnn3yb",
+      "title": "8th Pay Commission: Will There Be A Big Salary Jump Like the 7th? Here’s Why a 60% Hike Is Being Discussed",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-will-employees-see-another-big-salary-jump-like-the-7th-here-s-why-a-60-hike-1521431.html",
+      "date": "2026-10-09T10:41:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "15s81a5",
+      "title": "Has government released Rs 41,000 as annual bonus for Railway employees? Here’s the truth",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/has-government-released-rs-41000-as-annual-bonus-for-railway-employees-heres-the-truth/articleshow/134822855.cms",
+      "date": "2026-10-09T08:04:04.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1382uoz",
+      "title": "8th Pay Commission: Will Rs 18,000 Basic Salary Increase Now? New Fitment Factor Updates",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-bengaluru-meeting-updates-on-salary-hike-and-fitment-factor-kw0xzh6",
+      "date": "2026-10-09T07:26:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "fclef8",
+      "title": "8th Pay Commission: 15-Year Pension Rule May Be Cut To 10-12 Years What Pensioners Should Know",
+      "source": "ABP Live English",
+      "url": "https://news.abplive.com/business/personal-finance/8th-pay-commission-15-year-pension-rule-could-be-changed-what-pensioners-should-know-1870555",
+      "date": "2026-10-09T07:03:34.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "sfhw41",
+      "title": "8th Pay Commission: 8th CPC to visit Mumbai on October 22-23 — what employees and pensioners should know",
+      "source": "Zee Business",
+      "url": "https://www.zeebiz.com/personal-finance/news-8th-pay-commission-8th-cpc-to-visit-mumbai-on-october-22-and-23-what-employees-and-pensioners-should-know-403650",
+      "date": "2026-10-09T07:01:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "z664nh",
+      "title": "Railway Employees Bonus: PIB Fact Check Flags Viral FY 2025-26 PLB Letter As Fake",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/news/railway-employees-bonus-pib-fact-check-flags-viral-fy-2025-26-plb-letter-as-fake",
+      "date": "2026-10-09T05:48:26.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "psdlfw",
+      "title": "Public Funds Used For Employee's LTC, CGHS Reimbursement Don't Justify Disclosure Of Personal Details...",
+      "source": "Live Law",
+      "url": "https://www.livelaw.in/amp/high-court/delhi-high-court/public-funds-used-for-employees-ltc-cghs-reimbursement-dont-justify-disclosure-of-personal-details-under-rti-553796",
+      "date": "2026-10-09T04:00:35.000Z",
+      "official": false,
+      "tags": [
+        "CGHS",
+        "Leave"
+      ],
+      "speculative": false
+    },
     {
       "id": "gwhane",
       "title": "Indian Railways warns against fake bonus letter; ₹41,149 productivity linked bonus claim is fabricated",
@@ -217,6 +346,19 @@
       "speculative": true
     },
     {
+      "id": "1hk3g1w",
+      "title": "8th Pay Commission, Salary Hike, Calculator, Fitment Factor",
+      "source": "Vajiram & Ravi",
+      "url": "https://vajiramandravi.com/upsc-exam/8th-pay-commission/",
+      "date": "2026-10-07T10:30:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
       "id": "34ui4o",
       "title": "Pensioners Demand National Minimum Pension to Parallel 2027 Wage Review",
       "source": "https://streamlinefeed.co.ke/",
@@ -266,6 +408,19 @@
         "8th CPC"
       ],
       "speculative": true
+    },
+    {
+      "id": "fjq9kp",
+      "title": "Delhi High Court Refuses RTI Disclosure Of Employee’s LTC, CGHS Records, Says Public Funds Alone Insufficient",
+      "source": "LawChakra",
+      "url": "https://lawchakra.in/high-court/delhi-high-court/delhi-hc-rti-ltc-cghs/",
+      "date": "2026-10-07T07:00:00.000Z",
+      "official": false,
+      "tags": [
+        "CGHS",
+        "Leave"
+      ],
+      "speculative": false
     },
     {
       "id": "3s7e05",
@@ -611,156 +766,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "otqn56",
-      "title": "Central Government Revises Variable Dearness Allowance; Check New Minimum Wages Effective October 1",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/central-government-revises-variable-dearness-allowance-check-new-minimum-wages-effective-october-1-7633632.html",
-      "date": "2026-10-05T13:53:09.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ir1111",
-      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-april-fitment-factor-pensions-salary-hike-implementation-date-details-1501975.html",
-      "date": "2026-10-05T13:39:38.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "nblk2h",
-      "title": "HRA rules for central govt employees: This condition may affect your claim",
-      "source": "financialexpress.com",
-      "url": "https://www.financialexpress.com/money/hra-rules-for-central-govt-employees-this-condition-may-affect-your-claim-4354035/",
-      "date": "2026-10-05T12:19:11.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1sgc9k1",
-      "title": "8th Pay Commission Latest News: Bengaluru Meeting on October 7-8; Fitment Factor, Salary Hike and Pension Update",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-bengaluru-meeting-on-october-7-8-fitment-factor-salary-hike-and-pension-update-299327/",
-      "date": "2026-10-05T11:57:52.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1hj7pu7",
-      "title": "8th Pay Commission Update: Central Govt Employees Could Lose Rs 3.32 Lakh Over Delay",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-delay-central-govt-employees-could-lose-up-to-rs-3-32-lakh-know-why-o3e6zbe",
-      "date": "2026-10-05T11:22:52.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "dyu39i",
-      "title": "Technical Lapse Cannot Deny Old Pension Scheme Benefits To Eligible Employee, Says Calcutta High Court",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/technical-lapse-cannot-deny-old-pension-scheme-benefits-to-eligible-employee-says-calcutta-high-court",
-      "date": "2026-10-05T10:33:20.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "57arl",
-      "title": "8th Pay Commission Delay Could Cost Level 7 Central Government Employees up to INR 3.32 Lakh in Lost",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/8th-pay-commission-delay-could-cost-level-7-central-government-employees-up-to-inr-3-32-lakh-in-lost-allowance-arrears-7633259.html",
-      "date": "2026-10-05T09:47:51.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "mriqmn",
-      "title": "8th Pay Commission calculator: What can Level 6-8 salaries be at 2.0, 2.15, 2.28 and 2.57 fitment factors?",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-factor-calculator-can-level-6-8-employees-salaries-reach-up-to-rs-1-22-lakh/month-at-2-57-fitment-factor/articleshow/134694319.cms",
-      "date": "2026-10-05T09:38:55.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "31nucx",
-      "title": "Variable Dearness Allowance revised from Oct 1: Check new minimum wages for construction, agriculture and other workers",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/variable-dearness-allowance-revised-from-oct-1-check-new-minimum-wages-for-construction-agriculture-and-other-workers-11791189261164.html",
-      "date": "2026-10-05T08:45:58.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "11ykj2w",
-      "title": "8th Pay Commission update: New exercise begins across central government offices",
-      "source": "financialexpress.com",
-      "url": "https://www.financialexpress.com/money/8th-pay-commission-update-new-exercise-begins-across-central-government-offices-4353882/",
-      "date": "2026-10-05T08:45:20.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1n3tqfe",
-      "title": "8th Pay Commission arrear calculator: Level 7 employees may lose up to Rs 3.32 lakh due to delay",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-arrear-calculator-level-7-employees-may-lose-up-to-rs-3-32-lakh-due-to-delay/8th-pay-commission-arrear-calculator-why-implementation-delay-could-reduce-employees-gains/slideshow/134688858.cms",
-      "date": "2026-10-05T07:32:56.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "7827nn",
-      "title": "8th Pay Commission Arrears: How Much Back Pay Will You Get If The Rollout Is Delayed?",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-arrears-calculation-for-50000-basic-salary-0glgxgx",
-      "date": "2026-10-05T05:24:02.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
