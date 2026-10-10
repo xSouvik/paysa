@@ -1,7 +1,58 @@
 {
   "schema": 1,
-  "updated": "2026-10-10T05:52:57.663Z",
+  "updated": "2026-10-10T12:32:04.995Z",
   "items": [
+    {
+      "id": "1wua1hj",
+      "title": "8th Pay Commission: IRTSA seeks fitment factor of 4.38, 5% annual increment for railway supervisors",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-irtsa-seeks-fitment-factor-of-4-38-5-annual-increment-for-railway-supervisors-11791624221445.html",
+      "date": "2026-10-10T09:54:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "65ihwz",
+      "title": "New Delhi Centre for Sight, Gorakhpur- Empanelment under CGHS, Lucknow for 3 years from 07.10.2026",
+      "source": "8th Pay Commission - Staff News",
+      "url": "https://www.staffnews.in/2026/10/new-delhi-centre-for-sight-gorakhpur.html",
+      "date": "2026-10-10T07:32:24.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1miqvf5",
+      "title": "Abhinav Drishti Hospital, Lucknow-Empanelment under CGHS, Lucknow for 3 years from 07.10.2026",
+      "source": "8th Pay Commission - Staff News",
+      "url": "https://www.staffnews.in/2026/10/abhinav-drishti-hospital-lucknow.html",
+      "date": "2026-10-10T07:22:34.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "11qrzm3",
+      "title": "8th Pay Commission: Panel to visit Mumbai on October 22-23; when will fitment factor and salary hike be finalised? Check expected timeline",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-panel-to-visit-mumbai-on-october-22-23-when-will-fitment-factor-and-salary-hike-be-finalised-check-expected-timeline-article-156308951",
+      "date": "2026-10-10T07:12:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1nzln1t",
       "title": "8th Pay Commission News: How Basic Pay Could Rise Under 3.25 and 3.833 Fitment Factors",
@@ -38,6 +89,18 @@
         "8th CPC"
       ],
       "speculative": true
+    },
+    {
+      "id": "17zt2n9",
+      "title": "Jitendra Singh to address 2nd National Workshop on Pension Litigation in New Delhi on July 18",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/jitendra-singh-to-address-2nd-national-workshop-on-pension-litigation-in-new-delhi-on-july-18/",
+      "date": "2026-10-09T18:52:53.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
     },
     {
       "id": "198p838",
@@ -163,6 +226,18 @@
       "official": false,
       "tags": [
         "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1h9uq8n",
+      "title": "Jitendra Singh calls for review of pension rules to reduce litigation, strengthen pensioners’ welfare",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/jitendra-singh-calls-for-review-of-pension-rules-to-reduce-litigation-strengthen-pensioners-welfare/",
+      "date": "2026-10-09T06:53:11.000Z",
+      "official": true,
+      "tags": [
         "Pension"
       ],
       "speculative": false
@@ -575,19 +650,6 @@
       "speculative": false
     },
     {
-      "id": "1j46fq3",
-      "title": "Instalment of Dearness Allowance and Dearness Relief due from 1st July 2026: Confederation requests to FinMin for early processing and announcement",
-      "source": "8th Pay Commission - Staff News",
-      "url": "https://www.staffnews.in/2026/10/instalment-of-dearness-allowance-and-dearness-relief-due-from-1st-july-2026.html",
-      "date": "2026-10-07T03:00:59.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1mhuhae",
       "title": "8th Pay Commission Bengaluru meeting today: 5 latest updates central govt employees need to know",
       "source": "Livemint",
@@ -699,70 +761,6 @@
       "official": false,
       "tags": [
         "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1qiw5ue",
-      "title": "Dearness allowance: No DA hike decision in Union Cabinet meeting today",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-no-da-hike-decision-in-union-cabinet-meeting-today/article-201365/",
-      "date": "2026-10-06T10:02:25.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1tywzkl",
-      "title": "17th Pension Adalat to be Held in New Delhi Tomorrow",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/17th-pension-adalat-to-be-held-in-new-delhi-tomorrow/",
-      "date": "2026-10-06T09:29:46.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "wjmz5j",
-      "title": "8th Pay Commission Latest News: Bengaluru, Mumbai Meetings Ahead; When Can Employees Expect Salary, DA And Pension Revision? Check Timeline",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-bengaluru-mumbai-meetings-ahead-when-can-employees-expect-salary-da-and-pension-revision-check-timeline-299951/",
-      "date": "2026-10-06T09:08:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "xjpioq",
-      "title": "99 healthcare facilities across Delhi-NCR de-empanelled under CGHS",
-      "source": "Medical Dialogues",
-      "url": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/99-healthcare-facilities-across-delhi-ncr-de-empanelled-under-cghs-180616",
-      "date": "2026-10-06T09:00:08.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "lyqwds",
-      "title": "8th Pay Commission: When Will Salary Hike Come? Report Due In 2027; What Employees Can Expect",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-when-will-salary-hike-come-report-due-in-2027-what-employees-can-expect-1539435.html",
-      "date": "2026-10-06T08:58:50.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
         "Pay"
       ],
       "speculative": true
