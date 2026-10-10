@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-10-10T12:32:04.995Z",
+  "updated": "2026-10-10T21:44:06.127Z",
   "items": [
+    {
+      "id": "1caa7b0",
+      "title": "Govt employees, pensioners lay siege to CM's Sangrur residence over OPS, DA dues",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/govt-employees-pensioners-lay-siege-to-cms-sangrur-residence-over-ops-da-dues/articleshow/134859793.cms",
+      "date": "2026-10-10T18:22:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1l421ux",
+      "title": "8th Pay Commission: Pensioners’ Body Seeks Rs 69,000 Minimum Pay, Rs 34,470 Minimum Pension",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/news/8th-pay-commission-pensioners-body-seeks-rs-69000-minimum-pay-rs-34470-minimum-pension",
+      "date": "2026-10-10T10:41:04.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "1wua1hj",
       "title": "8th Pay Commission: IRTSA seeks fitment factor of 4.38, 5% annual increment for railway supervisors",
@@ -12,6 +38,19 @@
       "tags": [
         "8th CPC",
         "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1i2iy8g",
+      "title": "8th Pay Commission Good News Likely From April 28-30? Fitment Factor At 4, Salary Hike To Rs 72,000; Know More",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-likely-between-april-28-30-fitment-factor-at-4-salary-hike-rs-72000-pm-1504639.html",
+      "date": "2026-10-10T07:58:14.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
         "Pay"
       ],
       "speculative": true
@@ -114,6 +153,19 @@
         "Pay"
       ],
       "speculative": true
+    },
+    {
+      "id": "12fdq5s",
+      "title": "8th Pay Commission Update🔥| Salary Structure : L-1 to L-24 New Pay Matrix & Fitment Factor Details",
+      "source": "YouTube",
+      "url": "https://youtu.be/jRvm3fx0PVE",
+      "date": "2026-10-09T13:49:16.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "ys5pof",
@@ -436,6 +488,19 @@
       "speculative": false
     },
     {
+      "id": "1sq6mce",
+      "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-pay-matrix-salary-hike-by-92-to-285-from-rs-18000-basic-pay-8-cpc-fitment-factor-1514341.html",
+      "date": "2026-10-08T07:00:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "3yn0o",
       "title": "EPF wage ceiling raised to ₹25,000: What changes for your salary, PF and pension?",
       "source": "The Economic Times",
@@ -699,71 +764,6 @@
         "8th CPC"
       ],
       "speculative": false
-    },
-    {
-      "id": "1pf0zbu",
-      "title": "Delhi Jal Board Rolls Out Cashless Medical Facility for 50,000 Pensioners",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/delhi-jal-board-rolls-out-cashless-medical-facility-for-50000-pensioners/",
-      "date": "2026-10-06T12:41:12.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "16ixzpk",
-      "title": "8th Pay Commission: Productivity-linked Bonus changes for non-gazetted Railway employees; key demands explained",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-productivity-linked-bonus-for-non-gazetted-railway-employees-key-demands-explained/article-201381/",
-      "date": "2026-10-06T11:19:54.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1q301rz",
-      "title": "8th Pay Commission: Productivity-linked Bonus for non-gazetted Railway employees; key demands explained",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-productivity-linked-bonus-for-non-gazetted-railway-employees-key-demands-explained/article-201381/",
-      "date": "2026-10-06T11:19:54.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1cwkmkp",
-      "title": "DA Arrears",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/tag/da-arrears/",
-      "date": "2026-10-06T10:26:48.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "7j7lq5",
-      "title": "7th Pay Commission DA Hike: Central Employees May Get 3% Increase, Know Salary Impact",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/7th-pay-commission-da-hike-central-employees-may-get-3-increase-know-salary-impact/",
-      "date": "2026-10-06T10:26:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
