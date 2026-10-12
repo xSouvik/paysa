@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-10-11T12:50:07.476Z",
+  "updated": "2026-10-12T05:58:15.475Z",
   "items": [
+    {
+      "id": "2xjf9v",
+      "title": "DA news: What are the types of dearness allowance, how is it calculated and revised? Here are top FAQs answered",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/da-news-types-dearness-allowance-industrial-variable-how-formula-calculate-aicpi-data-twice-annual-revised-faqs-answered-11791780141241.html",
+      "date": "2026-10-12T05:22:32.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "o9evnq",
+      "title": "8th Pay Commission Big Update: DA hikes strengthen demand for higher Fitment Factor of government employees",
+      "source": "India.com",
+      "url": "https://www.india.com/business/8th-pay-commission-da-hike-dearness-allowance-fitness-factor-cpc-finance-ministry-nirmala-sitharaman-ranjana-prakash-desai-narendra-modi-8535201/amp/",
+      "date": "2026-10-12T05:15:54.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "hccjg1",
+      "title": "8th Pay Commission: DA rise over past few years fuels demands for higher fitment factor",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-da-rise-over-past-few-years-fuels-demands-for-higher-fitment-factor-11791768654638.html",
+      "date": "2026-10-12T02:10:17.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "n1dz50",
       "title": "8th Pay Commission: How Dearness Allowance jump from 46% to 60% is shaping fitment factor demands",
@@ -315,19 +354,6 @@
       "speculative": false
     },
     {
-      "id": "ys5pof",
-      "title": "8th Pay Commission: When can government employees expect salary hikes? Check report timeline",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-when-can-government-employees-expect-salary-hikes-check-report-timeline-11791544307082.html",
-      "date": "2026-10-09T11:42:14.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1kzjwh4",
       "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
       "source": "DD News",
@@ -479,19 +505,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "z4uc9a",
-      "title": "8th Pay Commission salary: How 3.833x vs 4x fitment factors could mean ₹3,006 monthly basic-pay gap",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-how-3-833x-vs-4x-fitment-factors-could-mean-3-006-monthly-basic-pay-gap-11791510361724.html",
-      "date": "2026-10-09T02:33:59.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     },
     {
       "id": "1e2dzqt",
@@ -757,18 +770,6 @@
       "tags": [
         "8th CPC",
         "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "34ui4o",
-      "title": "Pensioners Demand National Minimum Pension to Parallel 2027 Wage Review",
-      "source": "https://streamlinefeed.co.ke/",
-      "url": "https://streamlinefeed.co.ke/news/pensioners-demand-national-minimum-pension-to-parallel-2027-wage-review",
-      "date": "2026-10-07T09:54:19.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
       ],
       "speculative": true
     }
