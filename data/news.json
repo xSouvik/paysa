@@ -1,7 +1,31 @@
 {
   "schema": 1,
-  "updated": "2026-10-12T15:25:36.556Z",
+  "updated": "2026-10-13T00:39:46.943Z",
   "items": [
+    {
+      "id": "58vef6",
+      "title": "8th Pay Commission Latest Update: Status and Fitment Factor",
+      "source": "RVCJ Media",
+      "url": "https://www.rvcj.com/8th-pay-commission-latest-update/",
+      "date": "2026-10-12T17:37:48.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1dmwi7d",
+      "title": "DA Hike 2026: Will central govt increase DA and DR ahead of Dussehra? AIDEF urges Cabinet Secretary, finance ministry to act soon",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/da-hike-2026-will-central-government-increase-da-and-dearness-allowance-ahead-of-dussehra-aidef-urges-cabinet-secretary-finance-ministry-to-act-soon-article-156324403",
+      "date": "2026-10-12T14:20:33.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
     {
       "id": "1markr4",
       "title": "DA Hike 2026: Will Employees Get 63% DA? AIDEF Seeks Early Announcement",
@@ -749,32 +773,6 @@
         "8th CPC"
       ],
       "speculative": false
-    },
-    {
-      "id": "1sq6mce",
-      "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-pay-matrix-salary-hike-by-92-to-285-from-rs-18000-basic-pay-8-cpc-fitment-factor-1514341.html",
-      "date": "2026-10-08T07:00:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "k0sug3",
-      "title": "DA Hike 2026 Updates: Will Central Government Employees Get Dearness Allowance Hike Before Holi? Check Trends",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/da-hike-2026-updates-will-central-government-employees-get-dearness-allowance-hike-before-holi-check-1491427.html",
-      "date": "2026-10-08T02:44:37.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
