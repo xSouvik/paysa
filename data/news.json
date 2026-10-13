@@ -1,7 +1,35 @@
 {
   "schema": 1,
-  "updated": "2026-10-13T14:11:57.099Z",
+  "updated": "2026-10-13T22:44:50.673Z",
   "items": [
+    {
+      "id": "1beb31v",
+      "title": "8th Pay Commission: Will minimum salary rise from Rs 18,000 to Rs 69,000? What pensioners’ body has proposed",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-will-minimum-salary-rise-from-rs-18000-to-rs-69000-what-pensioners-body-has-proposed-article-156332774",
+      "date": "2026-10-13T15:50:59.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ir1111",
+      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-april-fitment-factor-pensions-salary-hike-implementation-date-details-1501975.html",
+      "date": "2026-10-13T13:22:26.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1rl1a6a",
       "title": "8th Pay Commission arrears: What the 5th, 6th and 7th CPCs did, and what employees want now",
@@ -749,31 +777,6 @@
       "tags": [
         "CGHS",
         "Leave"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "gwhane",
-      "title": "Indian Railways warns against fake bonus letter; ₹41,149 productivity linked bonus claim is fabricated",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/indian-railways-warns-against-fake-bonus-letter-rs-41149-productivity-linked-bonus-claim-is-fabricated/article-201563/",
-      "date": "2026-10-09T03:10:11.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1e2dzqt",
-      "title": "CGHS Chennai – Fresh empanelment of PGS Hospital, Coimbatore with effect from 23/09/2026 for a period of three years",
-      "source": "8th Pay Commission - Staff News",
-      "url": "https://www.staffnews.in/2026/10/cghs-chennai-fresh-empanelment-of-pgs-hospital.html",
-      "date": "2026-10-09T00:43:29.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
       ],
       "speculative": false
     }
