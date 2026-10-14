@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-10-13T22:44:50.673Z",
+  "updated": "2026-10-14T04:54:04.841Z",
   "items": [
+    {
+      "id": "1vn7fi8",
+      "title": "Union Cabinet set to take up productivity-linked bonus for railway employees",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/industry/transportation/railways/union-cabinet-to-take-up-productivity-linked-bonus-for-railway-employees/articleshow/134931869.cms",
+      "date": "2026-10-14T04:16:48.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1p49r0b",
+      "title": "Festive bonanza for Railway employees: Cabinet likely to approve productivity linked bonus, say sources",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/amp/india/story/festive-bonanza-for-railway-employees-cabinet-likely-to-approve-productivity-linked-bonus-say-sources-561407-2026-10-14",
+      "date": "2026-10-14T03:32:11.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1beb31v",
       "title": "8th Pay Commission: Will minimum salary rise from Rs 18,000 to Rs 69,000? What pensioners’ body has proposed",
@@ -678,19 +704,6 @@
       "speculative": true
     },
     {
-      "id": "15s81a5",
-      "title": "Has government released Rs 41,000 as annual bonus for Railway employees? Here’s the truth",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/has-government-released-rs-41000-as-annual-bonus-for-railway-employees-heres-the-truth/articleshow/134822855.cms",
-      "date": "2026-10-09T08:04:04.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1382uoz",
       "title": "8th Pay Commission: Will Rs 18,000 Basic Salary Increase Now? New Fitment Factor Updates",
       "source": "Asianet Newsable",
@@ -764,19 +777,6 @@
       "tags": [
         "Railways",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "psdlfw",
-      "title": "Public Funds Used For Employee's LTC, CGHS Reimbursement Don't Justify Disclosure Of Personal Details...",
-      "source": "Live Law",
-      "url": "https://www.livelaw.in/amp/high-court/delhi-high-court/public-funds-used-for-employees-ltc-cghs-reimbursement-dont-justify-disclosure-of-personal-details-under-rti-553796",
-      "date": "2026-10-09T04:00:35.000Z",
-      "official": false,
-      "tags": [
-        "CGHS",
-        "Leave"
       ],
       "speculative": false
     }
