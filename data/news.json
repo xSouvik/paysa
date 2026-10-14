@@ -1,7 +1,59 @@
 {
   "schema": 1,
-  "updated": "2026-10-14T17:10:25.883Z",
+  "updated": "2026-10-14T21:41:20.769Z",
   "items": [
+    {
+      "id": "f0qb71",
+      "title": "Railway Employees Seek Bigger Festive Bonus As Cabinet Decision Nears",
+      "source": "BW Businessworld",
+      "url": "https://www.businessworld.in/article/railway-employees-seek-bigger-festive-bonus-as-cabinet-decision-nears-628491",
+      "date": "2026-10-14T20:55:14.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "s5mak3",
+      "title": "Cabinet To Consider Bonus Proposal For Railway Employees",
+      "source": "BW People",
+      "url": "https://www.bwpeople.in/article/cabinet-to-consider-bonus-proposal-for-railway-employees-628607",
+      "date": "2026-10-14T18:31:21.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "fb6wdn",
+      "title": "11.4 Lakh Railway Employees to Get 78-Day Bonus",
+      "source": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com/amp/nation/114-lakh-railway-employees-to-get-78-day-bonus-1995935",
+      "date": "2026-10-14T17:58:47.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "fkxtve",
+      "title": "Dasara Bonus For Railway Employees Announced",
+      "source": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/dasara-bonus-for-railway-employees-announced-1995888",
+      "date": "2026-10-14T16:55:19.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "zuvyiy",
       "title": "Diwali Gift For Railway Employees: Cabinet Clears 78 Days’ Productivity Linked Bonus",
@@ -728,58 +780,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1p6jng1",
-      "title": "Cabinet Approves 78 Days’ Bonus for 11.40 Lakh Railway Employees",
-      "source": "News Arena India",
-      "url": "https://newsarenaindia.com/nation/cabinet-approves-78-days-bonus-for-11-40-lakh-railway-employees/85208",
-      "date": "2026-10-14T11:17:09.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ft3z0k",
-      "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
-      "source": "KalingaTV",
-      "url": "https://kalingatv.com/nation/cabinet-approves-productivity-linked-bonus-plb-for-78-days-to-railway-employees/",
-      "date": "2026-10-14T11:12:57.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "q9cjda",
-      "title": "Dussehra Bonus For 11.4 Lakh Railway Employees As Cabinet Approves Rs 2,009.61 Crore",
-      "source": "News18",
-      "url": "https://www.news18.com/business/economy/dussehra-bonus-for-11-5-lakh-railway-employees-as-cabinet-approves-rs-2009-61-crore-10381789.html",
-      "date": "2026-10-14T11:06:35.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "q4qx7",
-      "title": "Railway Employees Diwali Bonus: 78 Days’ Salary Approved",
-      "source": "News Arena India",
-      "url": "https://newsarenaindia.com/nation/cabinet-approves-78-days-bonus-for-11-40-lakh-railway-employees/85208",
-      "date": "2026-10-14T11:04:39.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
