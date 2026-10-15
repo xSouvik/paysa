@@ -1,7 +1,126 @@
 {
   "schema": 1,
-  "updated": "2026-10-15T04:39:00.559Z",
+  "updated": "2026-10-15T11:29:05.828Z",
   "items": [
+    {
+      "id": "psgamy",
+      "title": "7th Pay Commission: Will Central Government Employees Get a DA Hike Before Diwali? Latest Update",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/7th-pay-commission-will-central-government-employees-get-a-da-hike-before-diwali-latest-update/",
+      "date": "2026-10-15T10:00:37.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "vay3fc",
+      "title": "8th Pay Commission Latest News: Mumbai Meetings on October 22–23; What About Salary Hike, Fitment Factor and Pension?",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/world/8th-pay-commission-latest-news-mumbai-meetings-on-october-2223-what-about-salary-hike-fitment-factor-and-pension-306185/",
+      "date": "2026-10-15T09:33:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1v19o3k",
+      "title": "8th Pay Commission Salary And Arrears: What Employees Want From The New Pay Panel",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/eighth-pay-commission-arrears-history-and-current-employee-demands-qwclhah",
+      "date": "2026-10-15T08:13:05.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "vnpsb6",
+      "title": "Cabinet Approves ₹2,010 Crore Bonus for 11.4 Lakh Railway Employees",
+      "source": "The Policy Edge",
+      "url": "https://www.policyedge.in/p/cabinet-approves-2010-crore-bonus-for-114-lakh-railway-employees",
+      "date": "2026-10-15T07:54:26.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "hsx2q1",
+      "title": "No July 2026 DA Hike Yet As Cabinet Clears INR 2,000 Crore Railway Bonus While Dearness Allowance Decision",
+      "source": "LatestLY",
+      "url": "https://www.latestly.com/india/news/no-july-2026-da-hike-yet-as-cabinet-clears-inr-2000-crore-railway-bonus-while-dearness-allowance-decision-pends-7645534.html/amp",
+      "date": "2026-10-15T07:45:14.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "4xhy3",
+      "title": "Railway employees to get Rs 17,591 annual bonus: But why other central government employees get just Rs 6,",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/indian-railway-employees-to-get-rs-17591-annual-bonus-but-why-other-central-government-employees-get-just-rs-6908/articleshow/134959611.cms",
+      "date": "2026-10-15T06:39:29.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1ctek5k",
+      "title": "Centre approves 78-day bonus for over 11 lakh railway employees ahead of Diwali",
+      "source": "Udayavani",
+      "url": "https://udayavani.com/national/centre-approves-78-day-bonus-for-over-11-lakh-railway-employees-ahead-of-diwali-067947?lang=en",
+      "date": "2026-10-15T05:59:14.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "10qln2x",
+      "title": "Dearness allowance hike: Cabinet skips July 2026 DA decision as railway bonus, social assistance plan get nod",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-hike-cabinet-skips-july-2026-da-decision-as-railway-bonus-social-assistance-plan-get-nod/amp-11792040339878.html",
+      "date": "2026-10-15T05:52:33.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "tr2n17",
+      "title": "8th Pay Commission Arrears: When will central government employees receive salary dues? What past Pay Commissions reveal",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-arrears-when-will-central-government-employees-receive-salary-dues-what-past-pay-commissions-reveal-article-156342436",
+      "date": "2026-10-15T05:14:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1ah64gw",
       "title": "Union Cabinet approves Rs 2,000 crore bonus for 11 lakh railway staff",
@@ -50,6 +169,19 @@
       "tags": [
         "DA",
         "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "12lcqcn",
+      "title": "Bhaskar Smart Brief: ‘Blue drum’ Muskaan gets death sentence; railway staff to get 78-day bonus & CJP’s Del...",
+      "source": "Bhaskar English",
+      "url": "https://www.bhaskarenglish.in/national/news/bhaskar-smart-brief-muskan-death-sentence-railway-bonus-delhi-march-protest-updates-139366279.html",
+      "date": "2026-10-15T01:25:00.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
       ],
       "speculative": false
     },
@@ -642,136 +774,6 @@
       "source": "The Hindu",
       "url": "https://www.thehindu.com/news/national/cabinet-approves-bonus-worth-200961-crore-to-railway-employees/article71583443.ece",
       "date": "2026-10-14T11:29:28.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "feqe1l",
-      "title": "Diwali bonanza for 11 lakh railway employees: Performance-linked bonus worth ₹2,009 crore",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/india-news/diwali-bonanza-for-11-lakh-railway-employees-performance-linked-bonus-worth-rs-2009-crore-social-security-cover-till-2031-approves-idbi-restructuring-101791977125482.html",
-      "date": "2026-10-14T11:28:48.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14a062r",
-      "title": "Railway employees to get 78 days’ bonus worth Rs 2,009 crore",
-      "source": "Odisha TV",
-      "url": "https://odishatv.in/national/railway-employees-to-get-78-days-bonus-worth-rs-2009-crore-12675619",
-      "date": "2026-10-14T11:27:45.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1hhx557",
-      "title": "Railway employees to get 78-day bonus worth Rs 2,009.61 crore",
-      "source": "PSU Watch",
-      "url": "https://psuwatch.com/newsupdates/railway-employees-to-get-78-day-bonus-worth-rs-200961-crore",
-      "date": "2026-10-14T11:27:01.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "38vvqg",
-      "title": "Cabinet approves 78-day bonus for 11.4 lakh railway employees, extends social assistance scheme",
-      "source": "Fortune India",
-      "url": "https://www.fortuneindia.com/business-news/cabinet-approves-78-day-bonus-for-114-lakh-railway-employees-extends-social-assistance-scheme/164698",
-      "date": "2026-10-14T11:26:14.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "wm4c3o",
-      "title": "Railway employees to get up to Rs.17,951 bonus as Cabinet approves 78 days’ PLB for 11.40 lakh staff",
-      "source": "Business Today",
-      "url": "https://www.businesstoday.in/amp/india/story/railway-employees-to-get-up-to-rs17951-bonus-as-cabinet-approves-78-days-plb-for-11-40-lakh-staff-561607-2026-10-14",
-      "date": "2026-10-14T11:25:41.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1qf8vcv",
-      "title": "Cabinet Approves 78-Day Bonus Worth Rs 2,010 Crore For 11.4 Lakh Railway Employees",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/companies/cabinet-approves-78-day-bonus-worth-rs-2010-crore-for-11-4-lakh-railway-employees-article-156339049",
-      "date": "2026-10-14T11:23:05.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1q0wsva",
-      "title": "Union Cabinet approves Rs 2009.61 crore bonus for 11.40 lakh railway staff",
-      "source": "prameyanews.com",
-      "url": "https://www.prameyanews.com/union-cabinet-approves-rs-200961-crore-bonus-for-1140-lakh-railway-staff",
-      "date": "2026-10-14T11:21:58.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ss9zf5",
-      "title": "Diwali Bonanza! Govt Approves Rs 2,009-Crore 78-Day Bonus For Over 11 Lakh Railway Employees",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/economy/diwali-bonanza-govt-approves-rs-2-009-crore-78-day-bonus-for-over-11-lakh-railway-employees-12184437",
-      "date": "2026-10-14T11:21:42.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1b2tak9",
-      "title": "Govt approves 78-day Diwali bonus worth ₹2,009 crore for railway employees",
-      "source": "Inshorts",
-      "url": "https://inshorts.com/en/news/govt-approves-78-day-diwali-bonus-worth--2-009-crore-for-railway-employees-1791977611550",
-      "date": "2026-10-14T11:20:38.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1etuzrt",
-      "title": "Indian Railway Employees Bonus: Cabinet Approves ₹2,009 Crore for 11.4 Lakh Staff",
-      "source": "Oneindia",
-      "url": "https://www.oneindia.com/india/indian-railway-employees-bonus-cabinet-approves-2-009-crore-for-11-4-lakh-staff-8235099.html",
-      "date": "2026-10-14T11:20:35.000Z",
       "official": false,
       "tags": [
         "Railways",
