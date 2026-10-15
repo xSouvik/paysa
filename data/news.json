@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-10-15T17:01:00.727Z",
+  "updated": "2026-10-15T21:22:54.038Z",
   "items": [
+    {
+      "id": "1rufezy",
+      "title": "DA/DR w.e.f. 1.7.2026 and Bonus- Nationwide Lunch Hour Demonstration on 16.10.2026: Confederation serves notice to Cabinet Secretary",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/da-dr-w-e-f-1-7-2026-and-bonus.html",
+      "date": "2026-10-15T14:31:02.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "1pfdaeu",
       "title": "Festive Bonanza for Railway Employees: Modi govt clears 78 days’ bonus worth Rs 2,009.61 crore ahead of Deepawali",
@@ -333,6 +346,19 @@
       "url": "https://www.deccanchronicle.com/southern-states/telangana/dasara-bonus-for-railway-employees-announced-1995888",
       "date": "2026-10-14T16:55:19.000Z",
       "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "7m6yj6",
+      "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
+      "source": "PM India",
+      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-productivity-linked-bonus-plb-for-78-days-to-railway-employees/",
+      "date": "2026-10-14T15:52:42.000Z",
+      "official": true,
       "tags": [
         "Railways",
         "Pay"
@@ -746,32 +772,6 @@
       "source": "Swarajya",
       "url": "https://swarajyamag.com/news-brief/railway-employees-to-get-78-days-wages-as-diwali-bonus-cabinet-clears-rs-2009-crore-payout",
       "date": "2026-10-14T11:43:37.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "15dclha",
-      "title": "Cabinet approves 78-day bonus for railway employees: Check your exact payout amount here",
-      "source": "Zee News",
-      "url": "https://zeenews.india.com/personal-finance/cabinet-approves-78-day-bonus-for-railway-employees-check-your-exact-payout-amount-here-3076013.html",
-      "date": "2026-10-14T11:40:00.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "hp5tzc",
-      "title": "Railway employees to get Productivity Linked Bonus of 78 days",
-      "source": "Revoi.in",
-      "url": "https://english.revoi.in/railway-employees-to-get-productivity-linked-bonus-of-78-days/",
-      "date": "2026-10-14T11:37:50.000Z",
       "official": false,
       "tags": [
         "Railways",
