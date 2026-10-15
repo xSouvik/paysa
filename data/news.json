@@ -1,7 +1,71 @@
 {
   "schema": 1,
-  "updated": "2026-10-14T21:41:20.769Z",
+  "updated": "2026-10-15T04:39:00.559Z",
   "items": [
+    {
+      "id": "1ah64gw",
+      "title": "Union Cabinet approves Rs 2,000 crore bonus for 11 lakh railway staff",
+      "source": "The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2026/Oct/15/union-cabinet-approves-rs-2000-crore-bonus-for-11-lakh-railway-staff",
+      "date": "2026-10-15T03:34:32.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1se5rel",
+      "title": "Cabinet approves 78-day bonus for 11.4 lakh railway employees, up to Rs 17,951 each",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/india/cabinet-approves-productivity-linked-bonus-for-78-days-to-railway-employees-10921461/",
+      "date": "2026-10-15T02:52:45.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "qvny9s",
+      "title": "CGHS Kanpur - De-empanelment of existing 05 empanelled Health Care Organisations (HCOs) w.e.f. 16.09.2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/cghs-kanpur-de-empanelment-of-existing-05-hcos.html",
+      "date": "2026-10-15T02:45:48.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "teiw6d",
+      "title": "Dr. Agarwals Healthcare Limited, West Tambaram: Empanelment under CGHS Chennai for a period of three years",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/cghs-chennai-fresh-empanelment-of-private-health-care-organizations.html",
+      "date": "2026-10-15T02:36:56.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "q5u3yk",
+      "title": "Cabinet approves 78 days’ Productivity Linked Bonus for over 11.4 lakh railway employees",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/cabinet-approves-78-days-productivity-linked-bonus-for-over-11-4-lakh-railway-employees/",
+      "date": "2026-10-15T01:11:59.000Z",
+      "official": true,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "f0qb71",
       "title": "Railway Employees Seek Bigger Festive Bonus As Cabinet Decision Nears",
@@ -14,6 +78,19 @@
         "Pay"
       ],
       "speculative": true
+    },
+    {
+      "id": "f7u9no",
+      "title": "Cabinet Approves 78-Day Productivity Bonus for Over 11 Lakh Railway Employees",
+      "source": "India Business Trade",
+      "url": "https://indiabusinesstrade.in/cabinet-approves-78-day-productivity-bonus-for-over-11-lakh-railway-employees.htm",
+      "date": "2026-10-14T19:05:19.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "s5mak3",
@@ -701,85 +778,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "13jw11b",
-      "title": "Diwali bonus: Good news for railway employees! 78-day bonus worth ₹2,009 crore approved",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/news/india/diwali-bonus-good-news-for-railway-employees-78-day-bonus-worth-rs-2-009-crore-approved-11791976364046.html",
-      "date": "2026-10-14T11:20:34.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ae918p",
-      "title": "Railway employees to get 78 days’ bonus: Cabinet approves ₹2,009 crore",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/cabinet-approves-78-days-bonus-for-114-lakh-railway-employees/article71583439.ece",
-      "date": "2026-10-14T11:18:34.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ngwn4a",
-      "title": "8th Pay Commission: Rs 69,000 Minimum Pay, Rs 34,470 Pension, 6% Annual Increment Among Other Key Demands",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-rs-69000-minimum-pay-rs-34470-pension-6-annual-increment-among-other-key-demands-article-156338566",
-      "date": "2026-10-14T11:18:23.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "uskfel",
-      "title": "Railway Employees to Get 78-Day Bonus, Cabinet Approves Payment for Over 11.4 Lakh Staff",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/railway-employees-to-get-78-day-bonus-cabinet-approves-payment-for-over-11-4-lakh-staff/",
-      "date": "2026-10-14T11:18:13.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1conh4v",
-      "title": "Good News for 11.4 Lakh Railway Employees: Cabinet approves Rs 2,009 crore bonus",
-      "source": "Zee Business",
-      "url": "https://www.zeebiz.com/indian-railways/news-good-news-for-114-lakh-railway-employees-cabinet-approves-rs-2009-crore-bonus-403940",
-      "date": "2026-10-14T11:18:12.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1hfxq08",
-      "title": "Good News For Railway Employees: 78-Days Diwali Bonus Announced; How Much Per Employee Will Get On Basic Pay?",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/good-news-for-railway-employees-govt-announces-78-days-diwali-bonus-how-much-on-basic-salary-1541421.html",
-      "date": "2026-10-14T11:17:36.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
