@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-16T16:39:42.933Z",
+  "updated": "2026-10-16T21:08:35.787Z",
   "items": [
     {
       "id": "jogw25",
@@ -410,11 +410,37 @@
       "speculative": false
     },
     {
+      "id": "15lo1r",
+      "title": "Cabinet Approves ₹2,009.61 Crore Productivity Linked Bonus for Railway Employees",
+      "source": "Adda247",
+      "url": "https://currentaffairs.adda247.com/cabinet-approves-%E2%82%B92009-61-crore-productivity-linked-bonus-for-railway-employees/",
+      "date": "2026-10-15T05:45:25.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "tr2n17",
       "title": "8th Pay Commission Arrears: When will central government employees receive salary dues? What past Pay Commissions reveal",
       "source": "ET Now",
       "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-arrears-when-will-central-government-employees-receive-salary-dues-what-past-pay-commissions-reveal-article-156342436",
       "date": "2026-10-15T05:14:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "thhzc0",
+      "title": "8th Pay Commission Salary List Goes Viral: Will a Peon Get ₹45,000 and an Inspector ₹1.20 Lakh?",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-salary-list-goes-viral-will-a-peon-get-%E2%82%B945000-and-an-inspector-%E2%82%B91-20-lakh/",
+      "date": "2026-10-15T05:02:36.000Z",
       "official": false,
       "tags": [
         "8th CPC",
@@ -739,31 +765,6 @@
       "source": "Kanak News Odisha",
       "url": "https://kanaknews.com/videos/society/%E0%AC%B0%E0%AC%B2%E0%AD%B1-%E0%AC%95%E0%AC%B0%E0%AC%AE%E0%AC%9A%E0%AC%B0%E0%AC%99%E0%AC%95-%E0%AC%AC%E0%AC%A8%E0%AC%B8-railway-employees-bonus-2026-78-days-wages-approved-for-114-lakh-staff-12676105/amp",
       "date": "2026-10-14T13:07:50.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "w75yqc",
-      "title": "NPS investment in startups: AINPSEF writes to PM Modi seeking probe and asks for dissolution of NPS Trust",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/nps-investment-in-startups-ainpsef-writes-to-pm-modi-seeking-probe-and-asks-for-dissolution-of-nps-trust/articleshow/134943418.cms",
-      "date": "2026-10-14T12:59:18.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ahwc1p",
-      "title": "Cabinet Approves 78-Day Productivity Linked Bonus Worth ₹2,009.61 Crore for 11.40 Lakh Railway Employees",
-      "source": "Indianmasterminds",
-      "url": "https://indianmasterminds.com/news/railway-employees-78-day-productivity-linked-bonus-2026-242356/",
-      "date": "2026-10-14T12:53:14.000Z",
       "official": false,
       "tags": [
         "Railways",
