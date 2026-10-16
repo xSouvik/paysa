@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "updated": "2026-10-15T21:22:54.038Z",
+  "updated": "2026-10-16T04:32:03.506Z",
   "items": [
+    {
+      "id": "8x4akt",
+      "title": "Dearness Allowance hike 2026: When did the Centre announce the DA, DR hike last year?",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-hike-2026-when-did-the-centre-announce-the-da-dr-hike-last-year/article-201952/",
+      "date": "2026-10-16T03:31:36.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "wgwysf",
+      "title": "2nd National Workshop on Pension Litigation (CAT's/HC's) Convened on July 18, 2026: DoP&PW O.M.",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/2nd-national-workshop-on-pension-litigation-cats-hcs-convened.html",
+      "date": "2026-10-16T02:41:24.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1qdn8dj",
+      "title": "16 October Current Affairs: Railway employees to Get ₹2,000 Crore bonus, IDBI bank’s new buyer approved",
+      "source": "Bhaskar English",
+      "url": "https://www.bhaskarenglish.in/career/video/railway-employees-bonus-idbi-bank-buyer-approved-current-affairs-139374570.html?type=video",
+      "date": "2026-10-15T23:30:00.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "1rufezy",
       "title": "DA/DR w.e.f. 1.7.2026 and Bonus- Nationwide Lunch Hour Demonstration on 16.10.2026: Confederation serves notice to Cabinet Secretary",
@@ -154,6 +192,18 @@
         "DA",
         "Railways",
         "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1fzieot",
+      "title": "DA Hike Update: Cabinet Skips July 2026 Decision, Central Govt Employees Wait",
+      "source": "BizzBuzz",
+      "url": "https://www.bizzbuzz.news/national/da-hike-update-cabinet-skips-july-2026-decision-central-govt-employees-wait-1410386",
+      "date": "2026-10-15T06:49:55.000Z",
+      "official": false,
+      "tags": [
+        "DA"
       ],
       "speculative": false
     },
@@ -726,58 +776,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "7f4gsl",
-      "title": "केन्‍द्रीय मंत्रिमंडल ने रेल कर्मचारियों के लिए 78 दिनों के उत्पादकता-आधारित बोनस (पीएलबी) को मंजूरी दी",
-      "summary": "प्रधानमंत्री श्री नरेन्&zwj;द्र मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने रेल कर्मचारियों के उत्कृष्ट प्रदर्शन की सराहना करते हुए 11,40,770 रेल कर्मचारियों को 78 दिनों के लिए 2009.61 करोड़ रुपये के पीएलबी के भुगतान क…",
-      "source": "PIB",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323309",
-      "date": "2026-10-14T11:52:15.749Z",
-      "official": true,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "13e0yiw",
-      "title": "Cabinet announces Diwali bonus for railway employees, approves Rs 2,009 crore payout",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/news/politics-and-nation/cabinet-announces-diwali-bonus-for-railway-employees-approves-rs-2009-crore-payout/videoshow/134941843.cms",
-      "date": "2026-10-14T11:49:09.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1qt2xbo",
-      "title": "Good news for Railway employees: Centre approves 78-day bonus for 11.4 lakh staff, Rs 2,009 crore payout announced, check who qualifies, key details",
-      "source": "News24Online",
-      "url": "https://news24online.com/india/good-news-for-railway-employees-centre-approves-78-day-bonus-for-11-4-lakh-staff-rs-2009-crore-payout-announced-check-who-qualifies-key-details/942814/",
-      "date": "2026-10-14T11:44:33.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ara9b",
-      "title": "Railway Employees to Get 78 Days’ Wages as Diwali Bonus, Cabinet Clears Rs 2,009 Crore Payout",
-      "source": "Swarajya",
-      "url": "https://swarajyamag.com/news-brief/railway-employees-to-get-78-days-wages-as-diwali-bonus-cabinet-clears-rs-2009-crore-payout",
-      "date": "2026-10-14T11:43:37.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
