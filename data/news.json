@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T10:44:21.110Z",
+  "updated": "2026-10-17T15:34:38.118Z",
   "items": [
+    {
+      "id": "1jce0i5",
+      "title": "July 2026 DA Hike: Central Government Employees Await Announcement After October 14 Cabinet Meet",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/retirement/pension/july-2026-da-hike-central-government-employees-await-announcement-after-october-14-cabinet-meet",
+      "date": "2026-10-17T10:12:59.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
     {
       "id": "s3c3mh",
       "title": "8th Pay Commission: Salary Hike, Pensions, DA Merger, Arrears, Fitment Factor --- 8th CPC Big News In Diwali?",
@@ -103,6 +115,18 @@
       "official": false,
       "tags": [
         "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "9zlnlz",
+      "title": "Productivity Linked Bonus equivalent to 60 Days for Postal Employees for 2025-26: Department of Posts Order",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/productivity-linked-bonus-for-postal-employees-for-2025-26.html",
+      "date": "2026-10-16T15:26:46.000Z",
+      "official": false,
+      "tags": [
         "Pay"
       ],
       "speculative": false
@@ -722,19 +746,6 @@
       "speculative": false
     },
     {
-      "id": "sl7wyq",
-      "title": "Payment of Productivity Linked Bonus to Non-Gaz Railway Employees for FY 2025-26: Railway Board RBE No. 84/2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/payment-of-productivity-linked-bonus-2025-26-rbe-84-2026.html",
-      "date": "2026-10-14T14:15:41.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "9qza3n",
       "title": "Centre announces 78 days bonus for Railway employees, payout of Rs 2,010 crore planned",
       "source": "News9live",
@@ -756,19 +767,6 @@
       "official": false,
       "tags": [
         "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14x85ar",
-      "title": "Indian Railways Productivity Linked Bonus: 11.4 lakh employees to receive 78 days’ wages",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/business/railways-indian-railways-productivity-linked-bonus-11-4-lakh-employees-to-receive-78-days-wages-4361289/",
-      "date": "2026-10-14T13:27:15.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
         "Pay"
       ],
       "speculative": false
