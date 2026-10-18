@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T04:33:58.675Z",
+  "updated": "2026-10-18T11:05:08.610Z",
   "items": [
+    {
+      "id": "9z1zaa",
+      "title": "DA Hike Before Diwali? Here's How Much More Employees Could Get",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/da-hike-before-diwali-heres-how-much-more-employees-could-get-8th-pay-commission-12202070",
+      "date": "2026-10-18T07:57:45.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "12y3w2d",
+      "title": "8th Pay Commission Update: DA Merger, Salary Hike And 5 Key Demands Of Employee Unions",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-news-salary-hike-da-merger-and-top-union-demands-gfzn9c9",
+      "date": "2026-10-18T04:58:02.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1gadsmp",
       "title": "8th Pay Commission: What is the difference between basic pay, grade pay and pay level? Expert explains",
@@ -734,32 +760,6 @@
       "source": "BW People",
       "url": "https://www.bwpeople.in/article/cabinet-to-consider-bonus-proposal-for-railway-employees-628607",
       "date": "2026-10-14T18:31:21.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "fb6wdn",
-      "title": "11.4 Lakh Railway Employees to Get 78-Day Bonus",
-      "source": "Deccan Chronicle",
-      "url": "https://www.deccanchronicle.com/amp/nation/114-lakh-railway-employees-to-get-78-day-bonus-1995935",
-      "date": "2026-10-14T17:58:47.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "fkxtve",
-      "title": "Dasara Bonus For Railway Employees Announced",
-      "source": "Deccan Chronicle",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/dasara-bonus-for-railway-employees-announced-1995888",
-      "date": "2026-10-14T16:55:19.000Z",
       "official": false,
       "tags": [
         "Railways",
