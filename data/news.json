@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T15:51:57.797Z",
+  "updated": "2026-10-18T20:43:32.705Z",
   "items": [
+    {
+      "id": "1mqj0kk",
+      "title": "Cabinet approves INR 2,009.61 crore productivity-linked bonus for railway employees",
+      "source": "Prop News Time",
+      "url": "https://propnewstime.com/latestnewsstories/Mzg0NzM=/cabinet-approves-inr-2-009-61-crore-productivity-linked-bonus-for-railway-employees",
+      "date": "2026-10-18T19:30:34.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "1p21asp",
       "title": "DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%?",
@@ -383,6 +396,19 @@
       "speculative": false
     },
     {
+      "id": "1tmoehs",
+      "title": "Dussehra Bonus for Railway employees: Union Cabinet approves 78-day Productivity Linked Bonus (PLB)",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/dussehra-bonus-for-railway-employees-union-cabinet-approves-78-day-productivity-linked-bonus-plb/article-201849/",
+      "date": "2026-10-16T11:04:52.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "w53yek",
       "title": "8th Pay Commission Salary Hike Delay May Bring 18-24 Months Arrears; Check Fitment Factor, Matrix & Tax Rules",
       "source": "Goodreturns",
@@ -738,32 +764,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "q5u3yk",
-      "title": "Cabinet approves 78 days’ Productivity Linked Bonus for over 11.4 lakh railway employees",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/cabinet-approves-78-days-productivity-linked-bonus-for-over-11-4-lakh-railway-employees/",
-      "date": "2026-10-15T01:11:59.000Z",
-      "official": true,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "f0qb71",
-      "title": "Railway Employees Seek Bigger Festive Bonus As Cabinet Decision Nears",
-      "source": "BW Businessworld",
-      "url": "https://www.businessworld.in/article/railway-employees-seek-bigger-festive-bonus-as-cabinet-decision-nears-628491",
-      "date": "2026-10-14T20:55:14.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
