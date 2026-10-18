@@ -1,7 +1,56 @@
 {
   "schema": 1,
-  "updated": "2026-10-17T20:36:45.306Z",
+  "updated": "2026-10-18T04:33:58.675Z",
   "items": [
+    {
+      "id": "1gadsmp",
+      "title": "8th Pay Commission: What is the difference between basic pay, grade pay and pay level? Expert explains",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-is-the-difference-between-basic-pay-grade-pay-and-pay-level-expert-explains-11792293833318.html",
+      "date": "2026-10-18T03:57:03.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1fffwmq",
+      "title": "Railway Employees to Receive 78-Day Bonus: Cabinet Approves ₹2,009.61 Crore for 11.4 Lakh Staff",
+      "source": "www.nationpathindia.com",
+      "url": "https://www.nationpathindia.com/economy/indian-railways-78-day-productivity-linked-bonus-2026",
+      "date": "2026-10-18T03:33:55.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "fig7ui",
+      "title": "8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-salaries-change-at-fitment-factors-of-4-3-833-and-3-80-check-complete-calculations-11792289760431.html",
+      "date": "2026-10-18T02:49:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1lo55jl",
+      "title": "Keralam DA, DR hike: Government raises rates from 35% to 37%; here's when the payments will begin",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/keralam-da-dr-hike-government-raises-rates-from-35-to-37-heres-when-the-payments-will-begin-11792285679391.html",
+      "date": "2026-10-18T01:39:58.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
     {
       "id": "rd9qvb",
       "title": "Railway employees to get Productivity Linked Bonus of 78 days",
@@ -12,6 +61,18 @@
       "tags": [
         "Railways",
         "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "qqv496",
+      "title": "Submission of Life Certificate for the year 2026 by ICMR-HQ Pensioners: Notice",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/submission-of-life-certificate-for-the-year-2026-icmr.html",
+      "date": "2026-10-17T18:42:30.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
       ],
       "speculative": false
     },
@@ -169,44 +230,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "ggzgv",
-      "title": "DA hike after Dussehra: Will central government employees get good news in October? - What we know so far",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-after-dussehra-will-central-government-employees-get-good-news-in-october-what-we-know-so-far-11792204212178.html",
-      "date": "2026-10-17T03:03:27.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "3ppwzp",
-      "title": "8th Pay Commission: What central government employees need to know about OPS, NPS and UPS",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-central-government-employees-need-to-know-about-ops-nps-and-ups-11792200678410.html",
-      "date": "2026-10-17T02:04:42.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "p34e5y",
-      "title": "DA news: Key salary components explained — We breakdown the differences between your DA, DR and HRA",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-dr-hra-key-salary-components-explained-breakdown-differences-between-your-dearness-allowance-relief-house-rent-11792200644974.html",
-      "date": "2026-10-17T02:00:33.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
     },
     {
       "id": "9zlnlz",
@@ -654,18 +677,6 @@
       "speculative": false
     },
     {
-      "id": "qvny9s",
-      "title": "CGHS Kanpur - De-empanelment of existing 05 empanelled Health Care Organisations (HCOs) w.e.f. 16.09.2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/cghs-kanpur-de-empanelment-of-existing-05-hcos.html",
-      "date": "2026-10-15T02:45:48.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
       "id": "12lcqcn",
       "title": "Bhaskar Smart Brief: ‘Blue drum’ Muskaan gets death sentence; railway staff to get 78-day bonus & CJP’s Del...",
       "source": "Bhaskar English",
@@ -750,19 +761,6 @@
       "url": "https://www.deccanchronicle.com/southern-states/telangana/dasara-bonus-for-railway-employees-announced-1995888",
       "date": "2026-10-14T16:55:19.000Z",
       "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "7m6yj6",
-      "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
-      "source": "PM India",
-      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-productivity-linked-bonus-plb-for-78-days-to-railway-employees/",
-      "date": "2026-10-14T15:52:42.000Z",
-      "official": true,
       "tags": [
         "Railways",
         "Pay"
