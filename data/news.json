@@ -1,7 +1,58 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T11:05:08.610Z",
+  "updated": "2026-10-18T15:51:57.797Z",
   "items": [
+    {
+      "id": "1p21asp",
+      "title": "DA hike before Diwali 2026: How much extra salary could central government employees get if DA rises to 63%?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/da-hike-before-diwali-2026-how-much-extra-salary-could-central-government-employees-get-if-da-rises-to-63-11792323932774.html",
+      "date": "2026-10-18T11:59:08.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "ku6sqo",
+      "title": "CGHS Chennai- De-empanelment of M/s. GVN Riverside Hospital, Tiruchirappalli under CGHS",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/cghs-chennai-de-empanelment-of-m-s-gvn-riverside-hospital.html",
+      "date": "2026-10-18T11:40:22.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "4pwond",
+      "title": "8th Pay Commission: What Are Basic Pay, Grade Pay and Pay Levels? Check Salary Structure and Fitment Factor",
+      "source": "LatestLY",
+      "url": "https://www.latestly.com/india/news/8th-pay-commission-what-are-basic-pay-grade-pay-and-pay-levels-check-salary-structure-and-fitment-factor-7649065.html",
+      "date": "2026-10-18T11:17:57.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1txon3n",
+      "title": "DA Hike: Will Centre announce increase on October 21 ahead of Diwali? Check expected hike for govt employees and pensioners",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/da-hike-will-centre-announce-increase-on-october-21-ahead-of-diwali-check-expected-hike-for-government-employees-and-pensioners-article-156361472",
+      "date": "2026-10-18T11:17:26.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "9z1zaa",
       "title": "DA Hike Before Diwali? Here's How Much More Employees Could Get",
@@ -205,6 +256,18 @@
       "speculative": true
     },
     {
+      "id": "1768wpn",
+      "title": "expected-da-from-jan-2018-table",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/expected-da-from-jan-2018-table-2",
+      "date": "2026-10-17T10:08:36.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
       "id": "1xpfvsk",
       "title": "11.4 lakh railway employees to get 78-day bonus | Tap to know more | Inshorts",
       "source": "Inshorts",
@@ -242,20 +305,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "fu7pd9",
-      "title": "8th pay commission: DA merger, salary hike, fitment factor, inflation adjustment — Top 5 demands from employee groups",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/8th-pay-commission-da-merger-salary-hike-fitment-factor-inflation-adjustment-minimum-pay-top-5-demands-employee-groups-11792202557867.html",
-      "date": "2026-10-17T03:49:56.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     },
     {
       "id": "9zlnlz",
@@ -442,31 +491,6 @@
       "official": false,
       "tags": [
         "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1rufezy",
-      "title": "DA/DR w.e.f. 1.7.2026 and Bonus- Nationwide Lunch Hour Demonstration on 16.10.2026: Confederation serves notice to Cabinet Secretary",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/da-dr-w-e-f-1-7-2026-and-bonus.html",
-      "date": "2026-10-15T14:31:02.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "uurni6",
-      "title": "Non-Productivity Linked Bonus (ad-hoc bonus) to Central Government Employees for the year 2025-26: DoE, FinMin O.M. dated 15.10.2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/non-productivity-linked-bonus-ad-hoc-bonus-2025-26-doe-om.html",
-      "date": "2026-10-15T13:56:09.000Z",
-      "official": false,
-      "tags": [
         "Pay"
       ],
       "speculative": false
@@ -740,32 +764,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "f7u9no",
-      "title": "Cabinet Approves 78-Day Productivity Bonus for Over 11 Lakh Railway Employees",
-      "source": "India Business Trade",
-      "url": "https://indiabusinesstrade.in/cabinet-approves-78-day-productivity-bonus-for-over-11-lakh-railway-employees.htm",
-      "date": "2026-10-14T19:05:19.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "s5mak3",
-      "title": "Cabinet To Consider Bonus Proposal For Railway Employees",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/cabinet-to-consider-bonus-proposal-for-railway-employees-628607",
-      "date": "2026-10-14T18:31:21.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
