@@ -1,7 +1,107 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T13:15:22.709Z",
+  "updated": "2026-10-19T22:21:21.001Z",
   "items": [
+    {
+      "id": "14ihmfy",
+      "title": "NPS Central goes live, unifying pension services",
+      "source": "The Financial Express",
+      "url": "https://www.financialexpress.com/money/nps-central-goes-live-unifying-pension-services-4365110/",
+      "date": "2026-10-19T17:36:29.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1678xxj",
+      "title": "Social Justice Minister Dr Virendra Kumar reviews implementation of key central welfare schemes",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/social-justice-minister-dr-virendra-kumar-reviews-implementation-of-key-central-welfare-schemes/",
+      "date": "2026-10-19T16:39:34.000Z",
+      "official": true,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "11ijb2z",
+      "title": "MoS Dr Jitendra Singh inaugurates workplace creche and blood donation camp at Kartavya Bhawan",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/mos-dr-jitendra-singh-inaugurates-workplace-creche-and-blood-donation-camp-at-kartavya-bhawan/",
+      "date": "2026-10-19T16:09:13.000Z",
+      "official": true,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1j53ocg",
+      "title": "8th Pay Commission: 14% Then, 140% Now? What Past Precedent Reveals About Current Salary Hike Demands",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-14-then-140-now-what-past-precedent-reveals-about-current-salary-hike-demands-12207764",
+      "date": "2026-10-19T15:50:51.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "pkfmgg",
+      "title": "Cabinet Approves 78 Days’ Productivity Linked Bonus for Railway Employees",
+      "source": "DD India",
+      "url": "https://ddindia.co.in/2026/10/cabinet-approves-78-days-productivity-linked-bonus-for-railway-employees/",
+      "date": "2026-10-19T14:50:22.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "ijmakw",
+      "title": "8th Pay Commission fitment factor: Higher basic pay or more allowances—what is better for govt employees?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fitment-factor-higher-basic-pay-or-more-allowances-what-is-better-for-govt-employees-11792411406569.html",
+      "date": "2026-10-19T13:45:48.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ggwnnk",
+      "title": "8th Pay Commission: Basic Pay vs Allowances",
+      "source": "Dailyhunt",
+      "url": "https://m.dailyhunt.in/news/india/english/news+karnataka-epaper-newskarn/8th+pay+commission+basic+pay+vs+allowances-newsid-n730923594",
+      "date": "2026-10-19T13:26:47.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "h9kwca",
+      "title": "Central staff DA hike always comes months late",
+      "source": "indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/da-hike-approval-timing-history-july-2026-pending",
+      "date": "2026-10-19T13:06:37.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
     {
       "id": "ltlcub",
       "title": "PFRDA launches unified digital platform for NPS subscribers",
@@ -47,6 +147,19 @@
       "date": "2026-10-19T09:17:56.000Z",
       "official": false,
       "tags": [
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "5sdefx",
+      "title": "8th Pay Commission: Level 1 salary at Rs 47,160, Rs 54,000 or Rs 69,000? Check Level 1-5 estimates at diff",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-factor-calculator-level-1-salary-at-rs-47160-rs-54000-or-rs-69000-check-estimates/articleshow/135043185.cms",
+      "date": "2026-10-19T08:50:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
         "Pay"
       ],
       "speculative": true
@@ -337,18 +450,6 @@
       "official": false,
       "tags": [
         "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1lo55jl",
-      "title": "Keralam DA, DR hike: Government raises rates from 35% to 37%; here's when the payments will begin",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/keralam-da-dr-hike-government-raises-rates-from-35-to-37-heres-when-the-payments-will-begin-11792285679391.html",
-      "date": "2026-10-18T01:39:58.000Z",
-      "official": false,
-      "tags": [
-        "DA"
       ],
       "speculative": false
     },
@@ -654,109 +755,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "14lb3qb",
-      "title": "8th Pay Commission: Dearness allowance may reach 66%-67% four months before the 8th CPC deadline. Here's how",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-dearness-allowance-may-reach-66-67-four-months-before-the-8th-cpc-deadline-here-s-how/article-199817/",
-      "date": "2026-10-16T07:00:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ae918p",
-      "title": "Railway employees to get 78 days’ bonus: Cabinet approves ₹2,009 crore",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/cabinet-approves-78-days-bonus-for-114-lakh-railway-employees/article71583439.ece",
-      "date": "2026-10-16T07:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "8x4akt",
-      "title": "Dearness Allowance hike 2026: When did the Centre announce the DA, DR hike last year?",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-hike-2026-when-did-the-centre-announce-the-da-dr-hike-last-year/article-201952/",
-      "date": "2026-10-16T03:31:36.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "wgwysf",
-      "title": "2nd National Workshop on Pension Litigation (CAT's/HC's) Convened on July 18, 2026: DoP&PW O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/2nd-national-workshop-on-pension-litigation-cats-hcs-convened.html",
-      "date": "2026-10-16T02:41:24.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1qdn8dj",
-      "title": "16 October Current Affairs: Railway employees to Get ₹2,000 Crore bonus, IDBI bank’s new buyer approved",
-      "source": "Bhaskar English",
-      "url": "https://www.bhaskarenglish.in/career/video/railway-employees-bonus-idbi-bank-buyer-approved-current-affairs-139374570.html?type=video",
-      "date": "2026-10-15T23:30:00.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1pfdaeu",
-      "title": "Festive Bonanza for Railway Employees: Modi govt clears 78 days’ bonus worth Rs 2,009.61 crore ahead of Deepawali",
-      "source": "Organiser",
-      "url": "https://organiser.org/2026/10/15/386664/bharat/festive-bonanza-for-railway-employees-modi-govt-clears-78-days-bonus-worth-rs-2009-61-crore-ahead-of-deepawali/",
-      "date": "2026-10-15T13:06:56.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "59h09s",
-      "title": "DA hike after Dussehra? Will government announce dearness allowance increase after October 20?",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-hike-announcement-for-central-government-after-dussehra-will-government-announce-dearness-allowance-after-october-20-2026/articleshow/134968091.cms",
-      "date": "2026-10-15T12:34:50.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1n220xb",
-      "title": "DA Hike Latest Update: July 2026 Revision Still Pending After Cabinet Meeting; When Will the Hike Be Announced?",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/da-hike-latest-update-july-2026-revision-still-pending-after-cabinet-meeting-when-will-the-hike-be-announced-306292/amp/",
-      "date": "2026-10-15T11:31:00.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
     }
   ]
 }
