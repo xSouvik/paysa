@@ -1,7 +1,144 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T04:40:58.979Z",
+  "updated": "2026-10-19T13:15:22.709Z",
   "items": [
+    {
+      "id": "ltlcub",
+      "title": "PFRDA launches unified digital platform for NPS subscribers",
+      "source": "ET Government",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/pfrda-launches-unified-digital-platform-for-nps-subscribers/135046093",
+      "date": "2026-10-19T10:57:28.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1lbc5us",
+      "title": "PFRDA Launches NPS Central: Unified Digital Pension Platform",
+      "source": "Rediff MoneyWiz",
+      "url": "https://money.rediff.com/amp/news/market/pfrda-launches-nps-central-unified-digital-pension-platform/56497520261019",
+      "date": "2026-10-19T10:22:20.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "mfmwrs",
+      "title": "8th Pay Commission: Bigger Basic Pay Or More Allowances, Which Could Give You More Financial Security",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-bigger-basic-pay-or-more-allowances-which-could-give-you-more-financial-security-12205092",
+      "date": "2026-10-19T09:17:56.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1a8cw3p",
+      "title": "8th Pay: Bigger Basic Pay Or More Allowances, Which Could Give You More Financial Security",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-bigger-basic-pay-or-more-allowances-which-could-give-you-more-financial-security-12205092/amp/1",
+      "date": "2026-10-19T09:17:56.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "p2tc68",
+      "title": "8th Pay Commission: Level 1 salary at Rs 47,160, Rs 54,000 or Rs 69,000? Check estimates at different fitm",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-factor-calculator-level-1-salary-at-rs-47160-rs-54000-or-rs-69000-check-estimates/articleshow/135043185.cms",
+      "date": "2026-10-19T08:50:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "nwsrsr",
+      "title": "DA hike news: Will central govt employees get a 3% DA hike on October 21?",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/da-hike-news-will-central-govt-employees-get-a-3-da-hike-on-october-21/da-hike-after-dussehra-will-the-government-announce-it-on-october-21/slideshow/135043535.cms",
+      "date": "2026-10-19T08:13:06.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ejg4vl",
+      "title": "Cabinet Approves 78-Day Bonus Worth Rs. 20.1 bn for Railway Staff",
+      "source": "Construction World India",
+      "url": "https://www.constructionworld.in/transport-infrastructure/metro-rail-and-railways-infrastructure/cabinet-approves-78-day-bonus-worth-rs.-20.1-bn-for-railway-staff/98960",
+      "date": "2026-10-19T07:01:06.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "19hm0t9",
+      "title": "8th Pay Commission Update: Basic Pay Vs Grade Pay Differences Explained By Expert",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-basic-pay-vs-grade-pay-differences-explained-fpn932e",
+      "date": "2026-10-19T05:30:30.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "709z2j",
+      "title": "8th Pay Commission: How Much Could Your Salary Rise At Different Fitment Factors? Check Calculations",
+      "source": "News18",
+      "url": "https://www.news18.com/amp/business/economy/8th-pay-commission-how-much-could-your-salary-rise-at-different-fitment-factors-check-calculations-10388164.html",
+      "date": "2026-10-19T05:26:06.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1incvt2",
+      "title": "8th Pay Commission: Nilesh Shah's Stock Bets and Sector Impact",
+      "source": "Univest",
+      "url": "https://univest.in/blogs/why-nilesh-shah-is-eyeing-8th-pay-commission-for-next-stock-bets",
+      "date": "2026-10-19T04:16:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1t9j93g",
+      "title": "Festive Season Brings Major Salary Boost: Check Extra Take-Home Pay for Central Employees with 63 Percent DA",
+      "source": "Zoom News",
+      "url": "https://www.zoomnews.in/amp/en/news-detail/festive-season-brings-major-salary-boost-check-extra-takehome-pay-for-central-employees-with-63-percent-da.html",
+      "date": "2026-10-19T03:57:12.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "167w68b",
       "title": "Why Nilesh Shah is eyeing 8th pay commission for next stock bets",
@@ -620,147 +757,6 @@
         "DA"
       ],
       "speculative": true
-    },
-    {
-      "id": "vaso86",
-      "title": "Tatkal NPS now available on BHIM app: How to open NPS account in 3 steps",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/invest/tatkal-nps-now-available-on-bhim-app-how-to-open-nps-account-in-3-steps/amp_articleshow/134966061.cms",
-      "date": "2026-10-15T11:28:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "psgamy",
-      "title": "7th Pay Commission: Will Central Government Employees Get a DA Hike Before Diwali? Latest Update",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/7th-pay-commission-will-central-government-employees-get-a-da-hike-before-diwali-latest-update/",
-      "date": "2026-10-15T10:00:37.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "vay3fc",
-      "title": "8th Pay Commission Latest News: Mumbai Meetings on October 22–23; What About Salary Hike, Fitment Factor and Pension?",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/world/8th-pay-commission-latest-news-mumbai-meetings-on-october-2223-what-about-salary-hike-fitment-factor-and-pension-306185/",
-      "date": "2026-10-15T09:33:02.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1u2vpge",
-      "title": "No July DA order yet for central staff; rate stays 60%",
-      "source": "www.indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/govt-news/da-july-2026-status-60-percent-unchanged",
-      "date": "2026-10-15T09:22:01.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1v19o3k",
-      "title": "8th Pay Commission Salary And Arrears: What Employees Want From The New Pay Panel",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/eighth-pay-commission-arrears-history-and-current-employee-demands-qwclhah",
-      "date": "2026-10-15T08:13:05.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "vnpsb6",
-      "title": "Cabinet Approves ₹2,010 Crore Bonus for 11.4 Lakh Railway Employees",
-      "source": "The Policy Edge",
-      "url": "https://www.policyedge.in/p/cabinet-approves-2010-crore-bonus-for-114-lakh-railway-employees",
-      "date": "2026-10-15T07:54:26.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "hsx2q1",
-      "title": "No July 2026 DA Hike Yet As Cabinet Clears INR 2,000 Crore Railway Bonus While Dearness Allowance Decision",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/no-july-2026-da-hike-yet-as-cabinet-clears-inr-2000-crore-railway-bonus-while-dearness-allowance-decision-pends-7645534.html/amp",
-      "date": "2026-10-15T07:45:14.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1fzieot",
-      "title": "DA Hike Update: Cabinet Skips July 2026 Decision, Central Govt Employees Wait",
-      "source": "BizzBuzz",
-      "url": "https://www.bizzbuzz.news/national/da-hike-update-cabinet-skips-july-2026-decision-central-govt-employees-wait-1410386",
-      "date": "2026-10-15T06:49:55.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "4xhy3",
-      "title": "Railway employees to get Rs 17,591 annual bonus: But why other central government employees get just Rs 6,",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/indian-railway-employees-to-get-rs-17591-annual-bonus-but-why-other-central-government-employees-get-just-rs-6908/articleshow/134959611.cms",
-      "date": "2026-10-15T06:39:29.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ctek5k",
-      "title": "Centre approves 78-day bonus for over 11 lakh railway employees ahead of Diwali",
-      "source": "Udayavani",
-      "url": "https://udayavani.com/national/centre-approves-78-day-bonus-for-over-11-lakh-railway-employees-ahead-of-diwali-067947?lang=en",
-      "date": "2026-10-15T05:59:14.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "15lo1r",
-      "title": "Cabinet Approves ₹2,009.61 Crore Productivity Linked Bonus for Railway Employees",
-      "source": "Adda247",
-      "url": "https://currentaffairs.adda247.com/cabinet-approves-%E2%82%B92009-61-crore-productivity-linked-bonus-for-railway-employees/",
-      "date": "2026-10-15T05:45:25.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
