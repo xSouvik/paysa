@@ -1,7 +1,68 @@
 {
   "schema": 1,
-  "updated": "2026-10-18T20:43:32.705Z",
+  "updated": "2026-10-19T04:40:58.979Z",
   "items": [
+    {
+      "id": "167w68b",
+      "title": "Why Nilesh Shah is eyeing 8th pay commission for next stock bets",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/videos/why-nilesh-shah-is-eyeing-8th-pay-commission-for-next-stock-bets-11792380198368.html",
+      "date": "2026-10-19T03:28:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "115kwcl",
+      "title": "8th Pay Commission Mumbai visit on October 22-23: Consultation process and key details",
+      "source": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/personal-finance/8th-pay-commission-mumbai-visit-october-22-23-consultation-process-key-details-20014643.htm",
+      "date": "2026-10-19T03:27:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "ijb0b6",
+      "title": "8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-is-dearness-relief-and-how-is-it-different-from-da-expert-explains-11792373617244.html",
+      "date": "2026-10-19T02:28:52.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ya32nf",
+      "title": "PFRDA readies plan to onboard gig workers on National Pension System",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/pfrda-readies-plan-to-onboard-gig-workers-on-national-pension-system/amp_articleshow/135037509.cms",
+      "date": "2026-10-19T01:30:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1ihzndy",
+      "title": "DA hike before Diwali: When will the Centre announce the good news for its employees?",
+      "source": "News9live",
+      "url": "https://www.news9live.com/business/personal-finance/da-hike-before-diwali-when-will-the-centre-announce-the-good-news-for-its-employees-3017199",
+      "date": "2026-10-19T00:31:51.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
     {
       "id": "1mqj0kk",
       "title": "Cabinet approves INR 2,009.61 crore productivity-linked bonus for railway employees",
@@ -65,6 +126,19 @@
         "Pension"
       ],
       "speculative": true
+    },
+    {
+      "id": "q5u3yk",
+      "title": "Cabinet approves 78 days’ Productivity Linked Bonus for over 11.4 lakh railway employees",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/cabinet-approves-78-days-productivity-linked-bonus-for-over-11-4-lakh-railway-employees/",
+      "date": "2026-10-18T09:02:28.000Z",
+      "official": true,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "9z1zaa",
@@ -165,19 +239,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "qtny2w",
-      "title": "Dearness Allowance hike 2026: Will the Centre announce the July DA revision before Diwali? What history suggests",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-hike-2026-will-the-centre-announce-the-july-da-revision-before-diwali-what-history-suggests-11792249985080.html",
-      "date": "2026-10-17T18:30:47.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
     },
     {
       "id": "8ms1mw",
@@ -289,19 +350,6 @@
       "official": false,
       "tags": [
         "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1as5ngk",
-      "title": "Government employees await July 2026 Dearness Allowance hike: Check DA and DR announcement dates for the last 5 years",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/government-employees-await-july-2026-dearness-allowance-hike-check-da-and-dr-announcement-dates-for-the-last-5-years-11792216239544.html",
-      "date": "2026-10-17T07:00:59.000Z",
-      "official": false,
-      "tags": [
-        "DA",
         "Pay"
       ],
       "speculative": false
@@ -469,6 +517,20 @@
         "Pay"
       ],
       "speculative": false
+    },
+    {
+      "id": "14lb3qb",
+      "title": "8th Pay Commission: Dearness allowance may reach 66%-67% four months before the 8th CPC deadline. Here's how",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-dearness-allowance-may-reach-66-67-four-months-before-the-8th-cpc-deadline-here-s-how/article-199817/",
+      "date": "2026-10-16T07:00:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "1ae918p",
@@ -693,71 +755,6 @@
       "source": "Adda247",
       "url": "https://currentaffairs.adda247.com/cabinet-approves-%E2%82%B92009-61-crore-productivity-linked-bonus-for-railway-employees/",
       "date": "2026-10-15T05:45:25.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "tr2n17",
-      "title": "8th Pay Commission Arrears: When will central government employees receive salary dues? What past Pay Commissions reveal",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-arrears-when-will-central-government-employees-receive-salary-dues-what-past-pay-commissions-reveal-article-156342436",
-      "date": "2026-10-15T05:14:45.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "thhzc0",
-      "title": "8th Pay Commission Salary List Goes Viral: Will a Peon Get ₹45,000 and an Inspector ₹1.20 Lakh?",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/8th-pay-commission-salary-list-goes-viral-will-a-peon-get-%E2%82%B945000-and-an-inspector-%E2%82%B91-20-lakh/",
-      "date": "2026-10-15T05:02:36.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ah64gw",
-      "title": "Union Cabinet approves Rs 2,000 crore bonus for 11 lakh railway staff",
-      "source": "The New Indian Express",
-      "url": "https://www.newindianexpress.com/india/2026/Oct/15/union-cabinet-approves-rs-2000-crore-bonus-for-11-lakh-railway-staff",
-      "date": "2026-10-15T03:34:32.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1se5rel",
-      "title": "Cabinet approves 78-day bonus for 11.4 lakh railway employees, up to Rs 17,951 each",
-      "source": "The Indian Express",
-      "url": "https://indianexpress.com/article/india/cabinet-approves-productivity-linked-bonus-for-78-days-to-railway-employees-10921461/",
-      "date": "2026-10-15T02:52:45.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "12lcqcn",
-      "title": "Bhaskar Smart Brief: ‘Blue drum’ Muskaan gets death sentence; railway staff to get 78-day bonus & CJP’s Del...",
-      "source": "Bhaskar English",
-      "url": "https://www.bhaskarenglish.in/national/news/bhaskar-smart-brief-muskan-death-sentence-railway-bonus-delhi-march-protest-updates-139366279.html",
-      "date": "2026-10-15T01:25:00.000Z",
       "official": false,
       "tags": [
         "Railways",
