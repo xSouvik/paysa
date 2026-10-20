@@ -1,7 +1,59 @@
 {
   "schema": 1,
-  "updated": "2026-10-19T22:21:21.001Z",
+  "updated": "2026-10-20T04:51:09.462Z",
   "items": [
+    {
+      "id": "18bduro",
+      "title": "8th Pay Commission: Higher Basic Pay Or More Allowances? What Benefits Govt Employees More",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/eighth-pay-commission-fitment-factor-basic-pay-vs-allowances-for-central-govt-employees-3exhgg0",
+      "date": "2026-10-20T04:28:34.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "z4xxcd",
+      "title": "8th pay commission Mumbai official visit: Work conditions, to operations — What's on agenda for railway dept meetings?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-pay-commission-mumbai-official-visit-22-23-october-agenda-railway-department-meetings-working-conditions-operations-11792459613557.html",
+      "date": "2026-10-20T03:10:15.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1luj969",
+      "title": "DA Hike After Dussehra? What Central Government Employees Are Waiting For",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/da-hike-after-dussehra-what-central-government-employees-are-waiting-for-12208989",
+      "date": "2026-10-20T03:08:14.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "pb98hk",
+      "title": "8th Pay Commission: What is gratuity, and how is it calculated based on last drawn salary? Expert explains",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-is-gratuity-and-how-is-it-calculated-based-on-last-drawn-salary-expert-explains-11792458607201.html",
+      "date": "2026-10-20T01:59:44.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "14ihmfy",
       "title": "NPS Central goes live, unifying pension services",
@@ -125,6 +177,19 @@
         "Pension"
       ],
       "speculative": false
+    },
+    {
+      "id": "f0qb71",
+      "title": "Railway Employees Seek Bigger Festive Bonus As Cabinet Decision Nears",
+      "source": "BW Businessworld",
+      "url": "https://www.businessworld.in/article/railway-employees-seek-bigger-festive-bonus-as-cabinet-decision-nears-628491",
+      "date": "2026-10-19T10:14:56.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "mfmwrs",
@@ -417,18 +482,6 @@
       "speculative": true
     },
     {
-      "id": "1gadsmp",
-      "title": "8th Pay Commission: What is the difference between basic pay, grade pay and pay level? Expert explains",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-is-the-difference-between-basic-pay-grade-pay-and-pay-level-expert-explains-11792293833318.html",
-      "date": "2026-10-18T03:57:03.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1fffwmq",
       "title": "Railway Employees to Receive 78-Day Bonus: Cabinet Approves ₹2,009.61 Crore for 11.4 Lakh Staff",
       "source": "www.nationpathindia.com",
@@ -438,18 +491,6 @@
       "tags": [
         "Railways",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "fig7ui",
-      "title": "8th Pay Commission: How salaries change at fitment factors of 4, 3.833 and 3.80; Check complete calculations",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-salaries-change-at-fitment-factors-of-4-3-833-and-3-80-check-complete-calculations-11792289760431.html",
-      "date": "2026-10-18T02:49:11.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
       ],
       "speculative": false
     },
@@ -718,43 +759,6 @@
         "DA"
       ],
       "speculative": true
-    },
-    {
-      "id": "8ck8pi",
-      "title": "Central government employees' bonus for 2025-26: Who qualifies, how much they get and 8 key rules explained",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/central-government-employees-bonus-for-2025-26-who-qualifies-how-much-they-get-and-8-key-rules-explained/article-202001/",
-      "date": "2026-10-16T10:02:34.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1g874zt",
-      "title": "8th Pay Commission Big Update: Drafting Panel Meet On April 13; Salary Hike Hopes Rise Ahead First Field Visit",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/8th-pay-commission-update-nc-jcm-finalise-demands-april-13-dehradun-visit-on-april-24-8th-cpc-salary-1500903.html",
-      "date": "2026-10-16T07:22:54.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "145dk70",
-      "title": "Annual bonus of Rs 6,908 for central government employees: Who qualifies and who will be left out",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/central-government-employees-group-c-b-to-get-rs-6908-annual-non-plb-bonus-who-qualifies-eligibility-criteria-calculation/articleshow/134983869.cms",
-      "date": "2026-10-16T07:05:06.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
