@@ -1,7 +1,21 @@
 {
   "schema": 1,
-  "updated": "2026-10-20T17:07:55.075Z",
+  "updated": "2026-10-20T21:37:21.973Z",
   "items": [
+    {
+      "id": "172khha",
+      "title": "DA Hike: Will centre announce dearness allowance on October 21? Check expected hike for govt employees and pensioners",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/da-hike-will-centre-announce-dearness-allowance-on-october-21-check-expected-hike-for-govt-employees-and-pensioners-article-156374913",
+      "date": "2026-10-20T18:32:11.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1euc5gc",
       "title": "3% DA Hike on Focus? Why Central Employees Are Expecting Good News Ahead Of Cabinet Meet",
@@ -743,20 +757,6 @@
         "DA"
       ],
       "speculative": false
-    },
-    {
-      "id": "s3c3mh",
-      "title": "8th Pay Commission: Salary Hike, Pensions, DA Merger, Arrears, Fitment Factor --- 8th CPC Big News In Diwali?",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-latest-salary-hike-pensions-da-merger-arrears-fitment-factor-8cpc-big-news-diwali-1542203.html",
-      "date": "2026-10-17T10:11:51.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
     }
   ]
 }
