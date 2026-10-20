@@ -1,7 +1,56 @@
 {
   "schema": 1,
-  "updated": "2026-10-20T11:36:37.140Z",
+  "updated": "2026-10-20T17:07:55.075Z",
   "items": [
+    {
+      "id": "1euc5gc",
+      "title": "3% DA Hike on Focus? Why Central Employees Are Expecting Good News Ahead Of Cabinet Meet",
+      "source": "The Daily Jagran",
+      "url": "https://www.thedailyjagran.com/lite/business/news/3pc-da-hike-on-focus-why-central-employees-are-expecting-good-news-ahead-of-cabinet-meet-10333400",
+      "date": "2026-10-20T13:20:00.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "x3o55a",
+      "title": "8th Pay Commission: Panel to visit Mumbai on October 22-23; key issues on agenda, what employees can expect",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-panel-to-visit-mumbai-on-october-22-23-key-issues-on-agenda-what-government-employees-can-expect-article-156373149",
+      "date": "2026-10-20T12:38:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1l1uqw7",
+      "title": "8th Pay Commission gross salary hike: How Level 3 employees may get Rs 69,000 gross pay in 8th CPC",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-gross-salary-calculator-latest-news-how-level-3-employees-may-get-rs-69000-gross-pay-in-8th-cpc/articleshow/135068213.cms",
+      "date": "2026-10-20T11:36:25.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "11hcjv6",
+      "title": "8th Pay Commission: 14% Then, ~140% Demanded Now — Explained",
+      "source": "Kalkine India",
+      "url": "https://www.kalkine.co.in/article/personal-finance/8th-pay-commission-why-unions-demand-implies-a-140-real-hike-versus-14-under-the-7th-pay-commission",
+      "date": "2026-10-20T10:44:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "1ag5w05",
       "title": "DA hike 2026: Will government employees get a festive salary boost after Dussehra? October 21 holds the key",
@@ -64,6 +113,18 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "91dzr3",
+      "title": "NPS Central Launches Unified Pension Services",
+      "source": "India Business Trade",
+      "url": "https://indiabusinesstrade.in/nps-central-launches-unified-pension-services.htm",
+      "date": "2026-10-20T07:05:46.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
       ],
       "speculative": false
     },
@@ -694,69 +755,6 @@
         "DA",
         "8th CPC",
         "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1768wpn",
-      "title": "expected-da-from-jan-2018-table",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/expected-da-from-jan-2018-table-2",
-      "date": "2026-10-17T10:08:36.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1xpfvsk",
-      "title": "11.4 lakh railway employees to get 78-day bonus | Tap to know more | Inshorts",
-      "source": "Inshorts",
-      "url": "https://inshorts.com/en/news/11-4-lakh-railway-employees-to-get-78-day-bonus-1792220305622",
-      "date": "2026-10-17T09:18:55.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1sq6mce",
-      "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-pay-matrix-salary-hike-by-92-to-285-from-rs-18000-basic-pay-8-cpc-fitment-factor-1514341.html",
-      "date": "2026-10-17T04:03:01.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "9zlnlz",
-      "title": "Productivity Linked Bonus equivalent to 60 Days for Postal Employees for 2025-26: Department of Posts Order",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/productivity-linked-bonus-for-postal-employees-for-2025-26.html",
-      "date": "2026-10-16T15:26:46.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "jogw25",
-      "title": "DA Hike After Dussehra? Will Centre Announce Dearness Allowance Increase After October 20?",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/da-hike-after-dussehra-will-centre-announce-dearness-allowance-increase-after-october-20-7647297.html",
-      "date": "2026-10-16T13:11:26.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
       ],
       "speculative": true
     }
