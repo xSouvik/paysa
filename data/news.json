@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-10-21T17:12:37.097Z",
+  "updated": "2026-10-21T21:43:00.954Z",
   "items": [
+    {
+      "id": "1e4g3vq",
+      "title": "Amendments in the Employees' Pension Scheme, 2026 regarding Govt. Contribution: Notification No. G.S.R. 890(E)",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/amendments-in-the-employees-pension-scheme-2026.html",
+      "date": "2026-10-21T17:08:31.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "1obao3r",
       "title": "DA hike 2026: No festive relief yet for 1.2 crore employees and pensioners. When will Centre announce the 3% increase?",
@@ -747,18 +759,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "9z1zaa",
-      "title": "DA Hike Before Diwali? Here's How Much More Employees Could Get",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/personal-finance/da-hike-before-diwali-heres-how-much-more-employees-could-get-8th-pay-commission-12202070",
-      "date": "2026-10-18T07:57:45.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
     }
   ]
 }
