@@ -1,7 +1,85 @@
 {
   "schema": 1,
-  "updated": "2026-10-21T11:49:08.619Z",
+  "updated": "2026-10-21T17:12:37.097Z",
   "items": [
+    {
+      "id": "1obao3r",
+      "title": "DA hike 2026: No festive relief yet for 1.2 crore employees and pensioners. When will Centre announce the 3% increase?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/da-hike-2026-no-festive-relief-yet-for-1-2-crore-employees-and-pensioners-when-will-centre-announce-the-3-increase-11792589277300.html",
+      "date": "2026-10-21T14:35:06.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1lfrx1i",
+      "title": "Railway employees demand online filing of travel, overtime claims as divisions flag high amounts",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/industry/transportation/railways/railway-employees-demand-online-filing-of-travel-overtime-claims-as-divisions-flag-high-amounts/articleshow/135093951.cms",
+      "date": "2026-10-21T13:50:04.000Z",
+      "official": false,
+      "tags": [
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "9ac5fe",
+      "title": "8th Pay Commission: How Experts Calculate Gratuity Based On Your salary",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-gratuity-calculation-and-pension-benefits-explained-xsfms8i",
+      "date": "2026-10-21T13:42:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "cwlfvh",
+      "title": "DA hike delayed again? 1.2 crore employees and pensioners face longer wait",
+      "source": "The Financial Express",
+      "url": "https://www.financialexpress.com/money/da-hike-delayed-again-1-2-crore-employees-and-pensioners-face-longer-wait-4366365/",
+      "date": "2026-10-21T13:11:04.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1j6t04",
+      "title": "8th Pay Commission: 300% Salary Hike? Fitment Factor 3.83 vs 4 Impact On Level 1–18 Employees & Pensioners",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-300-salary-hike-fitment-factor-3-83-vs-4-impact-level-1-18-employees-pensioners-1542901.html",
+      "date": "2026-10-21T12:56:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "19pwfj9",
+      "title": "DA hike: Why is there delay in DA hike announcement and when can government make it?",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/da-hike-announcement-has-government-announced-dearness-allowance-increase-for-central-employees/articleshow/135092134.cms",
+      "date": "2026-10-21T12:25:58.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
     {
       "id": "1vm37kw",
       "title": "8th CPC Fitment Factor 2.0: Basic pay could double, but how much could gross salary rise?",
@@ -39,6 +117,18 @@
         "DA"
       ],
       "speculative": true
+    },
+    {
+      "id": "ut0tci",
+      "title": "CT scans, MRI tests to cost 20 percent below CGHS rates at 3 MCD Hospitals",
+      "source": "Medical Dialogues",
+      "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/ct-scans-mri-tests-to-cost-20-percent-below-cghs-rates-at-3-mcd-hospitals-181670",
+      "date": "2026-10-21T06:51:07.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
     },
     {
       "id": "1apkutb",
@@ -484,32 +574,6 @@
       "speculative": true
     },
     {
-      "id": "5sdefx",
-      "title": "8th Pay Commission: Level 1 salary at Rs 47,160, Rs 54,000 or Rs 69,000? Check Level 1-5 estimates at diff",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-factor-calculator-level-1-salary-at-rs-47160-rs-54000-or-rs-69000-check-estimates/articleshow/135043185.cms",
-      "date": "2026-10-19T08:50:11.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "p2tc68",
-      "title": "8th Pay Commission: Level 1 salary at Rs 47,160, Rs 54,000 or Rs 69,000? Check estimates at different fitm",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-factor-calculator-level-1-salary-at-rs-47160-rs-54000-or-rs-69000-check-estimates/articleshow/135043185.cms",
-      "date": "2026-10-19T08:50:11.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1ejg4vl",
       "title": "Cabinet Approves 78-Day Bonus Worth Rs. 20.1 bn for Railway Staff",
       "source": "Construction World India",
@@ -595,19 +659,6 @@
         "8th CPC"
       ],
       "speculative": false
-    },
-    {
-      "id": "ijb0b6",
-      "title": "8th Pay Commission: What is dearness relief and how is it different from DA? Expert explains",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-is-dearness-relief-and-how-is-it-different-from-da-expert-explains-11792373617244.html",
-      "date": "2026-10-19T02:28:52.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
-      ],
-      "speculative": true
     },
     {
       "id": "1ya32nf",
@@ -708,58 +759,6 @@
         "DA"
       ],
       "speculative": true
-    },
-    {
-      "id": "12y3w2d",
-      "title": "8th Pay Commission Update: DA Merger, Salary Hike And 5 Key Demands Of Employee Unions",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-news-salary-hike-da-merger-and-top-union-demands-gfzn9c9",
-      "date": "2026-10-18T04:58:02.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1fffwmq",
-      "title": "Railway Employees to Receive 78-Day Bonus: Cabinet Approves ₹2,009.61 Crore for 11.4 Lakh Staff",
-      "source": "www.nationpathindia.com",
-      "url": "https://www.nationpathindia.com/economy/indian-railways-78-day-productivity-linked-bonus-2026",
-      "date": "2026-10-18T03:33:55.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "rd9qvb",
-      "title": "Railway employees to get Productivity Linked Bonus of 78 days",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/railway-employees-to-get-productivity-linked-bonus-of-78-days/",
-      "date": "2026-10-17T20:24:10.000Z",
-      "official": true,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "qqv496",
-      "title": "Submission of Life Certificate for the year 2026 by ICMR-HQ Pensioners: Notice",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/submission-of-life-certificate-for-the-year-2026-icmr.html",
-      "date": "2026-10-17T18:42:30.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
