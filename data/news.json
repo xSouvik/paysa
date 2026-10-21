@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-10-20T21:37:21.973Z",
+  "updated": "2026-10-21T04:46:52.901Z",
   "items": [
+    {
+      "id": "1cafqph",
+      "title": "DA Hike 2026: What Is Dearness Allowance, Will It Increase Before Diwali? Check How Salary Will Change With A 3% Rise In DA",
+      "source": "Jagran Josh",
+      "url": "https://www.jagranjosh.com/general-knowledge/da-hike-2026-what-is-dearness-allowance-when-will-it-increase-before-diwali-check-how-salary-will-change-with-a-3-percen-rise-in-da-60-percent-1820013210-1",
+      "date": "2026-10-21T03:57:35.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "172khha",
       "title": "DA Hike: Will centre announce dearness allowance on October 21? Check expected hike for govt employees and pensioners",
@@ -745,18 +758,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1jce0i5",
-      "title": "July 2026 DA Hike: Central Government Employees Await Announcement After October 14 Cabinet Meet",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/pension/july-2026-da-hike-central-government-employees-await-announcement-after-october-14-cabinet-meet",
-      "date": "2026-10-17T10:12:59.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
     }
   ]
 }
