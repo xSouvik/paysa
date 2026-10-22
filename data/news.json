@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "updated": "2026-10-21T21:43:00.954Z",
+  "updated": "2026-10-22T04:45:09.178Z",
   "items": [
+    {
+      "id": "1uit2i5",
+      "title": "Grant of notional Increment on 1st July/1st January to the Armed Forces Personnel who are retiring/retired on 30th June/31st December respectively: MoD Order",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/grant-of-notional-increment-on-1st-july-1st-january-to-the-armed-forces-personnel.html",
+      "date": "2026-10-22T03:32:10.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "16cszwm",
+      "title": "8th Pay Commission: Why Salary Arrears Matter For India's FY28 Consumption",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-why-salary-arrears-matter-for-indias-fy28-consumption-12217930",
+      "date": "2026-10-22T02:28:26.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1dnn3yb",
+      "title": "8th Pay Commission: Will There Be A Big Salary Jump Like the 7th? Here’s Why a 60% Hike Is Being Discussed",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-will-employees-see-another-big-salary-jump-like-the-7th-here-s-why-a-60-hike-1521431.html",
+      "date": "2026-10-21T23:15:48.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1e4g3vq",
       "title": "Amendments in the Employees' Pension Scheme, 2026 regarding Govt. Contribution: Notification No. G.S.R. 890(E)",
@@ -718,45 +756,6 @@
       "official": false,
       "tags": [
         "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "4pwond",
-      "title": "8th Pay Commission: What Are Basic Pay, Grade Pay and Pay Levels? Check Salary Structure and Fitment Factor",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/8th-pay-commission-what-are-basic-pay-grade-pay-and-pay-levels-check-salary-structure-and-fitment-factor-7649065.html",
-      "date": "2026-10-18T11:17:57.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1txon3n",
-      "title": "DA Hike: Will Centre announce increase on October 21 ahead of Diwali? Check expected hike for govt employees and pensioners",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/da-hike-will-centre-announce-increase-on-october-21-ahead-of-diwali-check-expected-hike-for-government-employees-and-pensioners-article-156361472",
-      "date": "2026-10-18T11:17:26.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "q5u3yk",
-      "title": "Cabinet approves 78 days’ Productivity Linked Bonus for over 11.4 lakh railway employees",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/cabinet-approves-78-days-productivity-linked-bonus-for-over-11-4-lakh-railway-employees/",
-      "date": "2026-10-18T09:02:28.000Z",
-      "official": true,
-      "tags": [
-        "Railways",
-        "Pay"
       ],
       "speculative": false
     }
