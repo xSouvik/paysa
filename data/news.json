@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-22T17:10:48.991Z",
+  "updated": "2026-10-22T21:35:58.430Z",
   "items": [
     {
       "id": "wc1hwx",
@@ -25,6 +25,19 @@
         "DA"
       ],
       "speculative": false
+    },
+    {
+      "id": "1i2iy8g",
+      "title": "8th Pay Commission Good News Likely From April 28-30? Fitment Factor At 4, Salary Hike To Rs 72,000; Know More",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-likely-between-april-28-30-fitment-factor-at-4-salary-hike-rs-72000-pm-1504639.html",
+      "date": "2026-10-22T11:43:16.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "1u7da5s",
@@ -745,19 +758,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "ijmakw",
-      "title": "8th Pay Commission fitment factor: Higher basic pay or more allowances—what is better for govt employees?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fitment-factor-higher-basic-pay-or-more-allowances-what-is-better-for-govt-employees-11792411406569.html",
-      "date": "2026-10-19T13:45:48.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
