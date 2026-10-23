@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T17:07:12.537Z",
+  "updated": "2026-10-23T21:24:27.230Z",
   "items": [
+    {
+      "id": "1ar55lx",
+      "title": "Railway Pensioners Protest in Jaipur for Pension Reforms",
+      "source": "Urban Acres",
+      "url": "https://urbanacres.in/jaipur-railway-pensioners-push-for-higher-benefits-before-pay-commission/",
+      "date": "2026-10-23T19:53:56.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "Railways"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "ae0st3",
+      "title": "Railway pensioners protest, demand pension reforms, submit memo",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/railway-pensioners-protest-demand-pension-reforms-submit-memo/articleshow/135150928.cms",
+      "date": "2026-10-23T16:44:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "Railways"
+      ],
+      "speculative": true
+    },
     {
       "id": "1w5fpgv",
       "title": "UP TGT PGT Salary 2026: In-Hand Salary, Pay Level, DA 60%, HRA & Allowances",
@@ -24,6 +50,20 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "gj9a1g",
+      "title": "8th Pay Commission: Dearness allowance merger - what the 5th, 6th and 7th CPCs did; what's expected now",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-dearness-allowance-merger-what-the-5th-6th-and-7th-cp-cs-did-what-s-expected-now/article-202324/",
+      "date": "2026-10-23T12:17:03.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
       ],
       "speculative": true
     },
@@ -74,6 +114,18 @@
       "tags": [
         "Tax",
         "Leave"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1pzd1w4",
+      "title": "EPS 2026: Govt notifies new rule capping its pension contribution at ₹15,000 wages; see details",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/eps-2026-govt-notifies-new-rule-capping-its-pension-contribution-at-15-000-wages-see-details/article-202305/",
+      "date": "2026-10-23T08:31:48.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
       ],
       "speculative": false
     },
@@ -134,6 +186,20 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "gmnp2f",
+      "title": "Expected 8th CPC DA/DR from July 2026 - 8वें वेतन आयोग में जुलाई 2026 से 2% DA/DR का अनुमान: गणना और पूरी तालिका",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/expected-8th-cpc-da-dr-from-july-2026.html",
+      "date": "2026-10-23T03:30:38.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
       ],
       "speculative": true
     },
@@ -684,69 +750,6 @@
       "source": "Jagran Josh",
       "url": "https://www.jagranjosh.com/general-knowledge/da-hike-2026-what-is-dearness-allowance-when-will-it-increase-before-diwali-check-how-salary-will-change-with-a-3-percen-rise-in-da-60-percent-1820013210-1",
       "date": "2026-10-21T03:57:35.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "172khha",
-      "title": "DA Hike: Will centre announce dearness allowance on October 21? Check expected hike for govt employees and pensioners",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/da-hike-will-centre-announce-dearness-allowance-on-october-21-check-expected-hike-for-govt-employees-and-pensioners-article-156374913",
-      "date": "2026-10-20T18:32:11.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1euc5gc",
-      "title": "3% DA Hike on Focus? Why Central Employees Are Expecting Good News Ahead Of Cabinet Meet",
-      "source": "The Daily Jagran",
-      "url": "https://www.thedailyjagran.com/lite/business/news/3pc-da-hike-on-focus-why-central-employees-are-expecting-good-news-ahead-of-cabinet-meet-10333400",
-      "date": "2026-10-20T13:20:00.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "x3o55a",
-      "title": "8th Pay Commission: Panel to visit Mumbai on October 22-23; key issues on agenda, what employees can expect",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-panel-to-visit-mumbai-on-october-22-23-key-issues-on-agenda-what-government-employees-can-expect-article-156373149",
-      "date": "2026-10-20T12:38:37.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "11hcjv6",
-      "title": "8th Pay Commission: 14% Then, ~140% Demanded Now — Explained",
-      "source": "Kalkine India",
-      "url": "https://www.kalkine.co.in/article/personal-finance/8th-pay-commission-why-unions-demand-implies-a-140-real-hike-versus-14-under-the-7th-pay-commission",
-      "date": "2026-10-20T10:44:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ag5w05",
-      "title": "DA hike 2026: Will government employees get a festive salary boost after Dussehra? October 21 holds the key",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-2026-will-government-employees-get-a-festive-salary-boost-after-dussehra-october-21-holds-the-key-11792492432452.html",
-      "date": "2026-10-20T10:41:35.000Z",
       "official": false,
       "tags": [
         "DA",
