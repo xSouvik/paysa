@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-10-23T11:39:14.749Z",
+  "updated": "2026-10-23T17:07:12.537Z",
   "items": [
+    {
+      "id": "1w5fpgv",
+      "title": "UP TGT PGT Salary 2026: In-Hand Salary, Pay Level, DA 60%, HRA & Allowances",
+      "source": "Adda247",
+      "url": "https://www.adda247.com/teaching-jobs-exam/up-tgt-pgt-teacher-salary/",
+      "date": "2026-10-23T15:44:39.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "o5f1v9",
+      "title": "DA Hike July 2026: When Will Centre Announce 3% Rise for Central Government Employees?",
+      "source": "LatestLY",
+      "url": "https://www.latestly.com/india/news/da-hike-july-2026-when-will-centre-announce-3-rise-for-central-government-employees-7654801.html/amp",
+      "date": "2026-10-23T15:03:23.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
     {
       "id": "1c93vtx",
       "title": "7th Pay Commission DA Hike: Will Central Government Employees Get 3% Increase on October 28?",
@@ -38,6 +63,19 @@
         "Railways"
       ],
       "speculative": true
+    },
+    {
+      "id": "1to612m",
+      "title": "Retired employee gets income tax notice over Rs 9.29 lakh leave encashment; ITAT Jaipur cancels it and giv",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/tax/retired-employee-gets-income-tax-notice-over-rs-9-29-lakh-leave-encashment-itat-jaipur-cancels-it-and-gives-him-full-tax-exemption-heres-why/articleshow/135061398.cms",
+      "date": "2026-10-23T09:19:09.000Z",
+      "official": false,
+      "tags": [
+        "Tax",
+        "Leave"
+      ],
+      "speculative": false
     },
     {
       "id": "2ip681",
@@ -553,18 +591,6 @@
       "speculative": true
     },
     {
-      "id": "19pwfj9",
-      "title": "DA hike: Why is there delay in DA hike announcement and when can government make it?",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-hike-announcement-has-government-announced-dearness-allowance-increase-for-central-employees/articleshow/135092134.cms",
-      "date": "2026-10-21T12:25:58.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1vm37kw",
       "title": "8th CPC Fitment Factor 2.0: Basic pay could double, but how much could gross salary rise?",
       "source": "Moneycontrol.com",
@@ -725,33 +751,6 @@
       "tags": [
         "DA",
         "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ir1111",
-      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-april-fitment-factor-pensions-salary-hike-implementation-date-details-1501975.html",
-      "date": "2026-10-20T09:36:54.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ywgxcz",
-      "title": "8th Pay Commission: What Employees And Pensioners Can Expect From October 22-23 Meetings",
-      "source": "ABP Live English",
-      "url": "https://news.abplive.com/business/personal-finance/8th-pay-commission-news-government-employees-what-to-expect-from-october-22-23-meetings-1872342",
-      "date": "2026-10-20T08:25:50.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
       ],
       "speculative": true
     }
