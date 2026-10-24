@@ -1,7 +1,61 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T04:36:36.856Z",
+  "updated": "2026-10-24T11:00:00.122Z",
   "items": [
+    {
+      "id": "k0sug3",
+      "title": "DA Hike 2026 Updates: Will Central Government Employees Get Dearness Allowance Hike Before Holi? Check Trends",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/da-hike-2026-updates-will-central-government-employees-get-dearness-allowance-hike-before-holi-check-1491427.html",
+      "date": "2026-10-24T07:25:40.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1jrhlv0",
+      "title": "8th Pay Commission Holds Mumbai Meeting, Employee Unions Demand DA-Basic Salary Merger",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-mumbai-meeting-da-merger-demand/",
+      "date": "2026-10-24T06:28:39.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1lanret",
+      "title": "8th pay commission: Here's what ToR says on dearness allowance and govt's response to DA merger demands",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-pay-commission-cpc-terms-of-reference-what-tor-says-dearness-allowance-hike-govt-response-employee-da-merger-demands-11792812995010.html",
+      "date": "2026-10-24T05:21:43.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "tlgee6",
+      "title": "DA Hike 2026 UP Government Employees: Latest update, expectations on dearness allowance announcement",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/da-hike-2026-up-government-employees-latest-update-expectations-on-dearness-allowance-announcement-11792812631993.html",
+      "date": "2026-10-24T05:10:09.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "93xv3i",
       "title": "8th Pay Commission: Will DA merge with basic pay? What past panels decided and what employees should know",
@@ -291,18 +345,6 @@
       "speculative": false
     },
     {
-      "id": "136skmr",
-      "title": "8th Pay Commission: How higher basic pay could boost your earnings over 20 years – Expert explains",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-higher-basic-pay-could-boost-your-earnings-over-20-years-expert-explains-11792719235718.html",
-      "date": "2026-10-23T02:15:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
       "id": "wc1hwx",
       "title": "8th Pay Commission: Will a New Notification Be Issued Soon? Central Government Employees Await Update",
       "source": "Udaipur Kiran",
@@ -516,19 +558,6 @@
       "speculative": true
     },
     {
-      "id": "1me30nq",
-      "title": "Dearness allowance delay July 2026: Government employees await DA hike and arrears update — what to watch next",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-delay-july-2026-government-employees-await-da-hike-and-arrears-update-what-to-watch-next-11792645079788.html",
-      "date": "2026-10-22T05:51:45.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "mu9zzw",
       "title": "8th Pay Commission salary calculator: What your pay could look like at different fitment factors",
       "source": "CNBC TV18",
@@ -731,30 +760,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "7vxyuv",
-      "title": "DA Hike July 2026 Still Pending in October: Expected 3% Rise to 63% for Central Govt Employees",
-      "source": "PSU Connect",
-      "url": "https://www.psuconnect.in/news/july-2026-da-hike-still-awaits-cabinet-nod-in-mid-october",
-      "date": "2026-10-21T07:55:00.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ut0tci",
-      "title": "CT scans, MRI tests to cost 20 percent below CGHS rates at 3 MCD Hospitals",
-      "source": "Medical Dialogues",
-      "url": "https://medicaldialogues.in/news/health/hospital-diagnostics/ct-scans-mri-tests-to-cost-20-percent-below-cghs-rates-at-3-mcd-hospitals-181670",
-      "date": "2026-10-21T06:51:07.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
     }
   ]
 }
