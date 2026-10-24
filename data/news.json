@@ -1,7 +1,31 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T11:00:00.122Z",
+  "updated": "2026-10-24T15:57:13.062Z",
   "items": [
+    {
+      "id": "1y8zcut",
+      "title": "DA hike news July 2026: Will Centre announce DA hike on Oct 28? How much increase can employees expect? Check details",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/da-hike-news-july-2026-will-centre-announce-da-hike-on-oct-28-how-much-increase-can-employees-expect-check-details-11792841258779.html",
+      "date": "2026-10-24T12:55:03.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "ude3eo",
+      "title": "NPS To OPS Transfer In Death And Disability Cases: Revised SOP For Pensioners And Families Explained",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/retirement/nps-to-ops-transfer-in-death-and-disability-cases-revised-sop-for-pensioners-and-families-explained",
+      "date": "2026-10-24T07:31:14.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "k0sug3",
       "title": "DA Hike 2026 Updates: Will Central Government Employees Get Dearness Allowance Hike Before Holi? Check Trends",
@@ -293,18 +317,6 @@
         "DA"
       ],
       "speculative": false
-    },
-    {
-      "id": "189m1lf",
-      "title": "DA hike: Oct 21 didn't bring good news; govt employees anticipate ‘Diwali gift’ from next Cabinet meet | What's expected",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/da-hike-oct-21-didnt-bring-good-news-govt-employees-anticipate-diwali-gift-from-28-oct-cabinet-meeting-what-expected-11792727444582.html",
-      "date": "2026-10-23T05:09:18.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
     },
     {
       "id": "gmnp2f",
@@ -747,19 +759,6 @@
         "CGHS"
       ],
       "speculative": false
-    },
-    {
-      "id": "1l2d6ot",
-      "title": "8th Pay Commission Latest News: 3.833 Fitment Factor Demand Explained; Check Level 1-5 Salary Calculations",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-3833-fitment-factor-demand-explained-check-level-1-5-salary-calculations-309476/",
-      "date": "2026-10-21T09:17:53.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
