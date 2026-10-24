@@ -1,7 +1,21 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T15:57:13.062Z",
+  "updated": "2026-10-24T20:49:46.430Z",
   "items": [
+    {
+      "id": "1ir1111",
+      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-april-fitment-factor-pensions-salary-hike-implementation-date-details-1501975.html",
+      "date": "2026-10-24T15:49:50.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1y8zcut",
       "title": "DA hike news July 2026: Will Centre announce DA hike on Oct 28? How much increase can employees expect? Check details",
@@ -747,18 +761,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1x2shmh",
-      "title": "Geetanjali Hospitals in Udaipur and Jaipur Listed Under CGHS, Eligible Beneficiaries to Access Treatment",
-      "source": "PressNote",
-      "url": "https://pressnote.in/geetanjalihospitalsinudaipurandjaipurlistedundercghseligiblebeneficiar_545192.html",
-      "date": "2026-10-21T10:36:53.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
     }
   ]
 }
