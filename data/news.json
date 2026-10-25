@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T11:29:14.377Z",
+  "updated": "2026-10-25T16:19:18.064Z",
   "items": [
+    {
+      "id": "1sq6mce",
+      "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-pay-matrix-salary-hike-by-92-to-285-from-rs-18000-basic-pay-8-cpc-fitment-factor-1514341.html",
+      "date": "2026-10-25T14:34:41.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "axsjju",
+      "title": "Central government pensioners await DR hike as Bharat Pensioners Samaj seeks cabinet secretary’s intervention",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-await-dr-hike-as-bharat-pensioners-samaj-seeks-cabinet-secretary-s-intervention-11792932915291.html",
+      "date": "2026-10-25T13:37:35.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "uzdghf",
       "title": "Central Employees Await DA Hike Before Diwali",
@@ -184,19 +210,6 @@
       "speculative": true
     },
     {
-      "id": "j7o2h4",
-      "title": "8th Pay Commission: How could a 450-day leave encashment limit boost retirement payouts? Expert explains",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-could-a-450-day-leave-encashment-limit-boost-retirement-payouts-expert-explains-11792804680234.html",
-      "date": "2026-10-24T01:54:58.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Leave"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1uu2kez",
       "title": "Railway Pensioners Protest in Jaipur Over Pension Reforms",
       "source": "Urban Acres",
@@ -221,6 +234,18 @@
         "Railways"
       ],
       "speculative": false
+    },
+    {
+      "id": "14awdd1",
+      "title": "Explainer: How NPS Central could be a game-changer for subscribers",
+      "source": "The Financial Express",
+      "url": "https://www.financialexpress.com/money/explainer-how-nps-central-could-be-a-game-changer-for-subscribers-4368384/",
+      "date": "2026-10-23T18:46:34.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
     },
     {
       "id": "ae0st3",
@@ -353,6 +378,18 @@
       "source": "Upstox",
       "url": "https://upstox.com/news/personal-finance/latest-updates/nps-to-ops-migration-rules-revised-what-pensioners-and-families-need-to-know-about-death-disability-cases/article-202299/",
       "date": "2026-10-23T07:53:57.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "4q8k1h",
+      "title": "Gratuity calculation for salaried employees in 2026: 10 essential FAQs you need to know",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/gratuity-calculation-for-salaried-employees-in-2026-10-essential-fa-qs-you-need-to-know/article-191054/",
+      "date": "2026-10-23T07:00:00.000Z",
       "official": false,
       "tags": [
         "Pension"
@@ -722,42 +759,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1e4g3vq",
-      "title": "Amendments in the Employees' Pension Scheme, 2026 regarding Govt. Contribution: Notification No. G.S.R. 890(E)",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/amendments-in-the-employees-pension-scheme-2026.html",
-      "date": "2026-10-21T17:08:31.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1768wpn",
-      "title": "expected-da-from-jan-2018-table",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/expected-da-from-jan-2018-table-2",
-      "date": "2026-10-21T15:10:38.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "19cimds",
-      "title": "Stricter diagnostic lab rules for CGHS fuel double standards charge",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge/articleshow/135094179.cms",
-      "date": "2026-10-21T14:30:00.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
     }
   ]
 }
