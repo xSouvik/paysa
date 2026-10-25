@@ -1,7 +1,45 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T04:41:19.885Z",
+  "updated": "2026-10-25T11:29:14.377Z",
   "items": [
+    {
+      "id": "uzdghf",
+      "title": "Central Employees Await DA Hike Before Diwali",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/central-employees-await-da-hike-before-diwali/",
+      "date": "2026-10-25T08:30:39.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1m1gkjx",
+      "title": "8th Pay Commission: ToR on DA merger and Government response",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-da-merger-tor-details-and-government-response-kwiiccp",
+      "date": "2026-10-25T07:19:49.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "nqh3i5",
+      "title": "July 2026 DA Hike: Will the centre announce the revised allowance before Diwali in November?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/july-2026-da-hike-will-the-centre-announce-the-revised-allowance-before-diwali-in-november-11792851675306.html",
+      "date": "2026-10-25T05:49:31.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1678xxj",
       "title": "Social Justice Minister Dr Virendra Kumar reviews implementation of key central welfare schemes",
@@ -37,6 +75,20 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "go6d50",
+      "title": "8th Pay Commission Latest News: Mumbai Consultations Conclude; Check Salary Hike, Fitment Factor, DA Merger and Report Timeline",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-mumbai-consultations-conclude-check-salary-hike-fitment-factor-da-merger-and-report-timeline-311220/",
+      "date": "2026-10-24T09:36:49.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
       ],
       "speculative": true
     },
@@ -231,19 +283,6 @@
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "dvwchq",
-      "title": "Dearness Allowance July 2026: How much could your monthly salary increase with 1%, 2% or 3% DA hike? Check formula",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-july-2026-how-much-could-your-monthly-salary-increase-with-1-2-or-3-da-hike-check-formula-11792744118146.html",
-      "date": "2026-10-23T09:56:28.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
       ],
       "speculative": true
     },
@@ -719,47 +758,6 @@
         "CGHS"
       ],
       "speculative": false
-    },
-    {
-      "id": "9ac5fe",
-      "title": "8th Pay Commission: How Experts Calculate Gratuity Based On Your salary",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-gratuity-calculation-and-pension-benefits-explained-xsfms8i",
-      "date": "2026-10-21T13:42:37.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "cwlfvh",
-      "title": "DA hike delayed again? 1.2 crore employees and pensioners face longer wait",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/money/da-hike-delayed-again-1-2-crore-employees-and-pensioners-face-longer-wait-4366365/",
-      "date": "2026-10-21T13:11:04.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1j6t04",
-      "title": "8th Pay Commission: 300% Salary Hike? Fitment Factor 3.83 vs 4 Impact On Level 1–18 Employees & Pensioners",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-300-salary-hike-fitment-factor-3-83-vs-4-impact-level-1-18-employees-pensioners-1542901.html",
-      "date": "2026-10-21T12:56:45.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
