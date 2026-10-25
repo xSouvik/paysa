@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-10-24T20:49:46.430Z",
+  "updated": "2026-10-25T04:41:19.885Z",
   "items": [
+    {
+      "id": "1678xxj",
+      "title": "Social Justice Minister Dr Virendra Kumar reviews implementation of key central welfare schemes",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/social-justice-minister-dr-virendra-kumar-reviews-implementation-of-key-central-welfare-schemes/",
+      "date": "2026-10-24T22:05:59.000Z",
+      "official": true,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
     {
       "id": "1ir1111",
       "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
@@ -745,19 +757,6 @@
       "tags": [
         "8th CPC",
         "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1vm37kw",
-      "title": "8th CPC Fitment Factor 2.0: Basic pay could double, but how much could gross salary rise?",
-      "source": "Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/8th-cpc-fitment-factor-2-0-basic-pay-could-double-but-how-much-could-gross-salary-rise-14056836.html",
-      "date": "2026-10-21T11:02:49.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
         "Pay"
       ],
       "speculative": true
