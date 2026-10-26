@@ -1,7 +1,34 @@
 {
   "schema": 1,
-  "updated": "2026-10-25T16:19:18.064Z",
+  "updated": "2026-10-26T04:47:06.817Z",
   "items": [
+    {
+      "id": "uvjzu4",
+      "title": "8th Pay Commission: 5 latest updates on consultations and what they mean for salary and pension",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-latest-updates-on-consultations-and-what-they-mean-for-salary-and-pension-11792977492558.html",
+      "date": "2026-10-26T01:57:51.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "w53yek",
+      "title": "8th Pay Commission Salary Hike Delay May Bring 18-24 Months Arrears; Check Fitment Factor, Matrix & Tax Rules",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-salary-hike-delay-may-bring-18-24-months-arrears-check-fitment-factor-revised-p-1515905.html",
+      "date": "2026-10-25T23:34:12.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1sq6mce",
       "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
@@ -25,6 +52,18 @@
       "tags": [
         "DA",
         "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "prbso8",
+      "title": "DA Hike 2026: When Will the Centre Announce Next DA Revision?",
+      "source": "BizzBuzz",
+      "url": "https://www.bizzbuzz.news/national/da-hike-2026-when-will-the-centre-announce-next-da-revision-1412049",
+      "date": "2026-10-25T09:58:01.000Z",
+      "official": false,
+      "tags": [
+        "DA"
       ],
       "speculative": true
     },
@@ -183,19 +222,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "93xv3i",
-      "title": "8th Pay Commission: Will DA merge with basic pay? What past panels decided and what employees should know",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-da-merge-with-basic-pay-what-past-panels-decided-and-what-employees-should-know-11792809124479.html",
-      "date": "2026-10-24T02:58:29.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
-      ],
-      "speculative": true
     },
     {
       "id": "hx6r6p",
@@ -734,31 +760,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "ldq628",
-      "title": "NPS Central eases access, but pension adequacy needs more | Policy Circle",
-      "source": "Policy Circle",
-      "url": "https://www.policycircle.org/policy/nps-central-eases-access-pension/amp/",
-      "date": "2026-10-22T01:35:42.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1dnn3yb",
-      "title": "8th Pay Commission: Will There Be A Big Salary Jump Like the 7th? Here’s Why a 60% Hike Is Being Discussed",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-will-employees-see-another-big-salary-jump-like-the-7th-here-s-why-a-60-hike-1521431.html",
-      "date": "2026-10-21T23:15:48.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
