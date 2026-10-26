@@ -1,7 +1,94 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T04:47:06.817Z",
+  "updated": "2026-10-26T13:02:31.255Z",
   "items": [
+    {
+      "id": "165q7p5",
+      "title": "8th Pay Commission Latest News: Fitment Factor, Salary Hike, Pension And Implementation Date Update",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-fitment-factor-salary-hike-pension-and-implementation-date-update-312318/",
+      "date": "2026-10-26T11:33:36.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "l3lpjj",
+      "title": "Communications Ministry announces Jeevan Pramaan camps for telecom pensioners across Delhi NCR",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/communications-ministry-announces-jeevan-pramaan-camps-for-telecom-pensioners-across-delhi-ncr/",
+      "date": "2026-10-26T10:23:51.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "114rim5",
+      "title": "Retirement tax rules differ for EPF, NPS and pension: Why employees need clarity",
+      "source": "The Financial Express",
+      "url": "https://www.financialexpress.com/money/retirement-tax-rules-differ-for-epf-nps-and-pension-why-employees-need-clarity-4369638/",
+      "date": "2026-10-26T09:51:13.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "wf2umb",
+      "title": "DA Hike Latest News: Will Central Government Employees Have To Wait For The October 28 Cabinet Meeting?",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/da-hike-latest-news-will-central-government-employees-have-to-wait-for-the-october-28-cabinet-meeting-312261/",
+      "date": "2026-10-26T09:38:45.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "147y76j",
+      "title": "Government Introduces New FMA Rules for NPS Pensioners; Banks to Credit Medical Allowance Quarterly",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/government-introduces-new-fma-rules-for-nps-pensioners-banks-to-credit-medical-allowance-quarterly-011-1504673.html",
+      "date": "2026-10-26T07:24:11.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "17291s8",
+      "title": "DA hike central government employees: Why Centre has not announced it yet; check expected hike",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/da-hike-central-government-employees-why-centre-has-not-announced-it-yet-check-expected-hike/da-hike-july-2026-why-are-central-government-employees-still-waiting/slideshow/135205406.cms",
+      "date": "2026-10-26T07:21:40.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "a6t95h",
+      "title": "8th Pay Commission: 5 New Updates And How They Impact Employee Salaries",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-latest-updates-on-salary-and-pension-hikes-3xkknqv",
+      "date": "2026-10-26T06:00:20.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
     {
       "id": "uvjzu4",
       "title": "8th Pay Commission: 5 latest updates on consultations and what they mean for salary and pension",
@@ -13,6 +100,18 @@
         "8th CPC",
         "Pension",
         "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "nlmc3m",
+      "title": "NPS subscribers are less swayed by short-term market movements now, says Axis Pension Fund CEO Sumit Shukl",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/plan/nps-subscribers-are-less-swayed-by-short-term-market-movements-now-says-axis-pension-fund-ceo-sumit-shukla/articleshow/135161206.cms",
+      "date": "2026-10-26T01:00:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
       ],
       "speculative": false
     },
@@ -509,19 +608,6 @@
       "speculative": false
     },
     {
-      "id": "1i2iy8g",
-      "title": "8th Pay Commission Good News Likely From April 28-30? Fitment Factor At 4, Salary Hike To Rs 72,000; Know More",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-likely-between-april-28-30-fitment-factor-at-4-salary-hike-rs-72000-pm-1504639.html",
-      "date": "2026-10-22T11:43:16.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1u7da5s",
       "title": "UP widow pension scheme: Who is eligible for Rs 1,000 a month?",
       "source": "India Today",
@@ -636,19 +722,6 @@
       "speculative": false
     },
     {
-      "id": "1ms2kyb",
-      "title": "Release of dearness relief (DR) and arrears: Bharat Pensioners Samaj urges cabinet secretary to intervene",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-dr-hike-for-pensioners-bps-urges-cabinet-secretary-to-intervene-for-release-of-dearness-relief-and-arrears/articleshow/135112340.cms",
-      "date": "2026-10-22T08:50:32.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1ce7jq",
       "title": "How NPS to OPS shift impacts Central government employees’ family pensions",
       "source": "Motilal Oswal",
@@ -684,82 +757,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1t8nili",
-      "title": "8th Pay Commission latest news: Could Level 1 basic pay jump to ₹72,000? Check Level 1-5 estimates",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-could-level-1-basic-pay-jump-to-72000-check-level-1-5-estimates/8th-pay-commission-salary-why-fitment-factor-matters/slideshow/135107811.cms",
-      "date": "2026-10-22T05:56:28.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "mu9zzw",
-      "title": "8th Pay Commission salary calculator: What your pay could look like at different fitment factors",
-      "source": "CNBC TV18",
-      "url": "https://www.cnbctv18.com/personal-finance/8th-pay-commission-salary-calculator-what-pay-could-look-fitment-factors-20016701.htm",
-      "date": "2026-10-22T05:08:52.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "8x4akt",
-      "title": "Dearness Allowance hike 2026: When did the Centre announce the DA, DR hike last year?",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-hike-2026-when-did-the-centre-announce-the-da-dr-hike-last-year/article-201952/",
-      "date": "2026-10-22T04:35:01.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1uit2i5",
-      "title": "Grant of notional Increment on 1st July/1st January to the Armed Forces Personnel who are retiring/retired on 30th June/31st December respectively: MoD Order",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/grant-of-notional-increment-on-1st-july-1st-january-to-the-armed-forces-personnel.html",
-      "date": "2026-10-22T03:32:10.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "sq25mo",
-      "title": "DA Hike 2026: What Is Dearness Allowance And Will It Increase Before Diwali? Check How The Salary Will Change With A 3% Rise In DA",
-      "source": "Jagran Josh",
-      "url": "https://www.jagranjosh.com/general-knowledge/da-hike-2026-what-is-dearness-allowance-when-will-it-increase-before-diwali-check-how-salary-will-change-with-a-3-percen-rise-in-da-60-percent-1820013210-1",
-      "date": "2026-10-22T02:53:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "16cszwm",
-      "title": "8th Pay Commission: Why Salary Arrears Matter For India's FY28 Consumption",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-why-salary-arrears-matter-for-indias-fy28-consumption-12217930",
-      "date": "2026-10-22T02:28:26.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
