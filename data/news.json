@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-10-26T13:02:31.255Z",
+  "updated": "2026-10-26T22:40:05.041Z",
   "items": [
+    {
+      "id": "jrrtev",
+      "title": "Compendium of Pension Related Instructions June – December, 2025: DoP&PW",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/compendium-of-pension-related-instructions-06-2025-to-12-2025.html",
+      "date": "2026-10-26T13:14:39.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1qtnwzm",
+      "title": "Diwali Bonanza: MCD Raises Minimum Salary To Rs 18,000 For 4,000 Employees; Will They Get DA Benefits?",
+      "source": "The Daily Jagran",
+      "url": "https://www.thedailyjagran.com/business/news/diwali-bonanza-mcd-raises-minimum-salary-to-rs-18000-for-4000-employees-will-they-get-da-benefits-10334067",
+      "date": "2026-10-26T12:59:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "165q7p5",
       "title": "8th Pay Commission Latest News: Fitment Factor, Salary Hike, Pension And Implementation Date Update",
@@ -49,6 +74,33 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "122mruz",
+      "title": "Central Government Pensioners Await DR Hike As BPS Seeks Early Release Of Arrears",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/retirement/pension/central-government-pensioners-await-dr-hike-as-bps-seeks-early-release-of-arrears",
+      "date": "2026-10-26T09:04:50.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1s77yb0",
+      "title": "8th CPC Salary Calculator: लेवल-3, स्टेज-5, DA 60%- फिटमेंट, HRA, TPTA के साथ ग्रॉस सैलरी 27.93% बढ़कर होगी ₹66,932",
+      "source": "Zee Business",
+      "url": "https://www.zeebiz.com/hindi/personal-finance/8th-cpc-salary-calculator-level-3-stage-5-gross-net-salary-hike-da-fitment-hra-tpta-8th-pay-commission-update-267004",
+      "date": "2026-10-26T08:46:11.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
       ],
       "speculative": true
     },
@@ -705,56 +757,6 @@
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "qzoglk",
-      "title": "DR hike for pensioners: As government delays release of dearness relief and arrears, Bharat Pensioners' Sa",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-dr-hike-for-pensioners-bps-urges-cabinet-secretary-to-intervene-for-release-of-dearness-relief-and-arrears/articleshow/135112340.cms",
-      "date": "2026-10-22T08:50:32.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ce7jq",
-      "title": "How NPS to OPS shift impacts Central government employees’ family pensions",
-      "source": "Motilal Oswal",
-      "url": "https://www.motilaloswal.com/news/economy-_-outlook/142857",
-      "date": "2026-10-22T08:47:40.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "17uxcce",
-      "title": "NPS to OPS migration: What changes for Central government employees’ families under the revised pension...",
-      "source": "Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/nps-to-ops-migration-what-changes-for-central-government-employees-families-under-the-revised-pension-sop-14057540.html",
-      "date": "2026-10-22T07:37:41.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "g5ydly",
-      "title": "Dearness Allowance July 2026: Expected Hike, Arrears,Government Update",
-      "source": "BizzBuzz",
-      "url": "https://www.bizzbuzz.news/national/dearness-allowance-july-2026-expected-hike-arrearsgovernment-update-1411462",
-      "date": "2026-10-22T07:15:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
       ],
       "speculative": true
     }
