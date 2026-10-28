@@ -1,329 +1,437 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T22:14:05.450Z",
+  "updated": "2026-10-28T12:54:22.951Z",
   "items": [
     {
-      "id": "1cmp5so",
-      "title": "8th Pay Commission: 8th CPC completes 2-day Mumbai consultations; 12-month milestone on November 3 – Check latest update",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-8th-cpc-completes-2-day-mumbai-consultations-12-month-milestone-on-november-3-check-latest-updates-article-156418010",
-      "date": "2026-10-27T17:35:27.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ius8ov",
-      "title": "Retirement Health Options for Railway Employees",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/retirement-health-options-for-railway-employees/",
-      "date": "2026-10-27T16:39:54.000Z",
-      "official": false,
-      "tags": [
-        "Railways"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1tqi6ws",
-      "title": "Industrial Dearness Allowance (IDA) Rates from 01.10.2026 for Executives and Non-Unionized Supervisors of CPSEs: DPE, FinMin O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/industrial-dearness-allowance-ida-rates-from-01-10-2026.html",
-      "date": "2026-10-27T14:22:40.000Z",
-      "official": false,
+      "id": "ys3jqx",
+      "title": "कैबिनेट ने केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते और पेंशनभोगियों के लिए महंगाई राहत को मंजूरी दी",
+      "summary": "प्रधानमंत्री श्री नरेन्द्र मोदी की अध्यक्षता में आज केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) की एक अतिरिक्त किस्त जारी करने को मंजूरी दे दी ह…",
+      "source": "PIB",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329553",
+      "date": "2026-10-28T12:54:13.394Z",
+      "official": true,
       "tags": [
         "DA",
+        "Pension",
         "Pay"
       ],
       "speculative": false
     },
     {
-      "id": "i0q17j",
-      "title": "Integrating NPS into payroll alongside PF should be easy: PFRDA chief",
+      "id": "1lssslj",
+      "title": "Cabinet Approves 3% DA Hike For Central Government Employees, Pensioners",
+      "source": "guwahati Plus News",
+      "url": "https://www.guwahatiplus.com/india/cabinet-approves-3-da-hike-for-central-government-employees-pensioners",
+      "date": "2026-10-28T12:44:14.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "3h8q2s",
+      "title": "Cabinet clears 3 pc DA hike for staff, pensioners ahead of Diwali",
+      "source": "The Siasat Daily",
+      "url": "https://www.siasat.com/cabinet-clears-3-pc-da-hike-for-staff-pensioners-ahead-of-diwali-3566106/",
+      "date": "2026-10-28T12:30:51.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1e4d5tb",
+      "title": "Centre Approves 3% DA Hike for Government Employees; Pensioners’ DR Also Raised to 63%",
+      "source": "www.nationpathindia.com",
+      "url": "https://www.nationpathindia.com/economy/central-government-da-dr-hike-63-percent-october-2026",
+      "date": "2026-10-28T12:29:55.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "9rntix",
+      "title": "Cabinet Approves 3% Hike in DA & DR for Central Staff and Pensioners",
+      "source": "PSU Connect",
+      "url": "https://www.psuconnect.in/ministry-of-india-news/cabinet-approves-3-hike-in-da-dr-for-central-staff-and-pensioners",
+      "date": "2026-10-28T12:16:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1kukif1",
+      "title": "DA hike: How is DA calculated, what does it mean for govt employees, the exchequer",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/explained/explained-economics/da-hike-2026-what-is-dearness-allowance-10940630/",
+      "date": "2026-10-28T12:08:04.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "tgcdpd",
+      "title": "8th Pay Commission Latest News: Data Collection Continues, What Central Government Employees Should Know About Salary And Pension Changes",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-data-collection-continues-what-central-government-employees-should-know-about-salary-and-pension-changes-313276/",
+      "date": "2026-10-28T12:07:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1w0i3ya",
+      "title": "DA Hiked By 3%: How Does 2026 Diwali Hike Compare To Last Five Years For Govt Employees?",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/dearness-allowance-da-hiked-by-3-percentage-point-how-does-2026-diwali-hike-compare-to-last-five-years-for-govt-employees-12248677",
+      "date": "2026-10-28T12:06:30.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "pssc59",
+      "title": "Cabinet approves 3% DA hike for central government employees and pensioners",
+      "source": "Free Press Kashmir",
+      "url": "https://freepresskashmir.news/2026/10/28/cabinet-approves-3-da-hike-for-central-government-employees-and-pensioners/",
+      "date": "2026-10-28T12:00:34.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "r2o8dp",
+      "title": "3% DA Hike for Central Govt Employees, Pensioners to Get Relief from July",
+      "source": "Moneylife",
+      "url": "https://www.moneylife.in/article/3-percentage-da-hike-for-central-govt-employees-pensioners-to-get-relief-from-july/82049.html",
+      "date": "2026-10-28T11:54:37.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1fa3nnf",
+      "title": "'Diwali gift' for Central Govt employees: 3% DA hike effective from July cleared by Cabinet",
+      "source": "Deccan Herald",
+      "url": "https://www.deccanherald.com/india/diwali-gift-for-central-govt-employees-3-da-hike-effective-from-july-cleared-by-cabinet-4198282",
+      "date": "2026-10-28T11:46:34.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1rpwwc1",
+      "title": "DA Hike 2026: Cabinet Approves 3% DA Increase, ₹10,016 Crore Outlay for Employees and Pensioners",
+      "source": "Indian Masterminds",
+      "url": "https://indianmasterminds.com/news/da-hike-2026-cabinet-approves-3-percent-increase-employees-pensioners-246360/",
+      "date": "2026-10-28T11:44:05.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "5602lk",
+      "title": "DA Hike Calculation On 7th CPC Level 1-10 Employees, Pensioners; Will 63% DA Impact Salary, Pensions In 8CPC?",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/da-hike-calculation-7th-cpc-level-1-10-employees-pensioners-63-dearness-allowance-8th-pay-commission-1543643.html",
+      "date": "2026-10-28T11:43:24.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1x2q1ec",
+      "title": "Diwali gift for Central staff: Cabinet raises DA to 63%, over 1.16 crore beneficiaries to gain",
+      "source": "PTC News",
+      "url": "https://www.ptcnews.tv/amp/nation/da-hike-63-percent-cabinet-approves-diwali-2026-4431071",
+      "date": "2026-10-28T11:42:16.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "8tomcm",
+      "title": "Ahead of Diwali, Union Cabinet approves 3 per cent DA, DR hike for Central Government employees, pensioners",
+      "source": "The Statesman",
+      "url": "https://www.thestatesman.com/india/ahead-of-diwali-union-cabinet-approves-3-per-cent-da-dr-hike-for-central-government-employees-pensioners-1503656194.html",
+      "date": "2026-10-28T11:40:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "i2xsjj",
+      "title": "Centre announces 3% DA hike for central government employees, pensioners",
+      "source": "IBTimes India",
+      "url": "https://www.ibtimes.co.in/centre-announces-3-da-hike-central-government-employees-pensioners-907918",
+      "date": "2026-10-28T11:38:55.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1wqt0vk",
+      "title": "Cabinet clears 3% hike in DA and DR, costing exchequer Rs 10,016.10 crore a year; 1.17 crore beneficiaries",
+      "source": "PGurus",
+      "url": "https://www.pgurus.com/cabinet-clears-3-hike-in-da-and-dr-costing-exchequer-rs-10016-10-crore-a-year-1-17-crore-beneficiaries/",
+      "date": "2026-10-28T11:38:17.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "tgsfrn",
+      "title": "Central Government Employees to Get 3% DA Hike After Cabinet Approval",
+      "source": "The Live Nagpur",
+      "url": "https://thelivenagpur.com/2026/10/28/central-government-employees-to-get-3-da-hike-after-cabinet-approval/",
+      "date": "2026-10-28T11:32:39.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1hg2xou",
+      "title": "Govt hikes DA, DR to 63% from 60%, benefiting 11.75 million people",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/specials/bs-events/integrating-nps-into-payroll-alongside-pf-should-be-easy-pfrda-chief-126102701483_1.html",
-      "date": "2026-10-27T14:07:41.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "zc6epk",
-      "title": "DA Hike 2026: Central Govt Employees Likely To Get An Update On October 28; Here's Why",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/personal-finance/da-hike-2026-central-govt-employees-likely-to-get-an-update-on-october-28-heres-why-article-156415656",
-      "date": "2026-10-27T11:22:32.000Z",
+      "url": "https://www.business-standard.com/finance/news/govt-hikes-da-dr-to-63-from-60-benefiting-11-75-million-people-126102801272_1.html",
+      "date": "2026-10-28T11:30:46.000Z",
       "official": false,
       "tags": [
         "DA"
       ],
-      "speculative": true
-    },
-    {
-      "id": "fgy0m8",
-      "title": "8th Pay Commission: 3 pending dearness allowance changes are back on the table after 20 years",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-3-pending-dearness-allowance-changes-are-back-on-the-table-after-20-years/article-202476/",
-      "date": "2026-10-27T10:44:14.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
       "speculative": false
     },
     {
-      "id": "1467lw1",
-      "title": "DA hike July 2026: Will cabinet approve dearness allowance increase for central government employees on October 28?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-july-2026-will-cabinet-approve-dearness-allowance-increase-for-central-government-employees-on-october-28-11793085313996.html",
-      "date": "2026-10-27T08:28:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "pwz2we",
-      "title": "PhonePe rolls out NPS account opening with Rs 250 contribution, no fresh KYC",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/news/india/phonepe-rolls-out-nps-account-opening-with-rs-250-contribution-no-fresh-kyc/amp_articleshow/135227604.cms",
-      "date": "2026-10-27T07:36:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1kzjwh4",
-      "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/pr-cca-delhi-celebrates-national-senior-citizens-day-felicitates-super-senior-pensioners/",
-      "date": "2026-10-27T07:21:12.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "zgtwza",
-      "title": "DA hike for central government employees: Can government announce dearness allowance increase on Wednesday",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/central-da-july-2026-news-can-government-announce-dearness-allowance-increase-on-wednesday-october-28/articleshow/135226813.cms",
-      "date": "2026-10-27T06:50:33.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "hwpg6o",
-      "title": "8th Pay Commission: Speculation over fitment factors of 1.83, 2, 2.57, 3.83 and 4—We calculate salary increase for each",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/8th-pay-commission-speculation-over-fitment-factors-of-1-83-2-2-57-3-83-and-4-we-calculate-salary-increase-for-each-11793071982009.html",
-      "date": "2026-10-27T05:43:54.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "m2px7l",
-      "title": "DA Hike News: Will the centre announce 63% dearness allowance before Diwali? Know why it is delayed - Check latest update",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/da-hike-news-will-the-centre-announce-63-dearness-allowance-before-diwali-know-why-it-is-delayed-check-latest-update-article-156411964",
-      "date": "2026-10-27T03:16:44.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "jrrtev",
-      "title": "Compendium of Pension Related Instructions June – December, 2025: DoP&PW",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/compendium-of-pension-related-instructions-06-2025-to-12-2025.html",
-      "date": "2026-10-26T13:14:39.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1qtnwzm",
-      "title": "Diwali Bonanza: MCD Raises Minimum Salary To Rs 18,000 For 4,000 Employees; Will They Get DA Benefits?",
-      "source": "The Daily Jagran",
-      "url": "https://www.thedailyjagran.com/business/news/diwali-bonanza-mcd-raises-minimum-salary-to-rs-18000-for-4000-employees-will-they-get-da-benefits-10334067",
-      "date": "2026-10-26T12:59:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "165q7p5",
-      "title": "8th Pay Commission Latest News: Fitment Factor, Salary Hike, Pension And Implementation Date Update",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-fitment-factor-salary-hike-pension-and-implementation-date-update-312318/",
-      "date": "2026-10-26T11:33:36.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "l3lpjj",
-      "title": "Communications Ministry announces Jeevan Pramaan camps for telecom pensioners across Delhi NCR",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/communications-ministry-announces-jeevan-pramaan-camps-for-telecom-pensioners-across-delhi-ncr/",
-      "date": "2026-10-26T10:23:51.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "114rim5",
-      "title": "Retirement tax rules differ for EPF, NPS and pension: Why employees need clarity",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/money/retirement-tax-rules-differ-for-epf-nps-and-pension-why-employees-need-clarity-4369638/",
-      "date": "2026-10-26T09:51:13.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "wf2umb",
-      "title": "DA Hike Latest News: Will Central Government Employees Have To Wait For The October 28 Cabinet Meeting?",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/da-hike-latest-news-will-central-government-employees-have-to-wait-for-the-october-28-cabinet-meeting-312261/",
-      "date": "2026-10-26T09:38:45.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "122mruz",
-      "title": "Central Government Pensioners Await DR Hike As BPS Seeks Early Release Of Arrears",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/pension/central-government-pensioners-await-dr-hike-as-bps-seeks-early-release-of-arrears",
-      "date": "2026-10-26T09:04:50.000Z",
+      "id": "ivefoa",
+      "title": "Cabinet approves 3 pc DA hike for 48.54 lakh central govt employees, 68.71 lakh pensioners",
+      "source": "Public TV English",
+      "url": "https://english.publictv.in/cabinet-approves-3-pc-da-hike-for-48-54-lakh-central-govt-employees-68-71-lakh-pensioners/",
+      "date": "2026-10-28T11:28:57.000Z",
       "official": false,
       "tags": [
         "DA",
         "Pension"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1s77yb0",
-      "title": "8th CPC Salary Calculator: लेवल-3, स्टेज-5, DA 60%- फिटमेंट, HRA, TPTA के साथ ग्रॉस सैलरी 27.93% बढ़कर होगी ₹66,932",
-      "source": "Zee Business",
-      "url": "https://www.zeebiz.com/hindi/personal-finance/8th-cpc-salary-calculator-level-3-stage-5-gross-net-salary-hike-da-fitment-hra-tpta-8th-pay-commission-update-267004",
-      "date": "2026-10-26T08:46:11.000Z",
+      "id": "cvt3b8",
+      "title": "DA hiked by 3 per cent: 48.54 lakh staff & 68.71 lakh pensioners to benefit ahead of Deepawali",
+      "source": "Organiser",
+      "url": "https://organiser.org/2026/10/28/421817/bharat/da-hiked-by-3-per-cent-48-54-lakh-staff-68-71-lakh-pensioners-to-benefit-ahead-of-deepawali/",
+      "date": "2026-10-28T11:26:15.000Z",
       "official": false,
       "tags": [
         "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "147y76j",
-      "title": "Government Introduces New FMA Rules for NPS Pensioners; Banks to Credit Medical Allowance Quarterly",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/government-introduces-new-fma-rules-for-nps-pensioners-banks-to-credit-medical-allowance-quarterly-011-1504673.html",
-      "date": "2026-10-26T07:24:11.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "Pay"
+        "Pension"
       ],
       "speculative": false
     },
     {
-      "id": "17291s8",
-      "title": "DA hike central government employees: Why Centre has not announced it yet; check expected hike",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-hike-central-government-employees-why-centre-has-not-announced-it-yet-check-expected-hike/da-hike-july-2026-why-are-central-government-employees-still-waiting/slideshow/135205406.cms",
-      "date": "2026-10-26T07:21:40.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "a6t95h",
-      "title": "8th Pay Commission: 5 New Updates And How They Impact Employee Salaries",
+      "id": "122getm",
+      "title": "Cabinet Clears 3 Percent DA and DR Hike for Central Staff Pensioners",
       "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-latest-updates-on-salary-and-pension-hikes-3xkknqv",
-      "date": "2026-10-26T06:00:20.000Z",
+      "url": "https://newsable.asianetnews.com/business/cabinet-clears-3-percent-da-and-dr-hike-for-central-staff-pensioners-articleshow-kmfdu10",
+      "date": "2026-10-28T11:21:20.000Z",
       "official": false,
       "tags": [
-        "8th CPC"
+        "DA",
+        "Pension"
       ],
       "speculative": false
     },
     {
-      "id": "uvjzu4",
-      "title": "8th Pay Commission: 5 latest updates on consultations and what they mean for salary and pension",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-latest-updates-on-consultations-and-what-they-mean-for-salary-and-pension-11792977492558.html",
-      "date": "2026-10-26T01:57:51.000Z",
+      "id": "1wf8lw3",
+      "title": "Diwali bonanza: Cabinet hikes Dearness Allowance by 3% with over Rs 10,000 crore allocation",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/news/india/cabinet-hikes-dearness-allowance-by-3-with-rs-10000-crore-allocation-check-key-announcements/videoshow/135263033.cms",
+      "date": "2026-10-28T11:18:23.000Z",
       "official": false,
       "tags": [
-        "8th CPC",
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1j719h0",
+      "title": "Diwali 2026: Good News for Central Govt Employees and Pensioners",
+      "source": "Sakshi Education",
+      "url": "https://education.sakshi.com/en/current-affairs/national/diwali-gift-government-employees-check-latest-da-update-201838",
+      "date": "2026-10-28T11:16:08.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "19793mc",
+      "title": "Cabinet approves 3% hike in dearness allowance for central government employees",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/cabinet-approves-3-hike-in-dearness-allowance-for-central-government-employees/article71635503.ece",
+      "date": "2026-10-28T11:15:02.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "mc3pmi",
+      "title": "Diwali Gift: Centre Announces 3% DA Hike for Central Government Employees and Pensioners, Benefiting Over 1 Crore People",
+      "source": "Pragativadi",
+      "url": "https://pragativadi.com/diwali-gift-centre-announces-3-da-hike-for-central-government-employees-and-pensioners-benefiting-over-1-crore-people/",
+      "date": "2026-10-28T11:15:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "sirpiv",
+      "title": "Cabinet approves 3% DA hike for 48.54 lakh central government employees, 68.71 lakh pensioners",
+      "source": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/business/cabinet-approves-3-da-hike-for-48-54-lakh-central-government-employees-68-71-lakh-pensioners/amp",
+      "date": "2026-10-28T11:13:18.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "8mbn34",
+      "title": "Central Government Employees, Pensioners To Get Higher Allowances As Cabinet Approves 3 Per Cent DA and DR Increase",
+      "source": "Swarajya",
+      "url": "https://swarajyamag.com/politics/central-government-employees-pensioners-to-get-higher-allowances-as-cabinet-approves-3-per-cent-da-and-dr-increase",
+      "date": "2026-10-28T11:12:08.000Z",
+      "official": false,
+      "tags": [
+        "DA",
         "Pension",
         "Pay"
       ],
       "speculative": false
     },
     {
-      "id": "nlmc3m",
-      "title": "NPS subscribers are less swayed by short-term market movements now, says Axis Pension Fund CEO Sumit Shukl",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/plan/nps-subscribers-are-less-swayed-by-short-term-market-movements-now-says-axis-pension-fund-ceo-sumit-shukla/articleshow/135161206.cms",
-      "date": "2026-10-26T01:00:00.000Z",
+      "id": "9ldkm1",
+      "title": "Diwali Boost For Central Govt Staff As Cabinet Clears 3 Per Cent DA Hike",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/business/diwali-boost-for-central-govt-staff-as-cabinet-clears-3-per-cent-da-hike",
+      "date": "2026-10-28T11:07:23.000Z",
       "official": false,
       "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "uxtozc",
+      "title": "DA hike July 2026 salary increment calculator: What will be increase in monthly amount with 3% dearness allowance hike?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/da-hike-july-2026-salary-increment-calculator-what-will-be-increase-in-monthly-amount-with-3-dearness-allowance-hike-11793182485407.html",
+      "date": "2026-10-28T11:07:22.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "8d1dhd",
+      "title": "Cabinet Approves 3% Hike In DA For Central Government Employees And Pensioners",
+      "source": "The Earth News",
+      "url": "https://earthnews.in/cabinet-approves-3-hike-in-da-for-central-government-employees-and-pensioners/",
+      "date": "2026-10-28T11:06:46.000Z",
+      "official": false,
+      "tags": [
+        "DA",
         "Pension"
       ],
       "speculative": false
     },
     {
-      "id": "w53yek",
-      "title": "8th Pay Commission Salary Hike Delay May Bring 18-24 Months Arrears; Check Fitment Factor, Matrix & Tax Rules",
+      "id": "1rsuxoe",
+      "title": "Centre Hikes DA By 3% To 63% For Govt Employees, Pensioners Ahead Of Diwali",
+      "source": "Republic World",
+      "url": "https://www.republicworld.com/amp/india/centre-hikes-da-by-3-to-63-for-govt-employees-pensioners-ahead-of-diwali-2026-10-28-139855",
+      "date": "2026-10-28T11:05:22.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "9ofnrw",
+      "title": "Central government employees get Diwali boost as Cabinet approves 3% DA hike",
+      "source": "NewsDrum",
+      "url": "https://www.newsdrum.in/business/central-government-employees-get-diwali-boost-as-cabinet-approves-3-da-hike-12761425",
+      "date": "2026-10-28T11:04:28.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1dnn3yb",
+      "title": "8th Pay Commission: Will There Be A Big Salary Jump Like the 7th? Here’s Why a 60% Hike Is Being Discussed",
       "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-salary-hike-delay-may-bring-18-24-months-arrears-check-fitment-factor-revised-p-1515905.html",
-      "date": "2026-10-25T23:34:12.000Z",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-will-employees-see-another-big-salary-jump-like-the-7th-here-s-why-a-60-hike-1521431.html",
+      "date": "2026-10-28T11:04:12.000Z",
       "official": false,
       "tags": [
         "8th CPC",
@@ -332,49 +440,11 @@
       "speculative": true
     },
     {
-      "id": "1sq6mce",
-      "title": "8th Pay Commission: Salary Hike Of 92% To 285% In 8th CPC From Rs 18,000 Basic Pay Depending On Fitment Factor",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-pay-matrix-salary-hike-by-92-to-285-from-rs-18000-basic-pay-8-cpc-fitment-factor-1514341.html",
-      "date": "2026-10-25T14:34:41.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "axsjju",
-      "title": "Central government pensioners await DR hike as Bharat Pensioners Samaj seeks cabinet secretary’s intervention",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-await-dr-hike-as-bharat-pensioners-samaj-seeks-cabinet-secretary-s-intervention-11792932915291.html",
-      "date": "2026-10-25T13:37:35.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "prbso8",
-      "title": "DA Hike 2026: When Will the Centre Announce Next DA Revision?",
-      "source": "BizzBuzz",
-      "url": "https://www.bizzbuzz.news/national/da-hike-2026-when-will-the-centre-announce-next-da-revision-1412049",
-      "date": "2026-10-25T09:58:01.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "uzdghf",
-      "title": "Central Employees Await DA Hike Before Diwali",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/central-employees-await-da-hike-before-diwali/",
-      "date": "2026-10-25T08:30:39.000Z",
+      "id": "ubvb9z",
+      "title": "Diwali gift for central government employees: Cabinet approves 3pc DA hike",
+      "source": "The Week",
+      "url": "https://www.theweek.in/news/biz-tech/2026/10/28/diwali-gift-for-central-government-employees-cabinet-approves-3pc-da-hike.html",
+      "date": "2026-10-28T10:59:09.000Z",
       "official": false,
       "tags": [
         "DA"
@@ -382,140 +452,154 @@
       "speculative": false
     },
     {
-      "id": "1m1gkjx",
-      "title": "8th Pay Commission: ToR on DA merger and Government response",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-da-merger-tor-details-and-government-response-kwiiccp",
-      "date": "2026-10-25T07:19:49.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "wm9rbk",
-      "title": "Form 6-A Pension Papers: The Retirement Timeline",
-      "source": "www.indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/articles/form-6a-pension-papers-retirement-timeline",
-      "date": "2026-10-25T07:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "nqh3i5",
-      "title": "July 2026 DA Hike: Will the centre announce the revised allowance before Diwali in November?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/july-2026-da-hike-will-the-centre-announce-the-revised-allowance-before-diwali-in-november-11792851675306.html",
-      "date": "2026-10-25T05:49:31.000Z",
+      "id": "cpu15f",
+      "title": "DA Hike 2026: Centre Approves 3% Dearness Allowance Ahead Of Diwali; Check When The Arrears Will Be Credited",
+      "source": "Jagran Josh",
+      "url": "https://www.jagranjosh.com/general-knowledge/da-hike-2026-centre-approves-3-dearness-allowance-ahead-of-diwali-check-timeline-and-important-updates-1820013422-1",
+      "date": "2026-10-28T10:57:15.000Z",
       "official": false,
       "tags": [
         "DA",
         "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1678xxj",
-      "title": "Social Justice Minister Dr Virendra Kumar reviews implementation of key central welfare schemes",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/social-justice-minister-dr-virendra-kumar-reviews-implementation-of-key-central-welfare-schemes/",
-      "date": "2026-10-24T22:05:59.000Z",
+      "id": "1acwq90",
+      "title": "Cabinet approves 3 pc DA and DR hike effective July 1,2026",
+      "source": "The Federal",
+      "url": "https://thefederal.com/category/news/cabinet-approves-3-pc-da-and-dr-hike-effective-july-12026-261028",
+      "date": "2026-10-28T10:56:49.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1bhrck2",
+      "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
+      "source": "PM India",
+      "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-dearness-allowance-to-central-government-employees-and-dearness-relief-to-pensioners/?comment=disable",
+      "date": "2026-10-28T10:52:57.000Z",
       "official": true,
       "tags": [
-        "DA"
+        "DA",
+        "Pension",
+        "Pay"
       ],
       "speculative": false
     },
     {
-      "id": "1ir1111",
-      "title": "8th Pay Commission Good News In April? Fitment Factor, Pensions, Salary Hike, Implementation Date Expectations",
+      "id": "1dadj92",
+      "title": "DA Hike Alert! BIG Diwali Gift for 1.16 Crore Employees & Pensioners,Cabinet Hikes Dearness Allowance to 63%",
       "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/news/8th-pay-commission-good-news-april-fitment-factor-pensions-salary-hike-implementation-date-details-1501975.html",
-      "date": "2026-10-24T15:49:50.000Z",
+      "url": "https://www.goodreturns.in/news/da-hike-alert-big-diwali-gift-for-1-16-crore-employees-pensioners-cabinet-hikes-dearness-allowance-1543609.html",
+      "date": "2026-10-28T10:52:41.000Z",
       "official": false,
       "tags": [
-        "8th CPC",
+        "DA",
         "Pension",
         "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1y8zcut",
-      "title": "DA hike news July 2026: Will Centre announce DA hike on Oct 28? How much increase can employees expect? Check details",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-news-july-2026-will-centre-announce-da-hike-on-oct-28-how-much-increase-can-employees-expect-check-details-11792841258779.html",
-      "date": "2026-10-24T12:55:03.000Z",
+      "id": "defgow",
+      "title": "Ahead Of Diwali, Cabinet Approves 3 Percent Hike In Dearness Allowance For Central Govt Employees",
+      "source": "ETV Bharat",
+      "url": "https://www.etvbharat.com/amp/en/bharat/ahead-of-diwali-cabinet-approves-3-percent-hike-in-dearness-allowance-for-central-govt-employees-enn26102804853",
+      "date": "2026-10-28T10:52:19.000Z",
       "official": false,
       "tags": [
-        "DA"
+        "DA",
+        "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "go6d50",
-      "title": "8th Pay Commission Latest News: Mumbai Consultations Conclude; Check Salary Hike, Fitment Factor, DA Merger and Report Timeline",
+      "id": "ujmzxu",
+      "title": "DA Hike Latest News: Central Government Employees, Pensioners To Get 3% Increase From July 1; Check Details",
       "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-mumbai-consultations-conclude-check-salary-hike-fitment-factor-da-merger-and-report-timeline-311220/",
-      "date": "2026-10-24T09:36:49.000Z",
+      "url": "https://sundayguardianlive.com/india/dearness-allowance-da-hike-latest-news-central-government-employees-pensioners-to-get-3-increase-from-july-1-check-details-313235/",
+      "date": "2026-10-28T10:51:54.000Z",
       "official": false,
       "tags": [
         "DA",
-        "8th CPC",
-        "Pay"
+        "Pension"
       ],
       "speculative": true
     },
     {
-      "id": "ude3eo",
-      "title": "NPS To OPS Transfer In Death And Disability Cases: Revised SOP For Pensioners And Families Explained",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/nps-to-ops-transfer-in-death-and-disability-cases-revised-sop-for-pensioners-and-families-explained",
-      "date": "2026-10-24T07:31:14.000Z",
+      "id": "10hzac0",
+      "title": "Centre approves 3% dearness allowance hike, effective July 1, 2026",
+      "source": "DD India",
+      "url": "https://ddindia.co.in/2026/10/centre-approves-3-dearness-allowance-hike-effective-july-1-2026/",
+      "date": "2026-10-28T10:50:46.000Z",
       "official": false,
       "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "b79irx",
+      "title": "Cabinet approves 3% DA hike for Central Govt employees, pensioners",
+      "source": "Daijiworld",
+      "url": "https://daijiworld.com/news/newsDisplay?newsID=1333719",
+      "date": "2026-10-28T10:50:42.000Z",
+      "official": false,
+      "tags": [
+        "DA",
         "Pension"
       ],
       "speculative": false
     },
     {
-      "id": "k0sug3",
-      "title": "DA Hike 2026 Updates: Will Central Government Employees Get Dearness Allowance Hike Before Holi? Check Trends",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/da-hike-2026-updates-will-central-government-employees-get-dearness-allowance-hike-before-holi-check-1491427.html",
-      "date": "2026-10-24T07:25:40.000Z",
+      "id": "8t5smb",
+      "title": "Diwali delight for central employees as Cabinet approves 3% DA hike; 1.16 crore employees, pensioners to benefit",
+      "source": "Fortune India",
+      "url": "https://www.fortuneindia.com/india/diwali-delight-for-central-employees-as-cabinet-approves-3-da-hike-116-crore-employees-pensioners-to-benefit/167202",
+      "date": "2026-10-28T10:47:34.000Z",
       "official": false,
       "tags": [
         "DA",
-        "Pay"
+        "Pension"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1jrhlv0",
-      "title": "8th Pay Commission Holds Mumbai Meeting, Employee Unions Demand DA-Basic Salary Merger",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/8th-pay-commission-mumbai-meeting-da-merger-demand/",
-      "date": "2026-10-24T06:28:39.000Z",
+      "id": "6z2uxx",
+      "title": "Centre approves 3% hike in DA, DR for govt employees and pensioners effective July 1",
+      "source": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/india/centre-approves-3-hike-in-da-dr-for-govt-employees-and-pensioners-effective-july-1/",
+      "date": "2026-10-28T10:45:48.000Z",
       "official": false,
       "tags": [
         "DA",
-        "8th CPC",
-        "Pay"
+        "Pension"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "hx6r6p",
-      "title": "DA hike announcement: Do central government employees need to wait till next cabinet meeting?",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/da-hike-announcement-latest-news-do-central-government-employees-have-to-wait-till-next-cabinet-meeting-on-october-28-2026/articleshow/135146396.cms",
-      "date": "2026-10-24T02:39:13.000Z",
+      "id": "2b50u7",
+      "title": "Union Cabinet approves 3 per cent DA hike for Central govt employees",
+      "source": "Sambad English",
+      "url": "https://sambadenglish.com/national-international-news/india/union-cabinet-approves-3-per-cent-da-hike-for-central-govt-employees-12761356",
+      "date": "2026-10-28T10:44:20.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "txkx6q",
+      "title": "Good news for Central Govt employees: 3% DA hike effective from July cleared by Cabinet",
+      "source": "Deccan Herald",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fgood-news-for-central-govt-employees-3-da-hike-effective-from-july-cleared-by-cabinet-4198282",
+      "date": "2026-10-28T10:42:49.000Z",
       "official": false,
       "tags": [
         "DA"
@@ -523,62 +607,11 @@
       "speculative": true
     },
     {
-      "id": "1uu2kez",
-      "title": "Railway Pensioners Protest in Jaipur Over Pension Reforms",
-      "source": "Urban Acres",
-      "url": "https://urbanacres.in/railway-pensioners-protest-in-jaipur-seek-higher-benefits/",
-      "date": "2026-10-23T23:24:08.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "Railways"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ar55lx",
-      "title": "Railway Pensioners Protest in Jaipur for Pension Reforms",
-      "source": "Urban Acres",
-      "url": "https://urbanacres.in/jaipur-railway-pensioners-push-for-higher-benefits-before-pay-commission/",
-      "date": "2026-10-23T19:53:56.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "Railways"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14awdd1",
-      "title": "Explainer: How NPS Central could be a game-changer for subscribers",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/money/explainer-how-nps-central-could-be-a-game-changer-for-subscribers-4368384/",
-      "date": "2026-10-23T18:46:34.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ae0st3",
-      "title": "Railway pensioners protest, demand pension reforms, submit memo",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/railway-pensioners-protest-demand-pension-reforms-submit-memo/articleshow/135150928.cms",
-      "date": "2026-10-23T16:44:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1w5fpgv",
-      "title": "UP TGT PGT Salary 2026: In-Hand Salary, Pay Level, DA 60%, HRA & Allowances",
-      "source": "Adda247",
-      "url": "https://www.adda247.com/teaching-jobs-exam/up-tgt-pgt-teacher-salary/",
-      "date": "2026-10-23T15:44:39.000Z",
+      "id": "11ksddo",
+      "title": "Cabinet approves 3 pc hike in dearness allowance for central govt employees",
+      "source": "Greater Kashmir",
+      "url": "https://www.greaterkashmir.com/national/cabinet-approves-3-pc-hike-in-dearness-allowance-for-central-govt-employees-12761333",
+      "date": "2026-10-28T10:38:14.000Z",
       "official": false,
       "tags": [
         "DA",
@@ -587,175 +620,156 @@
       "speculative": false
     },
     {
-      "id": "o5f1v9",
-      "title": "DA Hike July 2026: When Will Centre Announce 3% Rise for Central Government Employees?",
+      "id": "mpxfhd",
+      "title": "Diwali Cheer For Govt Employees As Centre Raises DA, DR By 3%",
+      "source": "Outlook India",
+      "url": "https://www.outlookindia.com/national/diwali-cheer-for-govt-employees-as-centre-raises-da-dr-by-3",
+      "date": "2026-10-28T10:37:51.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "t98rhn",
+      "title": "Union Cabinet approves 3% DA hike for Central government employees",
+      "source": "Odisha TV",
+      "url": "https://odishatv.in/national/union-cabinet-approves-3-da-hike-for-central-government-employees-12761260/amp",
+      "date": "2026-10-28T10:30:00.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "8ae211",
+      "title": "Cabinet Approves 3% Hike In Dearness Allowance For Central Govt Employees",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/cabinet-approves-3-hike-in-dearness-allowance-for-central-govt-employees/",
+      "date": "2026-10-28T10:29:38.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1l4gwoh",
+      "title": "3% Hike in DA for Central Govt Employees/Pensioners cleared",
+      "source": "Cross Town News",
+      "url": "https://www.crosstownnews.in/post/164588/3-hike-in-da-for-central-govt-employeespensioners-cleared.html",
+      "date": "2026-10-28T10:26:21.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "12unbx9",
+      "title": "Diwali bonanza: India raises DA from 60% to 63% for central government employees, pensioners",
+      "source": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/personal-finance/da-hike-diwali-india-approves-3-pc-increase-dr-central-government-employees-pensioners-20021502.htm",
+      "date": "2026-10-28T10:25:49.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "qd6kt",
+      "title": "Centre Hikes DA By 3% To 63% For Central Govt Employees, Pensioners Ahead Of Diwali",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/business/centre-hikes-da-by-3-to-63-for-central-govt-employees-pensioners-ahead-of-diwali",
+      "date": "2026-10-28T10:24:09.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "o6w4db",
+      "title": "Centre announces Diwali gift with 3% DA and DR hike, clears key schemes",
+      "source": "News9live",
+      "url": "https://www.news9live.com/india/centre-announces-diwali-gift-with-3-da-and-dr-hike-clears-key-schemes-3019896",
+      "date": "2026-10-28T10:21:49.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1ipuvga",
+      "title": "Cabinet clears 3% dearness allowance and dearness relief hike for central govt employees, pensioners",
+      "source": "Telegraph India",
+      "url": "https://www.telegraphindia.com/india/cabinet-approves-3-dearness-allowance-and-dearness-relief-hike-for-central-govt-employees-pensioners/cid/2186696",
+      "date": "2026-10-28T10:19:26.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "l3oej",
+      "title": "DA Hike 2026: Govt Approves 3% Dearness Allowance Hike for Central Government Employees Ahead of Diwali",
       "source": "LatestLY",
-      "url": "https://www.latestly.com/india/news/da-hike-july-2026-when-will-centre-announce-3-rise-for-central-government-employees-7654801.html/amp",
-      "date": "2026-10-23T15:03:23.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "gj9a1g",
-      "title": "8th Pay Commission: Dearness allowance merger - what the 5th, 6th and 7th CPCs did; what's expected now",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-dearness-allowance-merger-what-the-5th-6th-and-7th-cp-cs-did-what-s-expected-now/article-202324/",
-      "date": "2026-10-23T12:17:03.000Z",
+      "url": "https://www.latestly.com/india/news/da-hike-2026-govt-approves-3-dearness-allowance-hike-for-central-government-employees-ahead-of-diwali-7659634.html",
+      "date": "2026-10-28T10:15:38.000Z",
       "official": false,
       "tags": [
         "DA",
-        "8th CPC",
         "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1c93vtx",
-      "title": "7th Pay Commission DA Hike: Will Central Government Employees Get 3% Increase on October 28?",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/7th-pay-commission-da-hike-will-central-government-employees-get-3-increase-on-october-28-1543049.html",
-      "date": "2026-10-23T11:15:48.000Z",
+      "id": "13h0yz6",
+      "title": "Centre Hikes Dearness Allowance by 3% for Govt Employees and Pensioners",
+      "source": "Oneindia",
+      "url": "https://www.oneindia.com/india/centre-hikes-dearness-allowance-by-3-for-central-government-employees-and-pensioners-8243925.html",
+      "date": "2026-10-28T10:15:06.000Z",
       "official": false,
       "tags": [
-        "DA"
+        "DA",
+        "Pension",
+        "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "12p4bcw",
-      "title": "Railway Employees Seek Online System For TA, OT Claims",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/railway-employees-seek-online-system-for-ta-ot-claims-630113",
-      "date": "2026-10-23T09:44:50.000Z",
+      "id": "18imrk0",
+      "title": "Dearness Allowance For Government Employees Hiked By 3% Ahead Of Diwali",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/india-news/dearness-allowance-for-government-employees-hiked-by-3-ahead-of-diwali-12248040",
+      "date": "2026-10-28T10:14:38.000Z",
       "official": false,
       "tags": [
-        "Railways"
+        "DA",
+        "Pay"
       ],
-      "speculative": true
+      "speculative": false
     },
     {
-      "id": "1to612m",
-      "title": "Retired employee gets income tax notice over Rs 9.29 lakh leave encashment; ITAT Jaipur cancels it and giv",
+      "id": "1lmhfzz",
+      "title": "DA hike news: Has the government announced 3% DA hike for central government employees today?",
       "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/tax/retired-employee-gets-income-tax-notice-over-rs-9-29-lakh-leave-encashment-itat-jaipur-cancels-it-and-gives-him-full-tax-exemption-heres-why/articleshow/135061398.cms",
-      "date": "2026-10-23T09:19:09.000Z",
-      "official": false,
-      "tags": [
-        "Tax",
-        "Leave"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "dl7uge",
-      "title": "Rly staff to get Productivity Linked Bonus",
-      "source": "Tripuratimes",
-      "url": "https://tripuratimes.com/ttimes/rly-staff-to-get-productivity-linked-bonus-3300.html",
-      "date": "2026-10-23T09:14:21.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1pzd1w4",
-      "title": "EPS 2026: Govt notifies new rule capping its pension contribution at ₹15,000 wages; see details",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/eps-2026-govt-notifies-new-rule-capping-its-pension-contribution-at-15-000-wages-see-details/article-202305/",
-      "date": "2026-10-23T08:31:48.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "2ip681",
-      "title": "Government Revises SOP for NPS-to-OPS Migration",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/government-revises-sop-for-nps-to-ops-migration/",
-      "date": "2026-10-23T08:09:53.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "rai1wf",
-      "title": "NPS to OPS migration rules revised: What pensioners and families need to know about death, disability cases",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/nps-to-ops-migration-rules-revised-what-pensioners-and-families-need-to-know-about-death-disability-cases/article-202299/",
-      "date": "2026-10-23T07:53:57.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "4q8k1h",
-      "title": "Gratuity calculation for salaried employees in 2026: 10 essential FAQs you need to know",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/gratuity-calculation-for-salaried-employees-in-2026-10-essential-fa-qs-you-need-to-know/article-191054/",
-      "date": "2026-10-23T07:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "c4gkh7",
-      "title": "DA Hike 2026: Will Central Govt Employees Get A Diwali Gift? Upcoming Cabinet Meeting In Focus",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/personal-finance/da-hike-2026-will-central-govt-employees-get-a-diwali-gift-upcoming-cabinet-meeting-in-focus-article-156389767/amp",
-      "date": "2026-10-23T06:41:32.000Z",
+      "url": "https://m.economictimes.com/wealth/save/da-hike-news-h-the-government-announce-3-da-hike-for-central-government-employees-todayas/has-the-government-announced-a-3-da-hike-today/slideshow/135253676.cms",
+      "date": "2026-10-28T10:13:59.000Z",
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ryb1qz",
-      "title": "DA Hike 2026: No Relief Update Yet, October 28 Cabinet Meeting in Focus",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/amp/story/retirement/pension/da-hike-2026-no-relief-update-yet-october-28-cabinet-meeting-in-focus",
-      "date": "2026-10-23T05:59:16.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "gmnp2f",
-      "title": "Expected 8th CPC DA/DR from July 2026 - 8वें वेतन आयोग में जुलाई 2026 से 2% DA/DR का अनुमान: गणना और पूरी तालिका",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/expected-8th-cpc-da-dr-from-july-2026.html",
-      "date": "2026-10-23T03:30:38.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "18wod8j",
-      "title": "8th Pay Commission: 1.92 or 2.57 fitment factor! How much could central employees’ salaries rise? Check calculation",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-1-92-or-2-57-fitment-factor-how-much-could-central-employees-salaries-rise-check-calculation-article-156388496",
-      "date": "2026-10-23T02:46:47.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
       ],
       "speculative": true
     }
