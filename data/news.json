@@ -1,7 +1,84 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T12:55:44.414Z",
+  "updated": "2026-10-30T22:20:11.678Z",
   "items": [
+    {
+      "id": "1oeo99p",
+      "title": "India railway unions seek ₹69,000 minimum pay under 8th Pay Commission",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/industry/transportation/railways/india-railway-unions-seek-69000-minimum-pay-under-8th-pay-commission/articleshow/135374248.cms",
+      "date": "2026-10-30T18:11:18.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1wk187i",
+      "title": "Periodic verification of qualifying service - Re-circulation of earlier OMs/clarifications under CCS (Pension) Rules, 2021: DoPPW OM",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/periodic-verification-of-qualifying-service-re-circulation-of-earlier-oms.html",
+      "date": "2026-10-30T17:49:02.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1iv2nue",
+      "title": "8th Pay Commission salary hike: What a 7% annual increment means for level 9, 10 and 11 employees? | Explained",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-pay-commission-salary-hike-what-a-7-annual-increment-means-for-level-9-10-and-11-employees-explained-11793363648510.html",
+      "date": "2026-10-30T16:07:22.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1w54p1j",
+      "title": "Railway worker body seeks Rs 69,000 minimum wage from 8th pay commission",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/industry/transportation/railways/railway-worker-body-seeks-rs-69000-minimum-wage-from-8th-pay-commission/articleshow/135367927.cms",
+      "date": "2026-10-30T15:21:09.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "9livr3",
+      "title": "AICPI-IW at 155.5 in September 2026: Impact on DA, TA and HRA for Central Government employees",
+      "source": "Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/aicpi-iw-at-155-5-in-september-2026-impact-on-da-ta-and-hra-for-central-government-employees-14064707.html",
+      "date": "2026-10-30T13:56:37.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "137vsdp",
+      "title": "Dearness Allowance to Railway employees - Revised Rates effective from 01.07.2026: RBE No. 91/2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/dearness-allowance-to-railway-employees-01-07-2026.html",
+      "date": "2026-10-30T13:50:15.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "1lyqqwr",
       "title": "पेंशन और पेंशनभोगी कल्याण विभाग 1 से 30 नवंबर, 2026 तक 'राष्ट्रव्यापी डिजिटल जीवन प्रमाण पत्र (डीएलसी) अभियान-5' आयोजित कर रहा है",
@@ -189,18 +266,6 @@
       "tags": [
         "DA",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "lyyhw0",
-      "title": "Counting of past service on reinstatement under the Central Civil Service (Pension) Rules, 2021 (Rule 25): DoP&PW O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/counting-of-past-service-on-reinstatement-ccs-pension-rules-2021.html",
-      "date": "2026-10-29T13:31:49.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
       ],
       "speculative": false
     },
@@ -527,20 +592,6 @@
       "speculative": false
     },
     {
-      "id": "1igidkn",
-      "title": "Dearness Allowance and Dearness Relief w.e.f. 01.07.2026 @ 3% for CG Employees and Pensioner: Cabinet Approval",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/dearness-allowance-and-dearness-relief-w-e-f-01-07-2026-cabinet.html",
-      "date": "2026-10-29T03:02:16.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "m1sruw",
       "title": "8th Pay Commission salary calculator: What 7% increment rate means for employees with Rs 53,100, Rs 56,100",
       "source": "The Economic Times",
@@ -711,58 +762,6 @@
       "source": "UdaipurTimes.com",
       "url": "https://udaipurtimes.com/news/cabinet-approves-3-hike-of-da-and-dr-to-pensioners/cid19463354.htm",
       "date": "2026-10-28T19:44:38.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1enveh8",
-      "title": "DA Hike: Govt Raises DA to 63%, Over 1 Crore Employees and Pensioners to Benefit",
-      "source": "India Business Trade",
-      "url": "https://indiabusinesstrade.in/da-hike-govt-raises-da-to-63-over-1-crore-employees-and-pensioners-to-benefit.htm",
-      "date": "2026-10-28T19:06:26.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "lcau11",
-      "title": "Union Cabinet approves 3% hike in DA/DR for central govt employees, pensioners",
-      "source": "thekashmirimages.com",
-      "url": "https://thekashmirimages.com/2026/10/29/union-cabinet-approves-3-hike-in-da-dr-for-central-govt-employees-pensioners/",
-      "date": "2026-10-28T19:03:07.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1p1k7jd",
-      "title": "Modi Cabinet Approves 3% DA Increase: Central Government Salary Hike Updates",
-      "source": "The News Agency",
-      "url": "https://thenewsagency.odoo.com/blog/nation-3/modi-cabinet-approves-3-da-increase-salaries-to-rise-891",
-      "date": "2026-10-28T17:05:39.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ypemw7",
-      "title": "Yogi Adityanath Lauds 3% DA Hike for Central Staff, Pensioners",
-      "source": "Rediff",
-      "url": "https://money.rediff.com/news/market/yogi-adityanath-lauds-3-da-hike-for-central-staff-pensioners/57079220261028",
-      "date": "2026-10-28T16:58:32.000Z",
       "official": false,
       "tags": [
         "DA",
