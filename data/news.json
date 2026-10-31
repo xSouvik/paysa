@@ -1,7 +1,72 @@
 {
   "schema": 1,
-  "updated": "2026-10-30T22:20:11.678Z",
+  "updated": "2026-10-31T05:40:45.865Z",
   "items": [
+    {
+      "id": "1j2scof",
+      "title": "8th Pay Commission: DA may touch 67% in January 2027 — will this be the last hike before the new pay structure?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-da-may-touch-67-in-january-2027-will-this-be-the-last-hike-before-the-new-pay-structure-11793416728232.html",
+      "date": "2026-10-31T03:49:35.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ezmtt",
+      "title": "8th Pay Commission pension calculator: How Rs 25,000 to Rs 75,000 basic pensions can change at 2.0, 2.25 a",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-calculator-how-rs-25000-to-rs-75000-basic-pensions-can-change-at-2-0-2-25-and-2-57-fitment-factors/articleshow/135385762.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
+      "date": "2026-10-31T03:20:55.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1soo47v",
+      "title": "PFRDA launches UPS Jeewan Setu Digital Life Certificate facility: How pensioners can submit form on Protean eGov App",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/pfrda-launches-ups-jeewan-setu-digital-life-certificate-facility-how-pensioners-can-submit-form-on-protean-egov-app-11793406230786.html",
+      "date": "2026-10-31T03:02:05.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "16a4m7a",
+      "title": "Railway Staff Seek Rs 69,000 Minimum Pay, 6% Annual Increment Under 8th Pay Commission",
+      "source": "BW Businessworld",
+      "url": "https://www.businessworld.in/article/railway-staff-seek-rs-69-000-minimum-pay-6-annual-increment-under-8th-pay-commission-631380",
+      "date": "2026-10-31T02:46:34.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "bq7k8x",
+      "title": "Cabinet Approves 78 Days’ Productivity Linked Bonus for Railway Employees",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/cabinet-approves-78-days-productivity-linked-bonus-for-railway-employees/",
+      "date": "2026-10-30T18:57:10.000Z",
+      "official": true,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "1oeo99p",
       "title": "India railway unions seek ₹69,000 minimum pay under 8th Pay Commission",
@@ -489,20 +554,6 @@
       "speculative": false
     },
     {
-      "id": "7kt0q9",
-      "title": "8th Pay Commission: 3 key union proposals on DA for employees and pensioners",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-3-key-union-proposals-on-da-for-employees-and-pensioners-11793252530845.html",
-      "date": "2026-10-29T06:48:26.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1wjsz6k",
       "title": "8th Pay Commission Fitment Factor: Why DA at 63% Matters",
       "source": "Urban Acres",
@@ -618,19 +669,6 @@
       "speculative": false
     },
     {
-      "id": "1dxiof3",
-      "title": "DA hiked to 63% for central government employees: Check monthly salary increase across 7th Pay Commission levels",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hiked-to-63-for-central-government-employees-check-monthly-salary-increase-across-7th-pay-commission-levels-11793233180527.html",
-      "date": "2026-10-29T02:23:10.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1ktq1yk",
       "title": "Rs 540 to Rs 1,683 extra per month: How much will your salary rise after DA hike?",
       "source": "India Today",
@@ -728,44 +766,6 @@
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "pxzdkj",
-      "title": "Union cabinet approves 3% DA hike for 11.6 million central employees and pensioners, effective July 1",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/news/economy/policy/union-cabinet-approves-3-da-hike-for-11-6-million-central-employees-and-pensioners-effective-july-1/articleshow/135279321.cms",
-      "date": "2026-10-28T20:33:12.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "gtft6q",
-      "title": "Cabinet approves 3% DA increase for Central govt employees",
-      "source": "prameyanews.com",
-      "url": "https://www.prameyanews.com/cabinet-approves-3-da-increase-for-central-govt-employees",
-      "date": "2026-10-28T19:57:06.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14e4nsh",
-      "title": "Cabinet Approves 3% Hike of DA and DR to Central Govt Employees, Pensioners",
-      "source": "UdaipurTimes.com",
-      "url": "https://udaipurtimes.com/news/cabinet-approves-3-hike-of-da-and-dr-to-pensioners/cid19463354.htm",
-      "date": "2026-10-28T19:44:38.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
       ],
       "speculative": false
     }
