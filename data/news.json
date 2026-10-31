@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T12:29:11.839Z",
+  "updated": "2026-10-31T21:34:11.028Z",
   "items": [
+    {
+      "id": "usebp3",
+      "title": "CGHS cover for dependent widowed, divorced daughters after parents' death",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/cghs-cover-for-dependent-widowed-divorced-daughters-after-parents-death/articleshow/135411758.cms",
+      "date": "2026-10-31T21:02:00.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1lc5ls7",
+      "title": "8th Pay Commission: 67% DA Hike in January 2027? Here's What Latest Data Reveals",
+      "source": "The United Indian",
+      "url": "https://www.theunitedindian.com/news/8th-pay-commission-da-hike-january-2027-67-percent-2",
+      "date": "2026-10-31T13:27:17.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1nbb4mo",
+      "title": "8th Pay Commission Latest News: 3% DA Hike Takes Rate To 63%, ₹69,000 Minimum Pay Demand, Fitment Factor And Salary Revision Updates",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-3-da-hike-takes-rate-to-63-69000-minimum-pay-demand-fitment-factor-and-salary-revision-updates-314744/",
+      "date": "2026-10-31T11:17:48.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "10vnt0i",
       "title": "Latest update on the 8th pay commission salary hike",
@@ -49,6 +88,18 @@
       "official": false,
       "tags": [
         "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "17zt2n9",
+      "title": "Jitendra Singh to address 2nd National Workshop on Pension Litigation in New Delhi on July 18",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/jitendra-singh-to-address-2nd-national-workshop-on-pension-litigation-in-new-delhi-on-july-18/",
+      "date": "2026-10-31T08:47:58.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
       ],
       "speculative": false
     },
@@ -712,58 +763,6 @@
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "m1sruw",
-      "title": "8th Pay Commission salary calculator: What 7% increment rate means for employees with Rs 53,100, Rs 56,100",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-salary-fitment-factor-calculator-news-what-7-increment-means-for-rs-53100-rs-56100-and-rs-67700-basic-pays/articleshow/135258351.cms",
-      "date": "2026-10-29T02:44:43.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "oez8ff",
-      "title": "Union Cabinet approves 3% hike in Dearness Allowance for central government employees",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/cabinet-approves-scheme-worth-rs-10000-cr-to-promote-domestic-manufacturing/",
-      "date": "2026-10-29T02:25:53.000Z",
-      "official": true,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ktq1yk",
-      "title": "Rs 540 to Rs 1,683 extra per month: How much will your salary rise after DA hike?",
-      "source": "India Today",
-      "url": "https://www.indiatoday.in/business/story/rs-540-to-rs-1683-extra-per-month-how-much-will-your-salary-rise-after-da-hike-3027061-2026-10-29",
-      "date": "2026-10-29T02:00:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "g376uo",
-      "title": "Cabinet approves 3% hike in DA for Central Govt employees, pensioners",
-      "source": "Greater Kashmir",
-      "url": "https://www.greaterkashmir.com/national/cabinet-approves-3-hike-in-da-for-central-govt-employees-pensioners-12762697",
-      "date": "2026-10-29T01:07:56.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
       ],
       "speculative": false
     }
