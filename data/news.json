@@ -1,7 +1,132 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T05:40:45.865Z",
+  "updated": "2026-10-31T12:29:11.839Z",
   "items": [
+    {
+      "id": "10vnt0i",
+      "title": "Latest update on the 8th pay commission salary hike",
+      "source": "SunCrypto",
+      "url": "https://suncrypto.in/blog/money-market/8th-pay-commission/",
+      "date": "2026-10-31T11:03:49.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "3ep5ip",
+      "title": "Unified Pension Scheme: Can you stop UPS contributions during probation, suspension or leave? Pension Ministry explains",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/unified-pension-scheme-can-you-stop-ups-contributions-during-probation-suspension-or-leave-pension-ministry-explains/amp-11793440518918.html",
+      "date": "2026-10-31T10:37:51.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "v8i6pu",
+      "title": "Gratuity calculator: How 3% DA hike can increase your retirement gratuity by nearly Rs 50,000",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/invest/gratuity-calculator-how-3-da-hike-can-increase-your-retirement-gratuity-by-nearly-rs-50000/articleshow/135392854.cms",
+      "date": "2026-10-31T10:08:01.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "2o1p2o",
+      "title": "DA formula now shows 66%, after CPI-IW rises to 155.5",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/cpi-iw-155-5-september-2026-da-formula-66-percent",
+      "date": "2026-10-31T09:09:43.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1wlmkih",
+      "title": "UPS Jeewan Setu: How Pensioners Can Submit Their Digital Life Certificate",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/personal-finance/ups-jeewan-setu-how-pensioners-can-submit-their-digital-life-certificate",
+      "date": "2026-10-31T07:50:23.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1xipdsa",
+      "title": "Dearness Allowance To Rise To 67% In January 2027? Here's What Employees, Pensioners Should Know",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/news/dearness-allowance-to-rise-to-67-in-january-2027-heres-what-employees-pensioners-should-know",
+      "date": "2026-10-31T07:48:37.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "thr80d",
+      "title": "Expected DA/DR from Jan 2027 @ 67%– All-India CPI-IW for the month of Sep, 2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/expected-da-dr-from-jan-2027-67-cpi-iw-sep-2026.html",
+      "date": "2026-10-31T07:45:54.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "12fif9f",
+      "title": "CGHS cards of Family Pensioners - Inclusion and reinstatement of eligible divorced and widowed daughters: MoH&FW O.M.",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/10/cghs-cards-of-family-pensioners-inclusion-of-divorced-and-widowed-daughters.html",
+      "date": "2026-10-31T07:35:02.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "n7tpv9",
+      "title": "Central staff on 5th CPC scales get 497% DA from July 2026",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/5th-cpc-da-497-percent-july-2026",
+      "date": "2026-10-31T06:35:34.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "5oxx6f",
+      "title": "8th Pay Commission: What happens after the commission submits its report? 5 key steps explained",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-happens-after-the-commission-submits-its-report-5-key-steps-explained/amp-11793424939877.html",
+      "date": "2026-10-31T06:03:19.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "1j2scof",
       "title": "8th Pay Commission: DA may touch 67% in January 2027 — will this be the last hike before the new pay structure?",
@@ -219,19 +344,6 @@
       "speculative": false
     },
     {
-      "id": "1lob52b",
-      "title": "DR hike of 3% from July 2026: How much more will OPS and UPS family pensioners receive? Check revised dearness relief",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dr-hike-of-3-from-july-2026-how-much-more-will-ops-and-ups-family-pensioners-receive-check-revised-dearness-relief/amp-11793344404730.html",
-      "date": "2026-10-30T07:56:47.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "u6vzwn",
       "title": "Dearness allowance calculation: How much extra DA and arrears will employees get at each 7th CPC pay level?",
       "source": "Upstox",
@@ -257,19 +369,6 @@
       "speculative": false
     },
     {
-      "id": "yzvht3",
-      "title": "DA hike for employees under 5th, 6th Pay Commissions: Key details from Finance Ministry orders on Dearness Allowance",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-for-employees-under-5th-6th-pay-commissions-key-details-from-finance-ministry-orders-on-dearness-allowance-11793329833301.html",
-      "date": "2026-10-30T04:45:06.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "mc3pmi",
       "title": "Diwali Gift: Centre Announces 3% DA Hike for Central Government Employees and Pensioners, Benefiting Over 1 Crore People",
       "source": "Pragativadi",
@@ -288,32 +387,6 @@
       "source": "Staff News",
       "url": "https://www.staffnews.in/2026/10/revision-of-rates-of-dearness-allowance-from-01-07-2026.html",
       "date": "2026-10-29T14:13:53.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "kwbsez",
-      "title": "6th Central Pay Commission Dearness Allowance w.e.f. 1st July, 2026 @ 269% – 7% hike: DoE, Fin Min OM",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/6th-central-pay-commission-dearness-allowance-w-e-f-1st-july-2026.html",
-      "date": "2026-10-29T13:59:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1p05qrp",
-      "title": "5th Central Pay Commission Dearness Allowance w.e.f. 1st Jul, 2026 @ 497% with 14% hike: DoE, FinMin O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/5th-central-pay-commission-dearness-allowance-w-e-f-1st-jul-2026.html",
-      "date": "2026-10-29T13:48:10.000Z",
       "official": false,
       "tags": [
         "DA",
@@ -691,81 +764,6 @@
       "tags": [
         "DA",
         "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "12hm95f",
-      "title": "3% DA hike for central govt staff, pensioners | Financial Express Delhi - newspaper",
-      "source": "Magzter",
-      "url": "https://www.magzter.com/stories/newspaper/Financial-Express-Delhi/3-DA-HIKE-FOR-CENTRAL-GOVT-STAFF-PENSIONERS",
-      "date": "2026-10-29T00:55:25.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "16dj7t4",
-      "title": "Centre hikes DA, MP may follow suit: 5% hike planned for Diwali, benefiting 12 lakh employees and pensioner...",
-      "source": "Bhaskar English",
-      "url": "https://www.bhaskarenglish.in/local/mp/bhopal/news/madhya-pradesh-da-hike-diwali-employees-pensioners-salary-news-139519406.html",
-      "date": "2026-10-29T00:05:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "f1dj68",
-      "title": "DA hike cleared for central government employees ahead of Diwali",
-      "source": "The Indian Express",
-      "url": "https://indianexpress.com/article/india/dearness-allowance-hike-central-government-employees-10940453/",
-      "date": "2026-10-28T22:15:00.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "l3lpjj",
-      "title": "Communications Ministry announces Jeevan Pramaan camps for telecom pensioners across Delhi NCR",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/communications-ministry-announces-jeevan-pramaan-camps-for-telecom-pensioners-across-delhi-ncr/",
-      "date": "2026-10-28T21:49:04.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "4seabn",
-      "title": "Centre’s Diwali gift to pensioners, staff: 3% DA hike",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/centres-diwali-gift-to-pensioners-staff-3-da-hike/amp_articleshow/135280384.cms",
-      "date": "2026-10-28T21:21:00.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "gjprfg",
-      "title": "Cabinet approves 3% hike in DA for central Govt employees",
-      "source": "Brighter Kashmir",
-      "url": "https://brighterkashmir.com/cabinet-approves-3-hike-in-da-for-central-govt-employees",
-      "date": "2026-10-28T20:54:19.000Z",
-      "official": false,
-      "tags": [
-        "DA"
       ],
       "speculative": false
     }
