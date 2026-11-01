@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-01T06:04:13.098Z",
+  "updated": "2026-11-01T13:24:42.843Z",
   "items": [
+    {
+      "id": "11h6f9o",
+      "title": "School Assembly News Headlines November 2, 2026: Bharat Bullet Train, Ram Lila Maidan, 8th Pay Commission and Other News",
+      "source": "Jagran Josh",
+      "url": "https://www.jagranjosh.com/articles/school-assembly-news-headlines-november-2-2026-bharat-bullet-train-ram-lila-maidan-8th-pay-commission-and-other-news-1800018490-1",
+      "date": "2026-11-01T11:57:05.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
     {
       "id": "qe3pk5",
       "title": "8th Pay Commission: How a ₹69,000 minimum wage demand translates into a proposed ₹1.12 lakh salary; Check calculations",
@@ -753,18 +765,6 @@
         "Pay"
       ],
       "speculative": false
-    },
-    {
-      "id": "pam3z0",
-      "title": "8th Pay Commission implementation likely from Jan 1",
-      "source": "Whispers in the Corridors",
-      "url": "https://whispersinthecorridors.in/news/8th-pay-commission-implementation-likely-from-jan-1",
-      "date": "2026-10-29T04:12:53.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
