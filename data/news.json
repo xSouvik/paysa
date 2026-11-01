@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-10-31T21:34:11.028Z",
+  "updated": "2026-11-01T06:04:13.098Z",
   "items": [
+    {
+      "id": "qe3pk5",
+      "title": "8th Pay Commission: How a ₹69,000 minimum wage demand translates into a proposed ₹1.12 lakh salary; Check calculations",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-a-69-000-minimum-wage-demand-translates-into-a-proposed-1-12-lakh-salary-check-calculations-11793509222216.html",
+      "date": "2026-11-01T05:20:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1a5blww",
+      "title": "8th Pay Commission Pension: Will Your Monthly Payout Double Soon? Check Here",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-pension-will-your-monthly-payout-double-soon-check-here-mrz1wsc",
+      "date": "2026-11-01T04:36:32.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "fq31i8",
+      "title": "8th Central Pay Commission: AIRF interaction brief on Pay Scales, Risk Allowances with crucial demands for Loco and Traffic Running Staff",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/8th-central-pay-commission-airf-interaction-brief.html",
+      "date": "2026-11-01T04:26:48.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "usebp3",
       "title": "CGHS cover for dependent widowed, divorced daughters after parents' death",
@@ -97,6 +136,18 @@
       "source": "DD News",
       "url": "https://ddnews.gov.in/en/jitendra-singh-to-address-2nd-national-workshop-on-pension-litigation-in-new-delhi-on-july-18/",
       "date": "2026-10-31T08:47:58.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1kzjwh4",
+      "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/pr-cca-delhi-celebrates-national-senior-citizens-day-felicitates-super-senior-pensioners/",
+      "date": "2026-10-31T08:17:28.000Z",
       "official": true,
       "tags": [
         "Pension"
@@ -334,19 +385,6 @@
       "speculative": false
     },
     {
-      "id": "1e36ren",
-      "title": "DA now at 63%: Will the latest hike increase your HRA too, or only your monthly salary?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/da-now-at-63-will-the-latest-hike-increase-your-hra-too-or-only-your-monthly-salary-11793358505705.html",
-      "date": "2026-10-30T12:26:36.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "xpkjsk",
       "title": "Fifth nationwide Digital Life Certificate campaign aims to reach pensioners in remotest corners with face authentication",
       "source": "News On AIR",
@@ -429,19 +467,6 @@
       "tags": [
         "DA",
         "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ej2ks8",
-      "title": "Revision of rates of Dearness Allowance from 01.07.2026 @ 63% - 3% hike for Central Govt. Employees: DoE, FinMin O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/revision-of-rates-of-dearness-allowance-from-01-07-2026.html",
-      "date": "2026-10-29T14:13:53.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
       ],
       "speculative": false
     },
@@ -740,31 +765,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "1u00d5o",
-      "title": "Video | Dearness Allowance For Government Employees Hiked By 3% Ahead Of Diwali",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/video/dearness-allowance-for-government-employees-hiked-by-3-ahead-of-diwali-1182229",
-      "date": "2026-10-29T03:39:40.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "o5shyj",
-      "title": "‘Diwali gift’: Centre approves 3% DA hike for 4.8 million government employees",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html",
-      "date": "2026-10-29T03:22:48.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
     }
   ]
 }
