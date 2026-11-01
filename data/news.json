@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-01T13:24:42.843Z",
+  "updated": "2026-11-01T22:01:39.398Z",
   "items": [
+    {
+      "id": "1k668hv",
+      "title": "Sadou Asom Karmachari Parishad to oppose Nat’l Pension System",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/sadou-asom-karmachari-parishad-to-oppose-natl-pension-system/articleshow/135434884.cms",
+      "date": "2026-11-01T18:03:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1kf3qnl",
+      "title": "8th Pay Commission: Central Staff Demand 7 Percent Increment, Check 10-Year Salary Hike",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-central-staff-demand-7-percent-increment-check-10-year-salary-hike-nv747rn",
+      "date": "2026-11-01T16:19:15.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "11h6f9o",
       "title": "School Assembly News Headlines November 2, 2026: Bharat Bullet Train, Ram Lila Maidan, 8th Pay Commission and Other News",
@@ -736,33 +761,6 @@
       "official": false,
       "tags": [
         "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1vku9da",
-      "title": "Union Cabinet Clears 3% DA Hike for Central Govt Employees, Pensioners",
-      "source": "The INS News",
-      "url": "https://theins.in/2026/10/28/union-cabinet-clears-3-da-hike-for-central-govt-employees-pensioners/",
-      "date": "2026-10-29T05:03:45.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1557y7",
-      "title": "8th Pay Commission: DA hike and real salary gains",
-      "source": "News Karnataka",
-      "url": "https://newskarnataka.com/finance/8th-pay-commission-da-hike-and-real-salary-gains/29102026/",
-      "date": "2026-10-29T05:00:58.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
       ],
       "speculative": false
     }
