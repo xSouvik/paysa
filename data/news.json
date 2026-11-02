@@ -1,7 +1,186 @@
 {
   "schema": 1,
-  "updated": "2026-11-02T06:02:05.133Z",
+  "updated": "2026-11-02T15:52:34.739Z",
   "items": [
+    {
+      "id": "1y3ofu6",
+      "title": "पेंशन और पेंशनभोगी कल्याण विभाग ने राष्ट्रव्यापी 'डिजिटल जीवन प्रमाणपत्र अभियान-5' के माध्यम से पेंशनभोगियों का डिजिटल सशक्तिकरण तेज़ किया",
+      "summary": "कार्मिक , लोक शिकायत और पेंशन मंत्रालय के अंतर्गत पेंशन और पेंशनभोगी कल्याण विभाग ( डीओपीपीडब्ल्यू ) ने , ' राष्ट्रव्यापी डिजिटल जीवन प्रमाण पत्र ( डीएलसी ) अभियान -5' के हिस्से के रूप में , 2 नवंबर 2026 को नई दिल्ली के…",
+      "source": "PIB",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331720",
+      "date": "2026-11-02T15:52:30.875Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "14amhw3",
+      "title": "Gratuity calculation after 3% DA hike: How central government employees can get up to ₹50,000 more at retirement",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gratuity-calculation-after-3-da-hike-how-central-government-employees-can-get-up-to-50-000-more-at-retirement-11793629663690.html",
+      "date": "2026-11-02T14:32:11.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "oxmpyh",
+      "title": "8th Pay Commission: Railway Workers Seek Better Pay",
+      "source": "Urban Acres",
+      "url": "https://urbanacres.in/8th-pay-commission-demand-exposes-railway-modernisations-workforce-gap/",
+      "date": "2026-11-02T13:53:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1n4jvt0",
+      "title": "UPS Contributions Mandatory During Probation Period: DoPPW Clarifies Under Rule 6(6) of CCS Rules 2025",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/ups-contributions-mandatory-during-probation-period-doppw-clarifies-under-rule",
+      "date": "2026-11-02T13:12:06.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "uin15p",
+      "title": "Unified Pension Scheme: DoPPW clarification on contributions during suspension under Rules 6(2) and 7(3)",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/unified-pension-scheme-doppw-clarification-on-contributions-during-suspension",
+      "date": "2026-11-02T13:11:58.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "forg9q",
+      "title": "Unified Pension Scheme: DoPPW Office Memorandum on Restoration of Units for Delayed Contributions under Rule 8(1)",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/unified-pension-scheme-doppw-office-memorandum-on-restoration-of-units-for",
+      "date": "2026-11-02T13:11:33.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "nogvzp",
+      "title": "Unified Pension Scheme (UPS): No Contributions Required During Unpaid Absence, Clarifies DoPPW",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/unified-pension-scheme-ups-no-contributions-required-during-unpaid-absence",
+      "date": "2026-11-02T13:11:31.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "11bnguu",
+      "title": "8th Pay Commission: 3.83 fitment factor to Rs 10,000 risk allowance, 5 big demands",
+      "source": "The Financial Express",
+      "url": "https://www.financialexpress.com/money/8th-pay-commission-3-83-fitment-factor-to-rs-10000-risk-allowance-5-big-demands-4375249/",
+      "date": "2026-11-02T12:32:34.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1kjh6qi",
+      "title": "8th Pay Commission Latest Update: Railway Unions Demand Rs 69,000 Minimum Pay, DA Rises To 63%; Check Salary And Pension Updates",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-update-railway-unions-demand-rs-69000-minimum-pay-da-rises-to-63-check-salary-and-pension-updates-315881/",
+      "date": "2026-11-02T11:47:24.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "2nefcq",
+      "title": "8th Pay Commission: 6 key demands by Railway employee's body; better pay, merging of pay scales, hardship",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-latest-new-6-key-demands-by-railway-employees-body-better-pay-hardship-allowance-and-more/articleshow/135454407.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
+      "date": "2026-11-02T11:44:58.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1a5ptm9",
+      "title": "Railway Unions Seek Rs 69,000 Minimum Pay Under 8th CPC",
+      "source": "BW People",
+      "url": "https://www.bwpeople.in/article/railway-unions-seek-rs-69-000-minimum-pay-under-8th-cpc-631704",
+      "date": "2026-11-02T11:27:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1rvmcmr",
+      "title": "8th Pay Commission: Amid demand for commutation of pension changes, what two recent High Court judgments say",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-amid-demand-for-commutation-of-pension-changes-what-two-recent-high-court-judgments-say/article-202834/",
+      "date": "2026-11-02T10:48:18.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1u6z2xp",
+      "title": "8th Pay Commission: Will HRA, Transport Allowance And Other Benefits Also Increase?",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-will-hra-transport-allowance-and-other-benefits-also-increase-12270044",
+      "date": "2026-11-02T08:08:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1enw0c3",
+      "title": "8th Pay Commission Update: Rs 25,000 Basic Pension May Rise To Rs 87,500; Check New Calculation",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/india/8th-pay-commission-rs-25000-basic-pension-may-rise-to-rs-87500-check-new-calculation-articleshow-v179q4s",
+      "date": "2026-11-02T07:50:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "hofvkf",
       "title": "8th Pay Commission pension calculator: How ₹25,000 to ₹75,000 basic pensions may change at 2.5, 3 & 3.5 fitment factors",
@@ -47,6 +226,19 @@
       "source": "Asianet Newsable",
       "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-central-staff-demand-7-percent-increment-check-10-year-salary-hike-nv747rn",
       "date": "2026-11-01T16:19:15.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "pt7rd2",
+      "title": "8th Pay Commission Latest News 🚨 Annual Increment 3% से 6%? Salary Hike पर Big Update!",
+      "source": "YouTube",
+      "url": "https://youtu.be/s2i-SKaUOwk?si=0wXYERTiRonD1VD3",
+      "date": "2026-11-01T13:03:10.000Z",
       "official": false,
       "tags": [
         "8th CPC",
@@ -294,19 +486,6 @@
       "speculative": true
     },
     {
-      "id": "1j2scof",
-      "title": "8th Pay Commission: DA may touch 67% in January 2027 — will this be the last hike before the new pay structure?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-da-may-touch-67-in-january-2027-will-this-be-the-last-hike-before-the-new-pay-structure-11793416728232.html",
-      "date": "2026-10-31T03:49:35.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1ezmtt",
       "title": "8th Pay Commission pension calculator: How Rs 25,000 to Rs 75,000 basic pensions can change at 2.0, 2.25 a",
       "source": "The Economic Times",
@@ -497,6 +676,18 @@
       "speculative": false
     },
     {
+      "id": "1ticr6a",
+      "title": "New DA rates under 5th and 6th pay commissions: How much extra employees may get before Diwali 2026",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/new-da-rates-under-5th-and-6th-pay-commissions-how-much-extra-employees-may-get-before-diwali-2026/article-202692/",
+      "date": "2026-10-30T05:11:33.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
       "id": "mc3pmi",
       "title": "Diwali Gift: Centre Announces 3% DA Hike for Central Government Employees and Pensioners, Benefiting Over 1 Crore People",
       "source": "Pragativadi",
@@ -574,197 +765,6 @@
         "Pension"
       ],
       "speculative": true
-    },
-    {
-      "id": "1i3v5z9",
-      "title": "UPS rules clarified: What happens to pension contributions during employee’s probation, suspension and abs",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/invest/ups-rules-clarified-what-happens-to-pension-contributions-during-employees-probation-suspension-and-absence-from-duty/articleshow/135299847.cms",
-      "date": "2026-10-29T09:52:09.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "17wkwo5",
-      "title": "8th Pay Commission Update: Major DA Demands That Could Change Salaries, Pensions",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-update-article-156428099",
-      "date": "2026-10-29T09:46:41.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1koge6b",
-      "title": "8th Pay Commission Latest News: Mumbai Consultations Conclude, Fitment Factor And Salary Hike Remain Unconfirmed",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-mumbai-consultations-conclude-fitment-factor-and-salary-hike-remain-unconfirmed-313631/",
-      "date": "2026-10-29T09:09:47.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "140nmkn",
-      "title": "Centre Hikes DA To 63% For Employees, Pensioners Ahead Of Diwali",
-      "source": "Outlook India",
-      "url": "https://www.outlookindia.com/national/centre-hikes-da-to-63-for-employees-pensioners-ahead-of-diwali",
-      "date": "2026-10-29T08:58:43.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ohotuz",
-      "title": "Centre Approves 3% DA Hike for Central Government Employees and Pensioners; New Rate Reaches 63%",
-      "source": "www.nationpathindia.com",
-      "url": "https://www.nationpathindia.com/national/centre-approves-3-percent-da-hike-employees-pensioners-2026",
-      "date": "2026-10-29T08:47:42.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "17zsfv",
-      "title": "Central Government Employees To Get 3 Per Cent DA Hike, Rate Rises To 63 Per Cent",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/pension/central-government-employees-to-get-3-per-cent-da-hike-rate-rises-to-63-per-cent",
-      "date": "2026-10-29T08:44:07.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1013isr",
-      "title": "8th Pay Commission: 7% Increment Could Add Up To Rs 43 Lakh",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/8th-pay-commission-7-increment-could-add-up-to-rs-43-lakh-631072",
-      "date": "2026-10-29T08:23:26.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "ynyr62",
-      "title": "8th Pay Commission Update: Top 10 Updates, Salary Hike Details For Government Employees",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-update-top-10-updates-salary-hike-details-for-government-employees-z965zdv",
-      "date": "2026-10-29T07:57:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "hotank",
-      "title": "India’s real GDP grew 7.8% in Q1 of 2026-27, says CEA Dr Anantha Nageswaran",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/indias-real-gdp-grew-7-8-in-q1-of-2026-27-says-cea-dr-anantha-nageswaran/",
-      "date": "2026-10-29T07:54:08.000Z",
-      "official": true,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "16uzbhu",
-      "title": "3% DA hike: How much will your monthly salary rise? Check calculations",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/personal-finance/3-da-hike-how-much-will-your-monthly-salary-rise-check-calculations-126102900619_1.html",
-      "date": "2026-10-29T07:49:41.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1b1cnoc",
-      "title": "Dearness Allowance (DA)",
-      "source": "INSIGHTS IAS",
-      "url": "https://www.insightsonindia.com/2026/10/29/dearness-allowance-da/",
-      "date": "2026-10-29T07:13:55.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1on5eg9",
-      "title": "Cabinet Approves 3% DA Hike For Central Govt Employees, Pensioners",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/cabinet-approves-3-da-hike-for-central-govt-employees-pensioners-631035",
-      "date": "2026-10-29T07:13:10.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1akvght",
-      "title": "3% increase in DA/DR approved | Business Standard - newspaper",
-      "source": "Magzter",
-      "url": "https://www.magzter.com/stories/newspaper/Business-Standard/3-INCREASE-IN-DADR-APPROVED-999737",
-      "date": "2026-10-29T06:56:29.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1wjsz6k",
-      "title": "8th Pay Commission Fitment Factor: Why DA at 63% Matters",
-      "source": "Urban Acres",
-      "url": "https://urbanacres.in/8th-pay-commission-faces-higher-fitment-factor-test-after-da-hits-63/",
-      "date": "2026-10-29T06:37:47.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1k6q7dr",
-      "title": "Centre Raises DA and DR by 3% from 1 July",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/centre-raises-da-and-dr-by-3-from-1-july/",
-      "date": "2026-10-29T06:15:32.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
     }
   ]
 }
