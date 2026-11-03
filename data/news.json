@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T14:14:32.494Z",
+  "updated": "2026-11-03T23:23:29.761Z",
   "items": [
+    {
+      "id": "1l65ns4",
+      "title": "8th Pay Commission: Will pensioners get 15-year commutation period slashed after high courts say ‘no’?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pensioners-seek-reduction-in-15-year-commutation-restoration-period-after-two-hc-judgments-11793716955628.html",
+      "date": "2026-11-03T16:17:26.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "1io703s",
       "title": "पेंशन एवं पेंशनभोगी कल्याण विभाग ने 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र अभियान के दायरे में सभी पेंशनभोगियों को लाने का आह्वान किया",
@@ -133,6 +146,18 @@
         "Pension"
       ],
       "speculative": false
+    },
+    {
+      "id": "rq26m7",
+      "title": "One Day in Office, a Lifelong Pension? How India’s MPs and MLAs Receive Retirement Benefits",
+      "source": "Newstrack English",
+      "url": "https://english.newstrack.com/specialnews/india-mp-mla-pension-rules-single-day-eligibility-state-wise-variations-645522",
+      "date": "2026-11-03T08:51:57.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
     },
     {
       "id": "1rxefp0",
@@ -455,19 +480,6 @@
       "speculative": true
     },
     {
-      "id": "qe3pk5",
-      "title": "8th Pay Commission: How a ₹69,000 minimum wage demand translates into a proposed ₹1.12 lakh salary; Check calculations",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-a-69-000-minimum-wage-demand-translates-into-a-proposed-1-12-lakh-salary-check-calculations-11793509222216.html",
-      "date": "2026-11-01T05:20:08.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1a5blww",
       "title": "8th Pay Commission Pension: Will Your Monthly Payout Double Soon? Check Here",
       "source": "Asianet Newsable",
@@ -544,6 +556,19 @@
         "Pay"
       ],
       "speculative": false
+    },
+    {
+      "id": "1w759rc",
+      "title": "8th Pay Commission Increase in annual increment know how much benefit will be given to employees of level 9 10 and 11",
+      "source": "Sandesh",
+      "url": "https://sandesh.com/business/news/8th-pay-commission-increase-in-annual-increment-know-how-much-benefit-will-be-given-to-employees-of-level-9-10-and-11",
+      "date": "2026-10-31T10:35:16.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "v8i6pu",
@@ -742,30 +767,6 @@
       "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330373",
       "date": "2026-10-30T12:55:38.775Z",
       "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "xpkjsk",
-      "title": "Fifth nationwide Digital Life Certificate campaign aims to reach pensioners in remotest corners with face authentication",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/fifth-nationwide-digital-life-certificate-campaign-aims-to-reach-pensioners-in-remotest-corners-with-face-authentication/",
-      "date": "2026-10-30T10:27:42.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "b9qlqm",
-      "title": "UPS contributions: Centre clarifies rules for probation, suspension & leave",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/personal-finance/ups-contributions-centre-clarifies-rules-for-probation-suspension-leave-126103000994_1.html",
-      "date": "2026-10-30T10:19:22.000Z",
-      "official": false,
       "tags": [
         "Pension"
       ],
