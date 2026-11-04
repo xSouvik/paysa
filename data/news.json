@@ -1,7 +1,262 @@
 {
   "schema": 1,
-  "updated": "2026-11-03T23:23:29.761Z",
+  "updated": "2026-11-04T19:45:02.551Z",
   "items": [
+    {
+      "id": "c2kbcd",
+      "title": "PRESS Release - StAR NPS to Expand Pension Coverage Across Socioeconomic Strata - PFRDA",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/star-nps-to-expand-pension-coverage-across-socioeconomic-strata-pfrda.html",
+      "date": "2026-11-04T16:58:21.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1szpii9",
+      "title": "Centre Raises DR for Pensioners to 63 Per Cent",
+      "source": "Kashmir Life",
+      "url": "https://kashmirlife.net/centre-raises-dr-for-pensioners-to-63-per-cent-459685/",
+      "date": "2026-11-04T11:05:53.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "oq41cz",
+      "title": "8th Pay Commission Update: 66% Of Timeline Complete, Salary Revision Report Expected In 2027",
+      "source": "ABP Live English",
+      "url": "https://news.abplive.com/business/personal-finance/8th-pay-commission-update-timeline-salary-revision-when-1874747",
+      "date": "2026-11-04T10:23:12.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "yq0m47",
+      "title": "8th Pay Commission Latest News: Pensioners Renew Demand To Reduce 15-Year Commuted Pension Restoration Period; Check Key Proposals, Salary Rivision And DA Hike",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-pensioners-renew-demand-to-reduce-15-year-commuted-pension-restoration-period-check-key-proposals-salary-rivision-and-da-hike-317114/",
+      "date": "2026-11-04T09:06:50.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "8lby5t",
+      "title": "8th Pay Commission: Railwaymen seek special allowances like risk, hardship, hazardous duty and dress; what 7th CPC offered",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-railwaymen-seek-special-allowances-like-risk-hardship-hazardous-duty-and-dress-what-7th-cpc-said/article-202960/",
+      "date": "2026-11-04T07:46:39.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "ym6u86",
+      "title": "8th Pay Commission: Employees May Get Huge Arrears If Implementation Is Delayed Till 2027",
+      "source": "News Arena India",
+      "url": "https://newsarenaindia.com/nation/8th-pay-commission-employees-may-get-huge-arrears-if-implementation-is-delayed-till-2027/85363",
+      "date": "2026-11-04T07:37:33.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "qa7xec",
+      "title": "8th CPC Salary Calculator: लेवल-4 की स्टेज 10, 20, 30, 40 पर फिटमेंट, TPTA, HRA के साथ कितनी होगी ग्रॉस सैलरी?",
+      "source": "Zee Business",
+      "url": "https://www.zeebiz.com/hindi/personal-finance/8th-cpc-salary-calculator-level-4-stage-10-20-30-40-gross-net-salary-hike-fitment-hra-ta-8th-pay-commission-update-267715",
+      "date": "2026-11-04T07:13:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "qzfgk9",
+      "title": "8th Pay Commission: How Much Arrears Could Employees Get If Implementation Is Delayed Until 2027?",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-how-much-arrears-could-employees-get-if-implementation-is-delayed-until-2027-12280873",
+      "date": "2026-11-04T07:09:40.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1qw97cn",
+      "title": "8th Pay Commission: 1 year later, 3 big questions employees want answered",
+      "source": "India Today",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-1-year-later-3-big-questions-employees-want-answered-3031949-2026-11-04",
+      "date": "2026-11-04T06:28:10.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "idiu87",
+      "title": "₹1 lakh last-drawn salary: Pensioners want basic pension to rise from ₹50,000 to ₹67,000 - 8th Pay Commission pension calculator: Could ₹25,000 basic pension rise to ₹64,250? Check estimates at 2.0, 2.25 and 2.57 fitment factors",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-pension-calculator-could-25000-basic-pension-rise-to-64250-check-estimates-at-2-0-2-25-and-2-57-fitment-factors/1-lakh-last-drawn-salary-pensioners-want-basic-pension-to-rise-from-50000-to-67000/slideshow/135524592.cms",
+      "date": "2026-11-04T05:58:56.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "174aira",
+      "title": "8th Pay Commission: One year after notification, key developments and what remains pending - CNBC TV18",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/cnbc-tv18_8th-pay-commission-one-year-after-notification-activity-7523622929058918400-Zib7",
+      "date": "2026-11-04T05:51:28.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "o3hhj4",
+      "title": "8th Pay Commission Update: Salary Hike, Fitment Factor And Minimum Pay, What Employees Should Know",
+      "source": "News18",
+      "url": "https://www.news18.com/photogallery/business/economy/8th-pay-commission-update-salary-hike-fitment-factor-and-minimum-pay-what-employees-should-know-shil-ws-l-10411916.html",
+      "date": "2026-11-04T05:46:49.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "bg6p7l",
+      "title": "8th Pay Commission reaches 66% of timeline — employees await recommendations, fitment factor and revised pay structure",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-pay-commission-completes-66-pc-timeline-employees-await-recommendations-fitment-factor-revised-pay-structure-pension-11793764197366.html",
+      "date": "2026-11-04T05:42:25.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "ikmj9s",
+      "title": "8th Pay Commission: From ₹69,000 Minimum Salary To 3.833 Fitment Factor, Check Full List Of Employee Union’s Demands",
+      "source": "Jagran Josh",
+      "url": "https://www.jagranjosh.com/general-knowledge/8th-pay-commission-from-69000-minimum-salary-to-3833-fitment-factor-check-full-list-of-employee-unions-demands-1820013591-1",
+      "date": "2026-11-04T05:09:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "bxej3w",
+      "title": "8th Pay Commission pension calculator: Could ₹25,000 basic pension rise to ₹64,250? Check estimates at 2.0, 2.25 and 2.57 fitment factors",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-pension-calculator-could-25000-basic-pension-rise-to-64250-check-estimates-at-2-0-2-25-and-2-57-fitment-factors/slideshow/135524599.cms",
+      "date": "2026-11-04T05:07:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "vxii93",
+      "title": "8th Pay Commission HRA Demand Targets Rising City Rents",
+      "source": "Urban Acres",
+      "url": "https://urbanacres.in/8th-pay-commission-hra-demand-targets-rising-city-rents/",
+      "date": "2026-11-04T03:38:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "imlejh",
+      "title": "Diwali gift for these railway employees: 30-day non-productivity-linked bonus approved; know eligibility, calculation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/diwali-gift-for-these-railway-employees-30-day-non-productivity-linked-bonus-approved-know-eligibility-calculation-11793758597043.html",
+      "date": "2026-11-04T03:36:02.000Z",
+      "official": false,
+      "tags": [
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1bl7xvm",
+      "title": "Unified Pension Scheme: Operationalisation of \"UPS Jeewan Setu - Digital Life Certificate (DLC)\" facility for Pensioners.",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/unified-pension-scheme-operationalisation-of-ups-jeewan-setu.html",
+      "date": "2026-11-04T03:11:29.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "19wr9ob",
+      "title": "8th Pay Commission Latest: Pensioners Seek Cut In 15-Year Commutation Period; How Does It Impact Pensions?",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/news/8th-pay-commission-latest-pensioners-seek-reduction-in-15-year-commutation-how-does-it-pensions-1545097.html",
+      "date": "2026-11-04T01:41:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "9gcsfu",
+      "title": "₹25,000 pension to ₹87,500? What the 8th Pay Commission has really decided",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/latest/trends/photo/rs25000-pension-to-rs87500-what-the-8th-pay-commission-has-really-decided-565489-2026-11-03",
+      "date": "2026-11-04T01:40:03.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "1l65ns4",
       "title": "8th Pay Commission: Will pensioners get 15-year commutation period slashed after high courts say ‘no’?",
@@ -390,31 +645,16 @@
       "speculative": true
     },
     {
-      "id": "hofvkf",
-      "title": "8th Pay Commission pension calculator: How ₹25,000 to ₹75,000 basic pensions may change at 2.5, 3 & 3.5 fitment factors",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-calculator-how-25-000-to-75-000-basic-pensions-may-change-at-2-5-3-and-3-5-fitment-factor-11793588633097.html",
-      "date": "2026-11-02T03:56:20.000Z",
-      "official": false,
+      "id": "xpkjsk",
+      "title": "Fifth nationwide Digital Life Certificate campaign aims to reach pensioners in remotest corners with face authentication",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/fifth-nationwide-digital-life-certificate-campaign-aims-to-reach-pensioners-in-remotest-corners-with-face-authentication/",
+      "date": "2026-11-01T21:39:24.000Z",
+      "official": true,
       "tags": [
-        "8th CPC",
         "Pension"
       ],
-      "speculative": true
-    },
-    {
-      "id": "5l0cc",
-      "title": "8th pay commission: Pay scales, risk and hardship allowances, hazard pay — What AIRF is seeking for Railway employees",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/8th-pay-commission-pay-scales-risk-hardship-allowances-hazard-pay-airf-seeking-for-railway-track-maintenance-employees-11793583547175.html",
-      "date": "2026-11-02T02:08:29.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
+      "speculative": false
     },
     {
       "id": "1k668hv",
@@ -529,248 +769,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "1nbb4mo",
-      "title": "8th Pay Commission Latest News: 3% DA Hike Takes Rate To 63%, ₹69,000 Minimum Pay Demand, Fitment Factor And Salary Revision Updates",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-3-da-hike-takes-rate-to-63-69000-minimum-pay-demand-fitment-factor-and-salary-revision-updates-314744/",
-      "date": "2026-10-31T11:17:48.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "10vnt0i",
-      "title": "Latest update on the 8th pay commission salary hike",
-      "source": "SunCrypto",
-      "url": "https://suncrypto.in/blog/money-market/8th-pay-commission/",
-      "date": "2026-10-31T11:03:49.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1w759rc",
-      "title": "8th Pay Commission Increase in annual increment know how much benefit will be given to employees of level 9 10 and 11",
-      "source": "Sandesh",
-      "url": "https://sandesh.com/business/news/8th-pay-commission-increase-in-annual-increment-know-how-much-benefit-will-be-given-to-employees-of-level-9-10-and-11",
-      "date": "2026-10-31T10:35:16.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "v8i6pu",
-      "title": "Gratuity calculator: How 3% DA hike can increase your retirement gratuity by nearly Rs 50,000",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/invest/gratuity-calculator-how-3-da-hike-can-increase-your-retirement-gratuity-by-nearly-rs-50000/articleshow/135392854.cms",
-      "date": "2026-10-31T10:08:01.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "2o1p2o",
-      "title": "DA formula now shows 66%, after CPI-IW rises to 155.5",
-      "source": "www.indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/govt-news/cpi-iw-155-5-september-2026-da-formula-66-percent",
-      "date": "2026-10-31T09:09:43.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "17zt2n9",
-      "title": "Jitendra Singh to address 2nd National Workshop on Pension Litigation in New Delhi on July 18",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/jitendra-singh-to-address-2nd-national-workshop-on-pension-litigation-in-new-delhi-on-july-18/",
-      "date": "2026-10-31T08:47:58.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1kzjwh4",
-      "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/pr-cca-delhi-celebrates-national-senior-citizens-day-felicitates-super-senior-pensioners/",
-      "date": "2026-10-31T08:17:28.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1wlmkih",
-      "title": "UPS Jeewan Setu: How Pensioners Can Submit Their Digital Life Certificate",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/personal-finance/ups-jeewan-setu-how-pensioners-can-submit-their-digital-life-certificate",
-      "date": "2026-10-31T07:50:23.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1xipdsa",
-      "title": "Dearness Allowance To Rise To 67% In January 2027? Here's What Employees, Pensioners Should Know",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/news/dearness-allowance-to-rise-to-67-in-january-2027-heres-what-employees-pensioners-should-know",
-      "date": "2026-10-31T07:48:37.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "thr80d",
-      "title": "Expected DA/DR from Jan 2027 @ 67%– All-India CPI-IW for the month of Sep, 2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/expected-da-dr-from-jan-2027-67-cpi-iw-sep-2026.html",
-      "date": "2026-10-31T07:45:54.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "12fif9f",
-      "title": "CGHS cards of Family Pensioners - Inclusion and reinstatement of eligible divorced and widowed daughters: MoH&FW O.M.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/cghs-cards-of-family-pensioners-inclusion-of-divorced-and-widowed-daughters.html",
-      "date": "2026-10-31T07:35:02.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "n7tpv9",
-      "title": "Central staff on 5th CPC scales get 497% DA from July 2026",
-      "source": "www.indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/govt-news/5th-cpc-da-497-percent-july-2026",
-      "date": "2026-10-31T06:35:34.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ezmtt",
-      "title": "8th Pay Commission pension calculator: How Rs 25,000 to Rs 75,000 basic pensions can change at 2.0, 2.25 a",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-calculator-how-rs-25000-to-rs-75000-basic-pensions-can-change-at-2-0-2-25-and-2-57-fitment-factors/articleshow/135385762.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
-      "date": "2026-10-31T03:20:55.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "16a4m7a",
-      "title": "Railway Staff Seek Rs 69,000 Minimum Pay, 6% Annual Increment Under 8th Pay Commission",
-      "source": "BW Businessworld",
-      "url": "https://www.businessworld.in/article/railway-staff-seek-rs-69-000-minimum-pay-6-annual-increment-under-8th-pay-commission-631380",
-      "date": "2026-10-31T02:46:34.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "bq7k8x",
-      "title": "Cabinet Approves 78 Days’ Productivity Linked Bonus for Railway Employees",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/cabinet-approves-78-days-productivity-linked-bonus-for-railway-employees/",
-      "date": "2026-10-30T18:57:10.000Z",
-      "official": true,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1oeo99p",
-      "title": "India railway unions seek ₹69,000 minimum pay under 8th Pay Commission",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/industry/transportation/railways/india-railway-unions-seek-69000-minimum-pay-under-8th-pay-commission/articleshow/135374248.cms",
-      "date": "2026-10-30T18:11:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1wk187i",
-      "title": "Periodic verification of qualifying service - Re-circulation of earlier OMs/clarifications under CCS (Pension) Rules, 2021: DoPPW OM",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/10/periodic-verification-of-qualifying-service-re-circulation-of-earlier-oms.html",
-      "date": "2026-10-30T17:49:02.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "9livr3",
-      "title": "AICPI-IW at 155.5 in September 2026: Impact on DA, TA and HRA for Central Government employees",
-      "source": "Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/aicpi-iw-at-155-5-in-september-2026-impact-on-da-ta-and-hra-for-central-government-employees-14064707.html",
-      "date": "2026-10-30T13:56:37.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1lyqqwr",
-      "title": "पेंशन और पेंशनभोगी कल्याण विभाग 1 से 30 नवंबर, 2026 तक 'राष्ट्रव्यापी डिजिटल जीवन प्रमाण पत्र (डीएलसी) अभियान-5' आयोजित कर रहा है",
-      "summary": "पेंशन और पेंशनभोगी कल्याण विभाग 1 से 30 नवंबर, 2026 तक पूरे भारत के 2000 शहरों/जिलों में 5वां राष्ट्रव्यापी 'डिजिटल लाइफ सर्टिफिकेट' (डीएलसी) अभियान चलाएगा। विभाग ने 13 अगस्त, 2026 के एक आधिकारिक ज्ञापन (ओएम) के जरिए इस…",
-      "source": "PIB",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330373",
-      "date": "2026-10-30T12:55:38.775Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
