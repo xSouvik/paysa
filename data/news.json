@@ -1,7 +1,34 @@
 {
   "schema": 1,
-  "updated": "2026-11-04T19:45:02.551Z",
+  "updated": "2026-11-05T06:46:03.633Z",
   "items": [
+    {
+      "id": "10xx6xf",
+      "title": "8th Pay Commission news: 6 key demands by Railway employees' body on pay, allowances",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-news-6-key-demands-by-railway-employees39-body-on-pay-allowances/slideshow/135562214.cms",
+      "date": "2026-11-05T06:28:17.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1xoioa8",
+      "title": "8th Pay Commission: Why unions want fitment factors of 3.61 to 4.00 and a minimum basic salary of up to ₹72,000 in 2027",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-why-unions-want-fitment-factors-of-3-61-to-4-00-and-a-minimum-basic-salary-of-up-to-72-000-in-2027-11793843249619.html",
+      "date": "2026-11-05T02:24:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "c2kbcd",
       "title": "PRESS Release - StAR NPS to Expand Pension Coverage Across Socioeconomic Strata - PFRDA",
@@ -271,6 +298,18 @@
       "speculative": true
     },
     {
+      "id": "1clqp9h",
+      "title": "CGHS facilities to dependent sons/brothers suffering from critical/terminal illnesses - Clarification and - List of 42 critical and terminal disease: MoHFW OM",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/cghs-facilities-to-dependent-sons-brothers-suffering-from-critical-terminal-illnesses.html",
+      "date": "2026-11-03T14:44:13.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
       "id": "1io703s",
       "title": "पेंशन एवं पेंशनभोगी कल्याण विभाग ने 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र अभियान के दायरे में सभी पेंशनभोगियों को लाने का आह्वान किया",
       "summary": "पेंशन एवं पेंशनभोगी कल्याण विभाग -डीओपीपीडब्ल्यू ने आज 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र-डीएलसी अभियान के तहत पंजाब नेशनल बैंक के सहयोग से नई दिल्ली स्थित संसद मार्ग शाखा में एक मेगा शिविर आयोजित किया। शिविर का…",
@@ -427,6 +466,19 @@
       "speculative": false
     },
     {
+      "id": "1wp8n48",
+      "title": "Dearness allowance: AICPI-IW rises 1.1 points in September; how much can DA increase from January 1, 2027?",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-aicpi-iw-rises-1-1-points-in-september-how-much-can-da-increase-from-january-1-2027/article-202884/",
+      "date": "2026-11-03T07:40:36.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
       "id": "8d15xv",
       "title": "8th Pay Commission Latest Update: Rs 25,000 pension jumps to Rs 87,500? Check the math",
       "source": "Asianet Newsable",
@@ -461,19 +513,6 @@
       "date": "2026-11-02T15:52:30.875Z",
       "official": true,
       "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14amhw3",
-      "title": "Gratuity calculation after 3% DA hike: How central government employees can get up to ₹50,000 more at retirement",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gratuity-calculation-after-3-da-hike-how-central-government-employees-can-get-up-to-50-000-more-at-retirement-11793629663690.html",
-      "date": "2026-11-02T14:32:11.000Z",
-      "official": false,
-      "tags": [
-        "DA",
         "Pension"
       ],
       "speculative": false
@@ -729,44 +768,6 @@
       "tags": [
         "8th CPC",
         "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "fq31i8",
-      "title": "8th Central Pay Commission: AIRF interaction brief on Pay Scales, Risk Allowances with crucial demands for Loco and Traffic Running Staff",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/8th-central-pay-commission-airf-interaction-brief.html",
-      "date": "2026-11-01T04:26:48.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "usebp3",
-      "title": "CGHS cover for dependent widowed, divorced daughters after parents' death",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/cghs-cover-for-dependent-widowed-divorced-daughters-after-parents-death/articleshow/135411758.cms",
-      "date": "2026-10-31T21:02:00.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1lc5ls7",
-      "title": "8th Pay Commission: 67% DA Hike in January 2027? Here's What Latest Data Reveals",
-      "source": "The United Indian",
-      "url": "https://www.theunitedindian.com/news/8th-pay-commission-da-hike-january-2027-67-percent-2",
-      "date": "2026-10-31T13:27:17.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC"
       ],
       "speculative": true
     }
