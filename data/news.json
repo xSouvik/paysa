@@ -1,7 +1,44 @@
 {
   "schema": 1,
-  "updated": "2026-11-05T19:57:04.544Z",
+  "updated": "2026-11-06T06:45:39.669Z",
   "items": [
+    {
+      "id": "xju0qe",
+      "title": "8th Pay Commission: Rs 69,000 minimum pay, 40% HRA, 67% pension; 5 key NC-JCM demands and their impact on",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-fitment-calculator-rs-69000-minimum-pay-40-hra-67-pension-5-key-nc-jcm-demands-and-impact-on-payouts/articleshow/135572703.cms",
+      "date": "2026-11-06T03:30:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "uycdvz",
+      "title": "Cabinet okays unified pension scheme",
+      "source": "The Sangai Express",
+      "url": "https://www.thesangaiexpress.com/Encyc/2026/11/6/by-our-staff-reporter-imphal-nov-5-the-state-cabinet-has-approved-the-manipur-civil-services-implementation-of.html",
+      "date": "2026-11-06T02:13:49.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "jnap75",
+      "title": "Standardised Framework for Classification and Presentation of Schemes under the NPS – Amendment",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/standardised-framework-for-classification-and-presentation-of-schemes.html",
+      "date": "2026-11-05T16:19:20.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "1t26gby",
       "title": "Redeployment of Railway employees who have undergone LASIK surgery voluntarily and found unfit in medical category: RBE No. 88/2026",
@@ -20,6 +57,18 @@
       "source": "Staff News",
       "url": "https://www.staffnews.in/2026/11/dhanwanthralaya-ayurveda-speciality-hospital-under-cghs-chennai.html",
       "date": "2026-11-05T15:52:50.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "7ehhsv",
+      "title": "Junagadh Aayush Hospital LLP, Junagadh- Empanelment of Private HCO under CGHS, Ahmedabad",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/junagadh-aayush-hospital-llp-junagadh-under-cghs.html",
+      "date": "2026-11-05T15:45:51.000Z",
       "official": false,
       "tags": [
         "CGHS"
@@ -51,6 +100,19 @@
         "Pay"
       ],
       "speculative": true
+    },
+    {
+      "id": "yxsdoe",
+      "title": "Dearness allowance hike for Gramin Dak Sevaks: Approved at same rate as Central Govt employees",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-hike-for-gramin-dak-sevaks-approved-at-same-rate-as-central-govt-employees/article-203042/",
+      "date": "2026-11-05T07:33:44.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "1gb8mzl",
@@ -143,6 +205,20 @@
         "Pension"
       ],
       "speculative": true
+    },
+    {
+      "id": "196ubdy",
+      "title": "8th Pay Commission: Railway employees special allowances; what 7th CPC provided",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-railwaymen-seek-special-allowances-like-risk-hardship-hazardous-duty-and-dress-what-7th-cpc-said/article-202960/",
+      "date": "2026-11-04T07:46:39.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "8lby5t",
@@ -374,14 +450,14 @@
       "speculative": true
     },
     {
-      "id": "1clqp9h",
-      "title": "CGHS facilities to dependent sons/brothers suffering from critical/terminal illnesses - Clarification and - List of 42 critical and terminal disease: MoHFW OM",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/cghs-facilities-to-dependent-sons-brothers-suffering-from-critical-terminal-illnesses.html",
-      "date": "2026-11-03T14:44:13.000Z",
+      "id": "1mu2jau",
+      "title": "Supreme Court Dismisses Appeal Regarding Increment for Deputationist Employees — Upholds High Court's Order. The court found that the respondents were entitled to the same benefits as Central Government employees under the Food Corporation…",
+      "source": "Lawtext",
+      "url": "https://lawtext.in/judgement.php?bid=20130&ref=LT000011",
+      "date": "2026-11-03T14:37:59.000Z",
       "official": false,
       "tags": [
-        "CGHS"
+        "Pay"
       ],
       "speculative": false
     },
@@ -413,19 +489,6 @@
       "speculative": false
     },
     {
-      "id": "1i9ejw3",
-      "title": "Bank Dearness Allowance for Nov-26, Dec-26 and Jan-2027 @ 66.36% under XI BPS/ 8th Joint Note: IBA Order",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/bank-dearness-allowance-for-nov-26-dec-26-and-jan-2027.html",
-      "date": "2026-11-03T13:18:32.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1ye0vwg",
       "title": "8th Pay Commission: How Much Will Your Income Tax Increase If Your Salary Goes Up?",
       "source": "NDTV Profit",
@@ -450,19 +513,6 @@
         "8th CPC"
       ],
       "speculative": false
-    },
-    {
-      "id": "1ao7w7p",
-      "title": "DR hike to 63%: ₹900 more on ₹30,000 pension? Check impact on regular, family and commuted pension",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/dr-hike-to-63-900-more-on-30000-pension-check-impact-on-regular-family-and-commuted-pension/dr-hike-to-63-how-much-more-will-central-government-pensioners-get/slideshow/135489028.cms",
-      "date": "2026-11-03T10:14:58.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
     },
     {
       "id": "r2n227",
@@ -669,32 +719,6 @@
       "speculative": true
     },
     {
-      "id": "10yxwk0",
-      "title": "8th Pay Commission: Commutation of pension - what two HC judgments say about restoration period",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-amid-demand-for-commutation-of-pension-changes-what-two-recent-high-court-judgments-say/article-202834/",
-      "date": "2026-11-02T10:48:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1rvmcmr",
-      "title": "8th Pay Commission: Amid demand for commutation of pension changes, what two recent High Court judgments say",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-amid-demand-for-commutation-of-pension-changes-what-two-recent-high-court-judgments-say/article-202834/",
-      "date": "2026-11-02T10:48:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1u6z2xp",
       "title": "8th Pay Commission: Will HRA, Transport Allowance And Other Benefits Also Increase?",
       "source": "NDTV Profit",
@@ -743,32 +767,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "1kf3qnl",
-      "title": "8th Pay Commission: Central Staff Demand 7 Percent Increment, Check 10-Year Salary Hike",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-central-staff-demand-7-percent-increment-check-10-year-salary-hike-nv747rn",
-      "date": "2026-11-01T16:19:15.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "pt7rd2",
-      "title": "8th Pay Commission Latest News 🚨 Annual Increment 3% से 6%? Salary Hike पर Big Update!",
-      "source": "YouTube",
-      "url": "https://youtu.be/s2i-SKaUOwk?si=0wXYERTiRonD1VD3",
-      "date": "2026-11-01T13:03:10.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
