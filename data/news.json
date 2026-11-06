@@ -1,7 +1,43 @@
 {
   "schema": 1,
-  "updated": "2026-11-06T06:45:39.669Z",
+  "updated": "2026-11-06T19:24:24.645Z",
   "items": [
+    {
+      "id": "1l9n76x",
+      "title": "ASSA Seek DA Hike At Par With Centre, 50 Crore Monthly Cost Cited",
+      "source": "Pratidin Time",
+      "url": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/assa-seek-da-hike-at-par-with-centre-50-crore-monthly-cost-cited-12790331",
+      "date": "2026-11-06T17:36:09.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "10cgru1",
+      "title": "Digital Life Certificate Campaign 5.0 ensures ease of living for senior citizens: Dr Jitendra Singh",
+      "source": "News On AIR",
+      "url": "https://newsonair.gov.in/digital-life-certificate-campaign-5-0-ensures-ease-of-living-for-senior-citizens-dr-jitendra-singh/",
+      "date": "2026-11-06T10:53:38.000Z",
+      "official": true,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "5v2gnd",
+      "title": "CGHS Pune: Empanelment of Private Hospitals Health Care Organizations (HCOs)",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/cghs-pune-empanelment-of-private-hospitals-health-care-organizations-hcos.html",
+      "date": "2026-11-06T08:46:59.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
     {
       "id": "xju0qe",
       "title": "8th Pay Commission: Rs 69,000 minimum pay, 40% HRA, 67% pension; 5 key NC-JCM demands and their impact on",
@@ -140,6 +176,18 @@
         "Pay"
       ],
       "speculative": true
+    },
+    {
+      "id": "yo7wla",
+      "title": "CISF Rules | HRA Is Condition Of Service, Not A Concession; Personnel Lower In Seniority Cannot Be Denied Full Allowance When Govt Accommodation Is Unavailable: Delhi High Court",
+      "source": "Lawyer E News",
+      "url": "https://lawyerenews.com/legal_detail/cisf-rules-hra-is-condition-of-service-not-a-concession-personnel-lower-in-seniority-cannot-be-denied-full-allowance-when-govt-accommodation-is-unavailable-delhi-high-court",
+      "date": "2026-11-05T06:20:11.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
+      ],
+      "speculative": false
     },
     {
       "id": "1xoioa8",
@@ -382,18 +430,6 @@
       "tags": [
         "Railways",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1bl7xvm",
-      "title": "Unified Pension Scheme: Operationalisation of \"UPS Jeewan Setu - Digital Life Certificate (DLC)\" facility for Pensioners.",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/unified-pension-scheme-operationalisation-of-ups-jeewan-setu.html",
-      "date": "2026-11-04T03:11:29.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
       ],
       "speculative": false
     },
@@ -730,43 +766,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1enw0c3",
-      "title": "8th Pay Commission Update: Rs 25,000 Basic Pension May Rise To Rs 87,500; Check New Calculation",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/india/8th-pay-commission-rs-25000-basic-pension-may-rise-to-rs-87500-check-new-calculation-articleshow-v179q4s",
-      "date": "2026-11-02T07:50:08.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "xpkjsk",
-      "title": "Fifth nationwide Digital Life Certificate campaign aims to reach pensioners in remotest corners with face authentication",
-      "source": "News On AIR",
-      "url": "https://newsonair.gov.in/fifth-nationwide-digital-life-certificate-campaign-aims-to-reach-pensioners-in-remotest-corners-with-face-authentication/",
-      "date": "2026-11-01T21:39:24.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1k668hv",
-      "title": "Sadou Asom Karmachari Parishad to oppose Nat’l Pension System",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/sadou-asom-karmachari-parishad-to-oppose-natl-pension-system/articleshow/135434884.cms",
-      "date": "2026-11-01T18:03:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
