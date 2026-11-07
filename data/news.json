@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-11-06T19:24:24.645Z",
+  "updated": "2026-11-07T05:57:53.423Z",
   "items": [
+    {
+      "id": "1fyhvd7",
+      "title": "8th Pay Commission: 6 Demands of Railway Employees, Salary-Promotion, Allowances, What AIRF Wants",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-6-demands-of-railway-employees-salary-promotion-allowances-what-airf-wants-mvi9fc2",
+      "date": "2026-11-07T05:14:34.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1028fxi",
+      "title": "India's AIRF seeks pay, promotions from 8th Pay Commission",
+      "source": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/indias-airf-seeks-pay-promotions-from-8th-pay-commission/tldr",
+      "date": "2026-11-07T02:52:33.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "19ytpcc",
+      "title": "8th Pay Commission: Railway employees seek higher salaries, better promotions and 4 other key benefits",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-higher-salaries-better-promotions-and-4-other-key-benefits-11794017186038.html",
+      "date": "2026-11-07T02:29:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
     {
       "id": "1l9n76x",
       "title": "ASSA Seek DA Hike At Par With Centre, 50 Crore Monthly Cost Cited",
@@ -23,6 +62,18 @@
       "official": true,
       "tags": [
         "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1uqtxok",
+      "title": "WB 7th Pay Commission to cover university non-teaching staff",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/west-bengal-7th-pay-commission-university-board-staff-nov-2026",
+      "date": "2026-11-06T08:55:18.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
       ],
       "speculative": false
     },
@@ -511,20 +562,6 @@
       "speculative": false
     },
     {
-      "id": "6ek4pz",
-      "title": "8th Pay Commission latest news: One year completed, 3 key updates on salary revision, pension hike and fitment factor",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-latest-news-one-year-completed-3-key-updates-on-salary-revision-pension-hike-and-fitment-factor-11793707034204.html",
-      "date": "2026-11-03T13:23:36.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1ye0vwg",
       "title": "8th Pay Commission: How Much Will Your Income Tax Increase If Your Salary Goes Up?",
       "source": "NDTV Profit",
@@ -720,46 +757,6 @@
       "source": "The Financial Express",
       "url": "https://www.financialexpress.com/money/8th-pay-commission-3-83-fitment-factor-to-rs-10000-risk-allowance-5-big-demands-4375249/",
       "date": "2026-11-02T12:32:34.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1kjh6qi",
-      "title": "8th Pay Commission Latest Update: Railway Unions Demand Rs 69,000 Minimum Pay, DA Rises To 63%; Check Salary And Pension Updates",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-update-railway-unions-demand-rs-69000-minimum-pay-da-rises-to-63-check-salary-and-pension-updates-315881/",
-      "date": "2026-11-02T11:47:24.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1a5ptm9",
-      "title": "Railway Unions Seek Rs 69,000 Minimum Pay Under 8th CPC",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/railway-unions-seek-rs-69-000-minimum-pay-under-8th-cpc-631704",
-      "date": "2026-11-02T11:27:02.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1u6z2xp",
-      "title": "8th Pay Commission: Will HRA, Transport Allowance And Other Benefits Also Increase?",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-will-hra-transport-allowance-and-other-benefits-also-increase-12270044",
-      "date": "2026-11-02T08:08:02.000Z",
       "official": false,
       "tags": [
         "8th CPC",
