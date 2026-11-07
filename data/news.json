@@ -1,7 +1,72 @@
 {
   "schema": 1,
-  "updated": "2026-11-07T05:57:53.423Z",
+  "updated": "2026-11-07T13:00:00.707Z",
   "items": [
+    {
+      "id": "1pryfqz",
+      "title": "Diwali gift for UP govt employees: DA raised to 63%, revised allowance to be paid with November salary",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/diwali-gift-for-up-govt-employees-da-raised-to-63-revised-allowance-to-be-paid-with-november-salary/articleshow/135633976.cms",
+      "date": "2026-11-07T10:56:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "re8ou6",
+      "title": "8th Pay Commission: Railway Employees Seek 6 Major Changes To Salary, Allowances And Promotions",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/business-economy/personal-finance/8th-pay-commission-railway-employees-seek-6-major-changes-to-salary-allowances-and-promotions-article-156479016",
+      "date": "2026-11-07T10:06:49.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1wqdqrj",
+      "title": "Govt NPS retirement: exit now or defer the money till 85?",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/nps-exit-40-percent-annuity-government-retirement",
+      "date": "2026-11-07T09:05:37.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "xsopgc",
+      "title": "Transfer Policy for prioritizing own request transfer of Non-Gaz Railway Employees of 20 years of regular service: RBE No. 90/2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/transfer-policy-for-prioritizing-own-request-transfer-rbe-90-2026.html",
+      "date": "2026-11-07T08:09:44.000Z",
+      "official": false,
+      "tags": [
+        "Railways"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "w7x6ld",
+      "title": "8th Pay Commission: Railway employees seek higher pay, risk allowances and better promotions - CNBC TV18",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/cnbc-tv18_8th-pay-commission-railway-employees-seek-activity-7524731657929629696-Cwb6",
+      "date": "2026-11-07T07:17:10.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1fyhvd7",
       "title": "8th Pay Commission: 6 Demands of Railway Employees, Salary-Promotion, Allowances, What AIRF Wants",
@@ -250,18 +315,6 @@
       "tags": [
         "8th CPC",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "c2kbcd",
-      "title": "PRESS Release - StAR NPS to Expand Pension Coverage Across Socioeconomic Strata - PFRDA",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/star-nps-to-expand-pension-coverage-across-socioeconomic-strata-pfrda.html",
-      "date": "2026-11-04T16:58:21.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
       ],
       "speculative": false
     },
@@ -714,55 +767,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "uin15p",
-      "title": "Unified Pension Scheme: DoPPW clarification on contributions during suspension under Rules 6(2) and 7(3)",
-      "source": "TaxCorp AI",
-      "url": "https://thetaxcorp.in/article/unified-pension-scheme-doppw-clarification-on-contributions-during-suspension",
-      "date": "2026-11-02T13:11:58.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "forg9q",
-      "title": "Unified Pension Scheme: DoPPW Office Memorandum on Restoration of Units for Delayed Contributions under Rule 8(1)",
-      "source": "TaxCorp AI",
-      "url": "https://thetaxcorp.in/article/unified-pension-scheme-doppw-office-memorandum-on-restoration-of-units-for",
-      "date": "2026-11-02T13:11:33.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "nogvzp",
-      "title": "Unified Pension Scheme (UPS): No Contributions Required During Unpaid Absence, Clarifies DoPPW",
-      "source": "TaxCorp AI",
-      "url": "https://thetaxcorp.in/article/unified-pension-scheme-ups-no-contributions-required-during-unpaid-absence",
-      "date": "2026-11-02T13:11:31.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "11bnguu",
-      "title": "8th Pay Commission: 3.83 fitment factor to Rs 10,000 risk allowance, 5 big demands",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/money/8th-pay-commission-3-83-fitment-factor-to-rs-10000-risk-allowance-5-big-demands-4375249/",
-      "date": "2026-11-02T12:32:34.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     }
   ]
 }
