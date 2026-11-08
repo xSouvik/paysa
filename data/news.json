@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-11-08T06:00:06.987Z",
+  "updated": "2026-11-08T13:24:31.652Z",
   "items": [
+    {
+      "id": "753hm8",
+      "title": "8th Pay Commission: Railway employees seek ₹69,000 minimum salary, 3.83 fitment factor and 6% annual increment",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-69-000-minimum-salary-3-83-fitment-factor-and-6-annual-increment-11794127474474.html",
+      "date": "2026-11-08T11:47:21.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "5fo48q",
+      "title": "8th Pay Commission: How much 12-month arrears could you get if the fitment factor matches the 7th CPC?",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-how-much-12-month-arrears-could-you-get-if-the-fitment-factor-stays-at-7th-cpc-level/article-203178/",
+      "date": "2026-11-08T10:16:40.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "18t6yss",
       "title": "8th Pay Commission: How salaries could increase at fitment factors of 2, 2.5, 3, 3.5 and 4 – Calculations explained",
@@ -371,6 +397,18 @@
       "speculative": true
     },
     {
+      "id": "itnk0z",
+      "title": "SSC CGL Salary 2026, Check Post-Wise Structure & Allowances",
+      "source": "PW",
+      "url": "https://www.pw.live/ssc/exams/ssc-cgl-salary",
+      "date": "2026-11-04T08:00:00.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "196ubdy",
       "title": "8th Pay Commission: Railway employees special allowances; what 7th CPC provided",
       "source": "Upstox",
@@ -537,19 +575,6 @@
       "speculative": true
     },
     {
-      "id": "imlejh",
-      "title": "Diwali gift for these railway employees: 30-day non-productivity-linked bonus approved; know eligibility, calculation",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/diwali-gift-for-these-railway-employees-30-day-non-productivity-linked-bonus-approved-know-eligibility-calculation-11793758597043.html",
-      "date": "2026-11-04T03:36:02.000Z",
-      "official": false,
-      "tags": [
-        "Railways",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "19wr9ob",
       "title": "8th Pay Commission Latest: Pensioners Seek Cut In 15-Year Commutation Period; How Does It Impact Pensions?",
       "source": "Goodreturns",
@@ -691,19 +716,6 @@
       "speculative": false
     },
     {
-      "id": "1wp8n48",
-      "title": "Dearness allowance: AICPI-IW rises 1.1 points in September; how much can DA increase from January 1, 2027?",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-aicpi-iw-rises-1-1-points-in-september-how-much-can-da-increase-from-january-1-2027/article-202884/",
-      "date": "2026-11-03T07:40:36.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "8d15xv",
       "title": "8th Pay Commission Latest Update: Rs 25,000 pension jumps to Rs 87,500? Check the math",
       "source": "Asianet Newsable",
@@ -754,18 +766,6 @@
         "Railways"
       ],
       "speculative": true
-    },
-    {
-      "id": "1n4jvt0",
-      "title": "UPS Contributions Mandatory During Probation Period: DoPPW Clarifies Under Rule 6(6) of CCS Rules 2025",
-      "source": "TaxCorp AI",
-      "url": "https://thetaxcorp.in/article/ups-contributions-mandatory-during-probation-period-doppw-clarifies-under-rule",
-      "date": "2026-11-02T13:12:06.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
