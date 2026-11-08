@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-08T13:24:31.652Z",
+  "updated": "2026-11-08T22:04:55.676Z",
   "items": [
+    {
+      "id": "rq6f9u",
+      "title": "Supreme Court Dismisses ITGOA Petition Against Union of India, Grants Liberty to Approach 8th Pay Commission",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/supreme-court-dismisses-itgoa-petition-against-union-of-india-grants-liberty-to",
+      "date": "2026-11-08T13:43:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "gvvyon",
+      "title": "Upward Revision of Dearness Relief to 63% for Central Government Pensioners: Comprehensive Analysis of the November 2026 Notification",
+      "source": "TaxCorp AI",
+      "url": "https://thetaxcorp.in/article/upward-revision-of-dearness-relief-to-63-for-central-government-pensioners",
+      "date": "2026-11-08T13:43:13.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "753hm8",
       "title": "8th Pay Commission: Railway employees seek ₹69,000 minimum salary, 3.83 fitment factor and 6% annual increment",
@@ -738,32 +763,6 @@
       "tags": [
         "8th CPC",
         "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1y3ofu6",
-      "title": "पेंशन और पेंशनभोगी कल्याण विभाग ने राष्ट्रव्यापी 'डिजिटल जीवन प्रमाणपत्र अभियान-5' के माध्यम से पेंशनभोगियों का डिजिटल सशक्तिकरण तेज़ किया",
-      "summary": "कार्मिक , लोक शिकायत और पेंशन मंत्रालय के अंतर्गत पेंशन और पेंशनभोगी कल्याण विभाग ( डीओपीपीडब्ल्यू ) ने , ' राष्ट्रव्यापी डिजिटल जीवन प्रमाण पत्र ( डीएलसी ) अभियान -5' के हिस्से के रूप में , 2 नवंबर 2026 को नई दिल्ली के…",
-      "source": "PIB",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331720",
-      "date": "2026-11-02T15:52:30.875Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "oxmpyh",
-      "title": "8th Pay Commission: Railway Workers Seek Better Pay",
-      "source": "Urban Acres",
-      "url": "https://urbanacres.in/8th-pay-commission-demand-exposes-railway-modernisations-workforce-gap/",
-      "date": "2026-11-02T13:53:35.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
       ],
       "speculative": true
     }
