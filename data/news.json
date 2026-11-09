@@ -1,7 +1,31 @@
 {
   "schema": 1,
-  "updated": "2026-11-08T22:04:55.676Z",
+  "updated": "2026-11-09T06:27:50.354Z",
   "items": [
+    {
+      "id": "idqc94",
+      "title": "8th Pay Commission: At Fitment Factor 2.57, 12-Months Arrears To Be Rs 5.15 Lakh At Rs 44,900 Basic Pay; How?",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-at-fitment-factor-2-57-12-months-arrears-to-be-rs-5-15-lakh-rs-44-900-basic-pay-1545993.html",
+      "date": "2026-11-09T05:44:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1u7fyeb",
+      "title": "8th Pay Commission: ₹44,900 basic pay could mean ₹5.14 lakh in arrears at 2.57 fitment factor",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-44-900-basic-pay-could-mean-5-14-lakh-in-arrears-at-2-57-fitment-factor/amp-11794187378924.html",
+      "date": "2026-11-09T02:16:16.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "rq6f9u",
       "title": "Supreme Court Dismisses ITGOA Petition Against Union of India, Grants Liberty to Approach 8th Pay Commission",
@@ -38,6 +62,18 @@
         "8th CPC",
         "Railways",
         "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "18lot54",
+      "title": "8th Pay Commission: How much arrears could you get for 12 months if fitment factor matches 7th CPC?",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-how-much-12-month-arrears-could-you-get-if-the-fitment-factor-stays-at-7th-cpc-level/article-203178/",
+      "date": "2026-11-08T10:16:40.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
       ],
       "speculative": true
     },
@@ -550,18 +586,6 @@
       "speculative": false
     },
     {
-      "id": "bg6p7l",
-      "title": "8th Pay Commission reaches 66% of timeline — employees await recommendations, fitment factor and revised pay structure",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/8th-pay-commission-completes-66-pc-timeline-employees-await-recommendations-fitment-factor-revised-pay-structure-pension-11793764197366.html",
-      "date": "2026-11-04T05:42:25.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
       "id": "ikmj9s",
       "title": "8th Pay Commission: From ₹69,000 Minimum Salary To 3.833 Fitment Factor, Check Full List Of Employee Union’s Demands",
       "source": "Jagran Josh",
@@ -729,36 +753,11 @@
       "speculative": true
     },
     {
-      "id": "1rxefp0",
-      "title": "Unified Pension Scheme: Govt clarifies rules for contributions during suspension and probation",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/unified-pension-scheme-govt-clarifies-rules-for-contributions-during-suspension-and-probation/article-202889/",
-      "date": "2026-11-03T08:15:14.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "8d15xv",
       "title": "8th Pay Commission Latest Update: Rs 25,000 pension jumps to Rs 87,500? Check the math",
       "source": "Asianet Newsable",
       "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-pension-fitment-factor-calculation-and-expected-hike-hw0pfhu",
       "date": "2026-11-03T04:06:46.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1jn7ngv",
-      "title": "8th Pay Commission Pension Calculator: How Much Could Your Pension Increase at 2.5, 3 and 3.5 Fitment Facto",
-      "source": "News18",
-      "url": "https://www.news18.com/business/savings-and-investments/8th-pay-commission-pension-calculator-how-much-could-your-pension-increase-at-2-5-3-and-3-5-fitment-factors-10409833.html",
-      "date": "2026-11-03T03:18:51.000Z",
       "official": false,
       "tags": [
         "8th CPC",
