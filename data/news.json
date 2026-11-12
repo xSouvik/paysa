@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-11T19:35:36.243Z",
+  "updated": "2026-11-12T07:10:04.066Z",
   "items": [
+    {
+      "id": "1u7n6e",
+      "title": "8th Pay Commission Salary Hike: 8वें वेतन आयोग से बदलेगी बाजार की तस्वीर, SUV से लेकर महंगे TV तक की बढ़ेगी मांग!",
+      "source": "Asianet News Hindi",
+      "url": "https://hindi.asianetnews.com/business-news/8th-pay-commission-salary-hike-to-boost-suv-demand-for-government-employees-articleshow-voqb7x7",
+      "date": "2026-11-12T05:17:03.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1kzjwh4",
+      "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/pr-cca-delhi-celebrates-national-senior-citizens-day-felicitates-super-senior-pensioners/",
+      "date": "2026-11-11T14:24:24.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "11zhyrs",
       "title": "8th Pay Commission matrix: What 3 fitment factor demands mean for Levels 1, 6, and 18 salaries",
@@ -727,32 +752,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "yq0m47",
-      "title": "8th Pay Commission Latest News: Pensioners Renew Demand To Reduce 15-Year Commuted Pension Restoration Period; Check Key Proposals, Salary Rivision And DA Hike",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-pensioners-renew-demand-to-reduce-15-year-commuted-pension-restoration-period-check-key-proposals-salary-rivision-and-da-hike-317114/",
-      "date": "2026-11-04T09:06:50.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "itnk0z",
-      "title": "SSC CGL Salary 2026, Check Post-Wise Structure & Allowances",
-      "source": "PW",
-      "url": "https://www.pw.live/ssc/exams/ssc-cgl-salary",
-      "date": "2026-11-04T08:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
