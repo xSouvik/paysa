@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-12T19:53:56.560Z",
+  "updated": "2026-11-13T06:44:50.264Z",
   "items": [
+    {
+      "id": "7srgjz",
+      "title": "8th Pay Commission: Will 4x Fitment Factor Bring ₹15.20 Lakh Arrears for Govt Employees?",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-update-rs-15-20-lakh-arrears-expected-for-govt-employees-with-4x-fitment-factor-gx80ac0",
+      "date": "2026-11-13T06:14:20.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "5584dq",
+      "title": "8th Pay Commission: Can a bigger annual increment lead to better pay than a higher fitment factor over 10 years?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-can-a-bigger-annual-increment-lead-to-better-pay-than-a-higher-fitment-factor-over-10-years-11794538858507.html",
+      "date": "2026-11-13T04:04:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "n6r23q",
       "title": "Airports Authority of India (Gratuity) Amendment Regulations, 2026: Notification",
@@ -511,20 +536,6 @@
       "speculative": false
     },
     {
-      "id": "753hm8",
-      "title": "8th Pay Commission: Railway employees seek ₹69,000 minimum salary, 3.83 fitment factor and 6% annual increment",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-69-000-minimum-salary-3-83-fitment-factor-and-6-annual-increment-11794127474474.html",
-      "date": "2026-11-08T11:47:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "18lot54",
       "title": "8th Pay Commission: How much arrears could you get for 12 months if fitment factor matches 7th CPC?",
       "source": "Upstox",
@@ -737,19 +748,6 @@
         "Pension"
       ],
       "speculative": true
-    },
-    {
-      "id": "yxsdoe",
-      "title": "Dearness allowance hike for Gramin Dak Sevaks: Approved at same rate as Central Govt employees",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dearness-allowance-hike-for-gramin-dak-sevaks-approved-at-same-rate-as-central-govt-employees/article-203042/",
-      "date": "2026-11-05T07:33:44.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
     }
   ]
 }
