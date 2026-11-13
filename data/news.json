@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-13T06:44:50.264Z",
+  "updated": "2026-11-13T19:41:31.496Z",
   "items": [
+    {
+      "id": "19slg7q",
+      "title": "8th Pay Commission: Two pay compression ratio proposals compared; how salaries could differ across levels",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-two-pay-compression-ratio-proposals-compared-how-salaries-could-differ-across-levels/article-203456/",
+      "date": "2026-11-13T15:55:21.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "7srgjz",
       "title": "8th Pay Commission: Will 4x Fitment Factor Bring ₹15.20 Lakh Arrears for Govt Employees?",
@@ -210,6 +222,19 @@
       "tags": [
         "8th CPC",
         "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "wkeg02",
+      "title": "8th Pay Commission Update: Will You Get Pension Arrears if You Retire Before Implementation?",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/amp/gallery/india/8th-pay-commission-will-early-retirees-get-pension-arrears-hcpdiep",
+      "date": "2026-11-11T05:51:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
       ],
       "speculative": true
     },
@@ -720,31 +745,6 @@
       "official": false,
       "tags": [
         "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "uycdvz",
-      "title": "Cabinet okays unified pension scheme",
-      "source": "The Sangai Express",
-      "url": "https://www.thesangaiexpress.com/Encyc/2026/11/6/by-our-staff-reporter-imphal-nov-5-the-state-cabinet-has-approved-the-manipur-civil-services-implementation-of.html",
-      "date": "2026-11-06T02:13:49.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1h6z1br",
-      "title": "Gratuity calculator: Retiring after 3% DA hike? See how much more your gratuity could be",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/gratuity-calculator-retiring-after-3-da-hike-see-how-much-more-your-gratuity-could-be/gratuity-calculator-what-should-employees-check-before-retirement/slideshow/135563148.cms",
-      "date": "2026-11-05T12:28:17.000Z",
-      "official": false,
-      "tags": [
-        "DA",
         "Pension"
       ],
       "speculative": true
