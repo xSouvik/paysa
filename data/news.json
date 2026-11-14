@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-14T18:01:13.254Z",
+  "updated": "2026-11-14T22:24:02.992Z",
   "items": [
     {
       "id": "plevf1",
@@ -575,6 +575,19 @@
       "speculative": true
     },
     {
+      "id": "wo9lgo",
+      "title": "UP DA Hike: Yogi Government Raises Dearness Allowance by 3% to 63%; Check Eligibility, Arrears",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/up-da-hike-yogi-government-raises-dearness-allowance-by-3-to-63-check-eligibility-arrears-1546031.html",
+      "date": "2026-11-09T10:37:23.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "1xhkgr9",
       "title": "Gratuity after DA hike: Rs 1 lakh basic pay, 33 years of service - Check calculation",
       "source": "ET Now",
@@ -730,20 +743,6 @@
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/posts/cnbc-tv18_8th-pay-commission-railway-employees-seek-activity-7524731657929629696-Cwb6",
       "date": "2026-11-07T07:17:10.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1fyhvd7",
-      "title": "8th Pay Commission: 6 Demands of Railway Employees, Salary-Promotion, Allowances, What AIRF Wants",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-6-demands-of-railway-employees-salary-promotion-allowances-what-airf-wants-mvi9fc2",
-      "date": "2026-11-07T05:14:34.000Z",
       "official": false,
       "tags": [
         "8th CPC",
