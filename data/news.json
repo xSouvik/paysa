@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-16T06:29:15.004Z",
+  "updated": "2026-11-16T22:01:23.369Z",
   "items": [
     {
       "id": "cyr0f4",
@@ -26,6 +26,18 @@
         "8th CPC"
       ],
       "speculative": true
+    },
+    {
+      "id": "1van3e8",
+      "title": "NPS default funds should include top-performing private fund managers, not just public sector players, say",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/invest/nps-default-funds-should-include-top-performing-private-fund-managers-not-just-public-sector-players-says-dsp-pension-fund-ceo-rahul-bhagat/articleshow/135807364.cms",
+      "date": "2026-11-16T01:00:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
     },
     {
       "id": "k3fomq",
@@ -226,6 +238,19 @@
         "8th CPC"
       ],
       "speculative": false
+    },
+    {
+      "id": "16bfgqf",
+      "title": "How could a Level 5 employee's basic salary change over 10 years under different fitment factors and annual increment rates? - 8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to…",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-higher-fitment-factor-vs-higher-annual-increment-rate-which-can-give-bigger-salary-hike-to-employees/how-could-a-level-5-employees-basic-salary-change-over-10-years-under-different-fitment-factors-and-annual-increment-rates/slideshow/135822893.cms",
+      "date": "2026-11-14T06:09:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "n6dprk",
@@ -721,32 +746,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "wo9lgo",
-      "title": "UP DA Hike: Yogi Government Raises Dearness Allowance by 3% to 63%; Check Eligibility, Arrears",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/up-da-hike-yogi-government-raises-dearness-allowance-by-3-to-63-check-eligibility-arrears-1546031.html",
-      "date": "2026-11-09T10:37:23.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1xhkgr9",
-      "title": "Gratuity after DA hike: Rs 1 lakh basic pay, 33 years of service - Check calculation",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/gratuity-after-da-hike-rs-1-lakh-basic-pay-33-years-of-service-check-calculation-article-156485596",
-      "date": "2026-11-09T10:25:57.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
