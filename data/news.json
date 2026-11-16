@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-15T18:51:01.339Z",
+  "updated": "2026-11-16T06:29:15.004Z",
   "items": [
+    {
+      "id": "cyr0f4",
+      "title": "8th Pay Commission: Salary Hike Calculations Explained",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-salary-hike-calculations-explained/",
+      "date": "2026-11-16T04:16:14.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1w7zzuq",
+      "title": "8th Pay Commission: Will central government employees get arrears from January 2026? Key lessons from previous CPCs",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-employees-get-arrears-from-january-2026-key-lessons-from-previous-cpcs-11794792601989.html",
+      "date": "2026-11-16T02:08:23.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "k3fomq",
       "title": "8th Pay Commission salary hike: How a 7% annual increment could take your basic pay above ₹1 lakh in 10 years",
@@ -267,6 +292,18 @@
       "speculative": true
     },
     {
+      "id": "79er1z",
+      "title": "Determining the eligibility of family pension - Understanding the concept of not earning a livelihood or dependency: DoP&PW O.M. Oct, 2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/determining-the-eligibility-of-family-pension.html",
+      "date": "2026-11-13T13:51:28.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "7srgjz",
       "title": "8th Pay Commission: Will 4x Fitment Factor Bring ₹15.20 Lakh Arrears for Govt Employees?",
       "source": "Asianet Newsable",
@@ -275,19 +312,6 @@
       "official": false,
       "tags": [
         "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "5584dq",
-      "title": "8th Pay Commission: Can a bigger annual increment lead to better pay than a higher fitment factor over 10 years?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-can-a-bigger-annual-increment-lead-to-better-pay-than-a-higher-fitment-factor-over-10-years-11794538858507.html",
-      "date": "2026-11-13T04:04:45.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
       ],
       "speculative": true
     },
@@ -575,18 +599,6 @@
       "speculative": true
     },
     {
-      "id": "rw2s9p",
-      "title": "Aarna Superspeciality Hospital Private Limited: Empanelment under CGHS, Ahmedabad for a period of 2.5 years",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/aarna-superspeciality-hospital-private-limited-empanelment-under-cghs.html",
-      "date": "2026-11-10T13:33:17.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
       "id": "46pl4b",
       "title": "School Assembly News Headlines November 11, 2026: Qualcomm, Nvidia CEO, 8th Pay Commission, GRAP 3 and Other News",
       "source": "Jagran Josh",
@@ -735,18 +747,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "11exjia",
-      "title": "8th CPC: Rs 2-15 lakh arrears for govt employees? Check fitment factor calculations",
-      "source": "The Financial Express",
-      "url": "https://www.financialexpress.com/money/8th-cpc-rs-2-15-lakh-arrears-for-govt-employees-check-fitment-factor-calculations-4379912/",
-      "date": "2026-11-09T09:10:22.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
