@@ -1,7 +1,120 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T07:54:23.058Z",
+  "updated": "2026-11-17T20:55:08.197Z",
   "items": [
+    {
+      "id": "unflen",
+      "title": "Central govt employees seek establishment of CGHS Wellness Centre in Belagavi",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/central-govt-employees-seek-establishment-of-cghs-wellness-centre-in-belagavi/articleshow/135935113.cms",
+      "date": "2026-11-17T17:22:00.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1ntlq9e",
+      "title": "Revision of rates of Dearness Relief of 5th CPC: 497% and 489% for CPF Beneficiaries w.e.f. 01.07.2026 – DoPPW",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/revision-of-rates-of-dearness-relief-of-5th-cpc-w-e-f-01-07-2026.html",
+      "date": "2026-11-17T16:44:24.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1v2no12",
+      "title": "CPF retirees' Dearness Relief raised to 497% from July",
+      "source": "www.indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/cpf-ex-gratia-dearness-relief-497-percent-july-2026",
+      "date": "2026-11-17T15:42:52.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "pskwl2",
+      "title": "8th Pay Commission: Fitment factor demands range from 3.61 to 4; how much could basic pay rise?",
+      "source": "Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/8th-pay-commission-fitment-factor-demands-range-from-3-61-to-4-how-much-could-basic-pay-rise-14082520.html/amp",
+      "date": "2026-11-17T10:35:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "a09swb",
+      "title": "8th Pay Commission: When Will Salaries And Pensions Increase? Here's What We Know",
+      "source": "News18",
+      "url": "https://www.news18.com/photogallery/business/savings-and-investments/8th-pay-commission-when-will-salaries-and-pensions-increase-heres-what-we-know-shil-ws-l-10429149.html",
+      "date": "2026-11-17T10:27:50.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "zvxhr9",
+      "title": "8th Pay Commission Gets Fresh Railway, Defence Pay Demands",
+      "source": "Urban Acres",
+      "url": "https://urbanacres.in/8th-pay-commission-faces-fresh-railway-defence-pay-demands/",
+      "date": "2026-11-17T09:46:38.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1v9irwm",
+      "title": "8th Pay Commission: Basic pay vs gross salary — what could change in an employee's monthly payslip?",
+      "source": "Zee Business",
+      "url": "https://www.zeebiz.com/personal-finance/news-8th-pay-commission-basic-pay-vs-gross-salary-what-could-change-in-an-employees-monthly-payslip-fitment-factor-405663",
+      "date": "2026-11-17T09:08:57.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "9u2gtq",
+      "title": "8th Pay Commission: Indian Railways employees seek two extra days for talks, while defence civilians dema",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-indian-railways-employees-seek-two-extra-days-for-talks-while-defence-civilians-demand-rs-69000-minimum-pay-3-83-fitment-factor-and-ops-restoration/articleshow/135914740.cms",
+      "date": "2026-11-17T07:29:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "xgxrna",
+      "title": "8th Pay Commission Update: Basic Pension Calculation Under 2.1, 2.57 and 2.75 Fitment Factors",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-basic-pension-calculation-for-fitment-factors-agt8csy",
+      "date": "2026-11-17T07:09:27.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "dn1dhp",
       "title": "8th Pay Commission: Why Railway employees want 2 more days to present their demands",
@@ -39,6 +152,69 @@
         "Pension"
       ],
       "speculative": false
+    },
+    {
+      "id": "142t576",
+      "title": "8th Pay Commission: Unions seek 3.833 fitment factor, ₹69,000 minimum pay and 50% family pension for pensioners",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-unions-seek-3-833-fitment-factor-69-000-minimum-pay-and-50-family-pension-for-pensioners-11794845052801.html",
+      "date": "2026-11-16T16:09:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "172xfxf",
+      "title": "8th Pay Commission: Pension Increase Calculations Explained",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-pension-increase-calculations-explained/",
+      "date": "2026-11-16T14:40:27.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "17he239",
+      "title": "8th Pay Commission: CPI inflation breaches 6%; will it strengthen demands for higher fitment factor?",
+      "source": "Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/8th-pay-commission-cpi-inflation-breaches-6-will-it-strengthen-demands-for-a-higher-fitment-factor-14081451.html",
+      "date": "2026-11-16T11:21:47.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "f334x9",
+      "title": "8th Pay Commission: Employees Await Clarity on Arrears",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-employees-await-clarity-on-arrears/",
+      "date": "2026-11-16T11:00:09.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "t9ovfx",
+      "title": "8th Pay Commission Latest: 2.57 Fitment Factor, 7% Annual Increment – Salary Hike & Arrears From January 2026?",
+      "source": "Goodreturns",
+      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-2-57-fitment-factor-7-annual-increment-salary-hike-8cpc-arrears-from-january-2026-1547265.html",
+      "date": "2026-11-16T10:34:12.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
     },
     {
       "id": "cyr0f4",
@@ -342,19 +518,6 @@
       "speculative": true
     },
     {
-      "id": "46pdjz",
-      "title": "8th Pay Commission: 5 latest official website updates central government employees and pensioners should know",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-latest-official-website-updates-central-government-employees-and-pensioners-should-know-11794615434655.html",
-      "date": "2026-11-14T00:49:17.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "19slg7q",
       "title": "8th Pay Commission: Two pay compression ratio proposals compared; how salaries could differ across levels",
       "source": "Upstox",
@@ -585,167 +748,6 @@
       "official": false,
       "tags": [
         "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1x8oy0m",
-      "title": "EPS Pension: Is A Hike In Minimum Pension On The Cards?",
-      "source": "Outlook Money",
-      "url": "https://www.outlookmoney.com/retirement/eps-pension-is-a-hike-in-minimum-pension-on-the-cards",
-      "date": "2026-11-11T07:28:38.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1bs2f1s",
-      "title": "8th Pay Commission Update: 8वें वेतन आयोग पर बड़ा अपडेट, कब आएगी नई सैलरी? कर्मचारियों के लिए सामने आई अहम तारीख",
-      "source": "Asianet News Hindi",
-      "url": "https://hindi.asianetnews.com/business-news/8th-pay-commission-latest-update-fitment-factor-arrears-january-2026-articleshow-tffonsg",
-      "date": "2026-11-11T06:36:35.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "wkeg02",
-      "title": "8th Pay Commission Update: Will You Get Pension Arrears if You Retire Before Implementation?",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/amp/gallery/india/8th-pay-commission-will-early-retirees-get-pension-arrears-hcpdiep",
-      "date": "2026-11-11T05:51:11.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "tpt58b",
-      "title": "Regulation of Pay and Allowances upon imposition of Penalty under Rule 14 of CCS (CCA) Rules, 1965- Clarification by DoP&T to DoP",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/regulation-of-pay-and-allowances-upon-imposition-of-penalty-clarification.html",
-      "date": "2026-11-11T02:17:05.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "gb7nh",
-      "title": "When will the 8th Pay Commission be implemented? Report due around May 2027, pay date not yet set",
-      "source": "Nacionale",
-      "url": "https://www.nacionale.com/en/articles/when-will-8th-pay-commission-be-implemented-report-may-2027-salary-arrears",
-      "date": "2026-11-10T20:48:42.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "17zt2n9",
-      "title": "Jitendra Singh to address 2nd National Workshop on Pension Litigation in New Delhi on July 18",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/jitendra-singh-to-address-2nd-national-workshop-on-pension-litigation-in-new-delhi-on-july-18/",
-      "date": "2026-11-10T16:34:05.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1mdncuf",
-      "title": "8th Pay Commission: Report Due by May 2027; When Will Employees Get Revised Salaries?",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-report-due-by-may-2027-when-will-employees-get-revised-salaries-1546247.html",
-      "date": "2026-11-10T14:38:31.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "46pl4b",
-      "title": "School Assembly News Headlines November 11, 2026: Qualcomm, Nvidia CEO, 8th Pay Commission, GRAP 3 and Other News",
-      "source": "Jagran Josh",
-      "url": "https://www.jagranjosh.com/articles/school-assembly-news-headlines-november-11-2026-qualcomm-nvidia-ceo-8th-pay-commission-grap-4-and-other-news-1800018941-1",
-      "date": "2026-11-10T12:52:14.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "d2depr",
-      "title": "8th Pay Commission: Will Employees Who Retire Before Implementation Get Arrears?",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-will-employees-who-retire-before-implementation-get-arrears-12306878",
-      "date": "2026-11-10T07:24:22.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "2mm5ob",
-      "title": "8th Pay Commission: What Maruti 800, Zen And WagonR Tell Us About The Next Spending Cycle",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-what-maruti-800-zen-and-wagonr-tell-us-about-the-next-spending-cycle-12306623",
-      "date": "2026-11-10T06:18:03.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1wyy61a",
-      "title": "8th Pay Commission: When Will It Submit Its Report? What Central Govt Employees Should Know",
-      "source": "News18",
-      "url": "https://www.news18.com/business/economy/8th-pay-commission-when-will-it-submit-its-report-what-central-govt-employees-should-know-10419620.html",
-      "date": "2026-11-10T06:00:27.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "nqa9yk",
-      "title": "8th Pay Commission Latest News: How Much Could Salaries Increase? Railway Employees Raise 3 Key Demands on Fitment Factor, DA Hike And Salary Revision",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/india/8th-pay-commission-latest-news-how-much-could-salaries-increase-railway-employees-raise-3-key-demands-on-fitment-factor-da-hike-and-salary-revision-320046/",
-      "date": "2026-11-10T04:13:06.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "4twcrv",
-      "title": "8th Pay Commission: Performance pay, variable pay and bonus; what's on the table now",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-performance-pay-variable-pay-and-bonus-what-s-on-the-table-now/article-203237/",
-      "date": "2026-11-09T13:19:02.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
       ],
       "speculative": false
     }
