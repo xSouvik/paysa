@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T20:55:08.197Z",
+  "updated": "2026-11-18T07:27:54.614Z",
   "items": [
+    {
+      "id": "1cufwk3",
+      "title": "5th, 6th, 7th Pay Commission DR rates compared: Why pensioners are getting 497%, 269% and 63% dearness rel",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/5th-6th-7th-pay-commission-da-dr-rate-calculator-why-pensioners-are-getting-497-269-and-63-dearness-relief/articleshow/135950403.cms",
+      "date": "2026-11-18T05:30:58.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "web7ew",
+      "title": "8th Pay Commission: Pensioners renew a demand rejected by 7th CPC; how it will impact pension, family pension and gratuity",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-pensioners-renew-a-demand-rejected-by-7th-cpc-how-it-will-impact-pension-family-pension-and-gratuity/article-203597/",
+      "date": "2026-11-18T01:51:28.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "142wpwj",
+      "title": "8th Pay Commission Update: Railway union seeks two days for discussions; AIDEF to present its demands today",
+      "source": "India.com",
+      "url": "https://www.india.com/business/8th-pay-commission-railway-union-ashwini-vaishnaw-aidef-defence-employees-dearness-allowance-insurance-airf-finance-department-nirmala-sitharaman-8545779/",
+      "date": "2026-11-18T01:41:51.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
+    },
     {
       "id": "unflen",
       "title": "Central govt employees seek establishment of CGHS Wellness Centre in Belagavi",
@@ -217,6 +256,19 @@
       "speculative": true
     },
     {
+      "id": "nwrmn2",
+      "title": "HRTC Pensioners To Protest On November 27 Over Dearness Relief Hike, Arrears",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/news/hrtc-pensioners-to-protest-on-november-27-over-dearness-relief-hike-arrears",
+      "date": "2026-11-16T08:15:51.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "cyr0f4",
       "title": "8th Pay Commission: Salary Hike Calculations Explained",
       "source": "Udaipur Kiran",
@@ -416,6 +468,18 @@
       "speculative": false
     },
     {
+      "id": "ldicj9",
+      "title": "Advisory to Banks Regarding Recovery of Excess Amount of Pension paid to Pensioners/Family Pensioners: CPAO",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/advisory-to-banks-regarding-recovery-of-excess-amount-of-pension.html",
+      "date": "2026-11-14T14:38:54.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "plevf1",
       "title": "8th Pay Commission insider gives update on increments with '100%' certainty | NC-JCM staff side seeking 3.833 fitment factor | Inshorts",
       "source": "Inshorts",
@@ -591,19 +655,6 @@
       "speculative": false
     },
     {
-      "id": "92kxi1",
-      "title": "8th Pay Commission: High fitment factor vs high increment rate; how salaries of Level 5-7 employees may ch",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-fitment-factor-calculator-latest-news-high-multiplier-vs-increment-rate-how-pays-of-level-5-7-employees-can-change-in-10-years/articleshow/135760306.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
-      "date": "2026-11-12T09:11:03.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1u7n6e",
       "title": "8th Pay Commission Salary Hike: 8वें वेतन आयोग से बदलेगी बाजार की तस्वीर, SUV से लेकर महंगे TV तक की बढ़ेगी मांग!",
       "source": "Asianet News Hindi",
@@ -628,18 +679,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "1yymg99",
-      "title": "Revised ceiling rates and guidelines for cochlear implantation and rehabilitation under CGHS and CS(MA) Rules, 1944: MoHFW O.M. dated 09.11.2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/revised-ceiling-rates-and-guidelines-for-cochlear-implantation.html",
-      "date": "2026-11-12T03:56:31.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
     },
     {
       "id": "1kzjwh4",
@@ -712,44 +751,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "1j60h65",
-      "title": "8th Pay Commission Latest News 2026 — Timeline, Fitment Factor & Salary Projections",
-      "source": "indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/articles/8th-cpc-latest-news-2026",
-      "date": "2026-11-11T08:00:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "16z6ico",
-      "title": "8th Pay Commission: Salary Hike May Be Delayed Until 2027, Central Govt Employees Face Longer Wait",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-salary-hike-may-be-delayed-until-2027-central-govt-employees-face-longer-wait-article-156493345",
-      "date": "2026-11-11T07:35:06.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "joun2m",
-      "title": "Senior citizens deplore 'ill treatment' at CGHS centre in Kochi",
-      "source": "The New Indian Express",
-      "url": "https://www.newindianexpress.com/states/kerala/2026/Nov/11/senior-citizens-deplore-ill-treatment-at-cghs-centre-in-kochi",
-      "date": "2026-11-11T07:35:02.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
     }
   ]
 }
