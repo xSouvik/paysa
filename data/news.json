@@ -1,7 +1,33 @@
 {
   "schema": 1,
-  "updated": "2026-11-19T07:25:50.433Z",
+  "updated": "2026-11-19T20:37:16.656Z",
   "items": [
+    {
+      "id": "135zcr0",
+      "title": "8th Pay Commission: Will govt pensioners get a minimum monthly pension of ₹45,000? Here's what the latest demand means",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-govt-pensioners-get-a-minimum-monthly-pension-of-45-000-heres-what-the-latest-demand-means-11795103610781.html",
+      "date": "2026-11-19T16:30:21.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "7xlven",
+      "title": "8th Pay Commission: Pensioners demand 67% of last pay drawn",
+      "source": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/8th-pay-commission-pensioners-demand-67-of-last-pay-drawn/story",
+      "date": "2026-11-19T08:40:22.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "198emh8",
       "title": "8th Pay Commission: Pensioners seek 67% of last basic pay as pension; how much could retirees receive if approved?",
@@ -42,6 +68,18 @@
         "Pay"
       ],
       "speculative": false
+    },
+    {
+      "id": "1ov4ox8",
+      "title": "Bijapur: Employees-Officers Federation Demands Revocation of Punitive Action Against Patwaris and 3% DA Hike",
+      "source": "CGKhabar",
+      "url": "https://cgkhabar.com/news/chhattisgarh-bijapur-employees-officers-federation-demands-revocation-of-punitive-action-against-patwaris-20261119",
+      "date": "2026-11-18T19:47:27.000Z",
+      "official": false,
+      "tags": [
+        "DA"
+      ],
+      "speculative": true
     },
     {
       "id": "2k9w7",
@@ -648,19 +686,6 @@
       "speculative": true
     },
     {
-      "id": "18ctgjt",
-      "title": "8th Pay Commission: Will central government salaries and pensions be revised every 5 years? What employee unions demand",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-salaries-and-pensions-be-revised-every-5-years-what-employee-unions-demand-11794632936929.html",
-      "date": "2026-11-14T05:29:53.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "19slg7q",
       "title": "8th Pay Commission: Two pay compression ratio proposals compared; how salaries could differ across levels",
       "source": "Upstox",
@@ -731,31 +756,6 @@
       "tags": [
         "8th CPC",
         "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "4gu4cp",
-      "title": "8th Pay Commission Salary Hike In 2027: 4 Fitment Factor May Mean Rs 15.20 Lakh Arrears at Rs 53,100 Basic Pay",
-      "source": "Goodreturns",
-      "url": "https://www.goodreturns.in/personal-finance/8th-pay-commission-salary-hike-2027-4-fitment-factor-rs-15-20-lakh-12-month-arrears-at-53100-salary-1546477.html",
-      "date": "2026-11-12T04:12:44.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1kzjwh4",
-      "title": "Pr CCA Delhi Celebrates National Senior Citizens Day, Felicitates Super-Senior Pensioners",
-      "source": "DD News",
-      "url": "https://ddnews.gov.in/en/pr-cca-delhi-celebrates-national-senior-citizens-day-felicitates-super-senior-pensioners/",
-      "date": "2026-11-11T14:24:24.000Z",
-      "official": true,
-      "tags": [
-        "Pension"
       ],
       "speculative": false
     }
