@@ -1,7 +1,48 @@
 {
   "schema": 1,
-  "updated": "2026-11-18T20:31:09.118Z",
+  "updated": "2026-11-19T07:25:50.433Z",
   "items": [
+    {
+      "id": "198emh8",
+      "title": "8th Pay Commission: Pensioners seek 67% of last basic pay as pension; how much could retirees receive if approved?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pensioners-seek-67-of-last-basic-pay-as-pension-how-much-could-retirees-receive-if-approved-11795066934188.html",
+      "date": "2026-11-19T06:31:14.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1mkjhmk",
+      "title": "8th Pay Commission: Will Government Employees Get Higher Salaries, Better Pensions And More Benefits? Check What Defence And Railway Staff Want",
+      "source": "Jagran Josh",
+      "url": "https://www.jagranjosh.com/lite/general-knowledge/8th-pay-commission-will-government-employees-get-higher-salaries-better-pensions-and-more-benefits-check-what-defence-and-railway-staff-want-1820013952-1",
+      "date": "2026-11-19T05:07:18.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Railways"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "13v76cy",
+      "title": "8th Pay Commission : 8वें वेतन आयोग में देरी पड़ेगी भारी! Salary Hike Update Pension | SHORTS",
+      "source": "Jagran",
+      "url": "https://www.jagran.com/short-videos/8th-pay-commission-8-salary-hike-update-pension-shorts-141110.html",
+      "date": "2026-11-18T20:30:18.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": false
+    },
     {
       "id": "2k9w7",
       "title": "8th Pay Commission: What will be Basic Pay Vs Gross Salary Vs Home Salary; Check Fitment Factor-Wise Estimate",
@@ -79,6 +120,18 @@
         "Railways"
       ],
       "speculative": true
+    },
+    {
+      "id": "lntjcq",
+      "title": "NPS KYC Requirements for NRI and OCI subscribers - Amendment: PFRDA Circular Relaxes Address Proof Requirements",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/nps-kyc-requirements-for-nri-and-oci-subscribers.html",
+      "date": "2026-11-18T01:30:14.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
     },
     {
       "id": "unflen",
@@ -608,19 +661,6 @@
       "speculative": true
     },
     {
-      "id": "11x90md",
-      "title": "8th Pay Commission: How 3.61, 3.833 and 4.38 fitment factor demands could change salaries across different salary levels",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-3-61-3-833-and-4-38-fitment-factor-demands-could-change-salaries-across-different-salary-levels-11794619529278.html",
-      "date": "2026-11-14T02:02:34.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "19slg7q",
       "title": "8th Pay Commission: Two pay compression ratio proposals compared; how salaries could differ across levels",
       "source": "Upstox",
@@ -655,18 +695,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "n6r23q",
-      "title": "Airports Authority of India (Gratuity) Amendment Regulations, 2026: Notification",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/airports-authority-of-india-gratuity-amendment-regulations-2026.html",
-      "date": "2026-11-12T13:36:03.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     },
     {
       "id": "19u3yp4",
@@ -730,30 +758,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "11zhyrs",
-      "title": "8th Pay Commission matrix: What 3 fitment factor demands mean for Levels 1, 6, and 18 salaries",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-matrix-what-3-fitment-factor-demands-mean-for-levels-1-6-and-18-salaries/article-203313/",
-      "date": "2026-11-11T12:54:06.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "rwwl76",
-      "title": "8th Pay Commission Latest News: Will Salaries Rise in 2027? What the Government Has Actually Confirmed",
-      "source": "The United Indian",
-      "url": "https://www.theunitedindian.com/news/8th-pay-commission-salary-hike-2027",
-      "date": "2026-11-11T11:50:38.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
