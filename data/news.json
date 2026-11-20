@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T07:15:38.122Z",
+  "updated": "2026-11-20T20:19:11.568Z",
   "items": [
     {
       "id": "1udp9yy",
@@ -439,6 +439,18 @@
       "speculative": false
     },
     {
+      "id": "w4h1qg",
+      "title": "Raipur Pension Fraud: Retired Rail Employee Loses ₹7.49 Lakh",
+      "source": "Dainik Jagran MP CG",
+      "url": "https://english.dainikjagranmpcg.com/states/chhattisgarh/fake-drm-official-dupes-retired-railway-employee-in-raipur/article-44427",
+      "date": "2026-11-16T06:33:05.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "cyr0f4",
       "title": "8th Pay Commission: Salary Hike Calculations Explained",
       "source": "Udaipur Kiran",
@@ -687,6 +699,18 @@
       "speculative": false
     },
     {
+      "id": "1r2wqie",
+      "title": "Centre spells out ₹9,000 income test for family pension",
+      "source": "indianpaycalculator.in",
+      "url": "https://www.indianpaycalculator.in/govt-news/family-pension-income-limit-9000-dr-14670",
+      "date": "2026-11-14T06:53:31.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "16bfgqf",
       "title": "How could a Level 5 employee's basic salary change over 10 years under different fitment factors and annual increment rates? - 8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to…",
       "source": "The Economic Times",
@@ -735,31 +759,6 @@
         "8th CPC"
       ],
       "speculative": true
-    },
-    {
-      "id": "19u3yp4",
-      "title": "DA hike arrears: When will employees and pensioners receive the extra money?",
-      "source": "Mathrubhumi English",
-      "url": "https://english.mathrubhumi.com/news/money/da-hike-arrears-payment-date-2026-employees-pensioners-mas016zy",
-      "date": "2026-11-12T09:14:54.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ftdmkp",
-      "title": "8th Pay Commission: केंद्रीय कर्मचारियों की बल्ले-बल्ले! खाते में आ सकता है 5 से 71 लाख तक का मोटा एरियर",
-      "source": "Asianet News Hindi",
-      "url": "https://hindi.asianetnews.com/business-news/8th-pay-commission-latest-update-salary-hike-arrears-calculation-fitment-factor-implementation-date-articleshow-f85695n",
-      "date": "2026-11-12T09:11:28.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
     }
   ]
 }
