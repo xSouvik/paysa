@@ -1,7 +1,47 @@
 {
   "schema": 1,
-  "updated": "2026-11-19T20:37:16.656Z",
+  "updated": "2026-11-20T07:15:38.122Z",
   "items": [
+    {
+      "id": "1udp9yy",
+      "title": "8th Pay Commission: What could be gross salary of Level 3 to 6 employees at 2.1, 2.28 and 2.57 fitment factors?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-could-be-gross-salary-of-level-3-to-6-employees-at-2-1-2-28-and-2-57-fitment-factors-11795144253892.html",
+      "date": "2026-11-20T05:01:14.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "mmo5we",
+      "title": "8th Central Pay Commission: BPMS Demands 6% Annual Increment, 50% DA Merger, OPS Restoration and 5 MACP Upgradations",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/8th-central-pay-commission-bpms-demands.html",
+      "date": "2026-11-20T03:49:22.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "vwuiek",
+      "title": "8th Pay Commission Proposes ₹45,000 Minimum Pension for Retirees",
+      "source": "Udaipur Kiran",
+      "url": "https://udaipurkiran.com/8th-pay-commission-proposes-%E2%82%B945000-minimum-pension-for-retirees/",
+      "date": "2026-11-20T02:03:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "135zcr0",
       "title": "8th Pay Commission: Will govt pensioners get a minimum monthly pension of ₹45,000? Here's what the latest demand means",
@@ -561,19 +601,6 @@
       "speculative": false
     },
     {
-      "id": "4jraxz",
-      "title": "8th Pay Commission pension: Check how ₹25,000 to ₹75,000 basic pensions may change at 2.1, 2.57 and 2.75 fitment factors",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-check-how-25-000-to-75-000-basic-pensions-may-change-at-2-1-2-57-and-2-75-fitment-factors-11794710468739.html",
-      "date": "2026-11-15T03:36:28.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1ku7tbj",
       "title": "Charge Structure Applicable to PoPs for All Schemes under NPS and NPS Lite - Modification: PFRDA Circular",
       "source": "Staff News",
@@ -698,18 +725,6 @@
       "speculative": true
     },
     {
-      "id": "79er1z",
-      "title": "Determining the eligibility of family pension - Understanding the concept of not earning a livelihood or dependency: DoP&PW O.M. Oct, 2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/determining-the-eligibility-of-family-pension.html",
-      "date": "2026-11-13T13:51:28.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "7srgjz",
       "title": "8th Pay Commission: Will 4x Fitment Factor Bring ₹15.20 Lakh Arrears for Govt Employees?",
       "source": "Asianet Newsable",
@@ -743,19 +758,6 @@
       "official": false,
       "tags": [
         "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1u7n6e",
-      "title": "8th Pay Commission Salary Hike: 8वें वेतन आयोग से बदलेगी बाजार की तस्वीर, SUV से लेकर महंगे TV तक की बढ़ेगी मांग!",
-      "source": "Asianet News Hindi",
-      "url": "https://hindi.asianetnews.com/business-news/8th-pay-commission-salary-hike-to-boost-suv-demand-for-government-employees-articleshow-voqb7x7",
-      "date": "2026-11-12T05:17:03.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
       ],
       "speculative": false
     }
