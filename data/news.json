@@ -1,7 +1,72 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T20:19:11.568Z",
+  "updated": "2026-11-21T07:07:18.835Z",
   "items": [
+    {
+      "id": "1w6fo0n",
+      "title": "Rs 45,000 minimum pension? What pensioners want from 8th Pay Commission",
+      "source": "Mathrubhumi English",
+      "url": "https://english.mathrubhumi.com/news/india/8th-pay-commission-rs-45000-minimum-pension-demand-eylz8qea",
+      "date": "2026-11-21T05:02:17.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "6b6iqi",
+      "title": "8th Pay Commission: BPMS union seeks 6% increment, OPS restoration; check demands on fitment factor, DA merger and more",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-union-seeks-6-increment-ops-restoration-check-demands-on-fitment-factor-da-merger-and-more-11795231113111.html",
+      "date": "2026-11-21T04:04:19.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1qpihjj",
+      "title": "8th Pay Commission pension: How NC-JCM, MSA and IRTSA fitment-factor demands could change monthly payouts for pensioners",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-how-nc-jcm-msa-and-irtsa-fitment-factor-demands-could-change-monthly-payouts-for-pensioners-11795017800807.html",
+      "date": "2026-11-21T03:43:36.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "rvk0n5",
+      "title": "Rs 45,000 minimum pension under 8th Pay Commission demanded by BPS: Will it be implemented?",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-fitment-factor-calculator-rs-45000-payout-under-8th-cpc-demanded-by-bps-will-it-be-implemented/amp_articleshow/136028166.cms",
+      "date": "2026-11-21T02:30:00.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "14i6h4q",
+      "title": "How Corporate NPS Tax Benefits Help Employees Build Retirement Wealth",
+      "source": "TechBullion",
+      "url": "https://techbullion.com/how-corporate-nps-tax-benefits-help-employees-build-retirement-wealth/",
+      "date": "2026-11-20T13:21:46.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
     {
       "id": "1udp9yy",
       "title": "8th Pay Commission: What could be gross salary of Level 3 to 6 employees at 2.1, 2.28 and 2.57 fitment factors?",
@@ -67,6 +132,19 @@
         "Pension"
       ],
       "speculative": true
+    },
+    {
+      "id": "1fxddbk",
+      "title": "Centre Names CGHS Nodal Officer for A&N Pensioners",
+      "source": "The Wave Andaman",
+      "url": "https://thewaveandaman.com/andaman-pensioners-cghs-nodal-officer-chennai/",
+      "date": "2026-11-19T08:00:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "CGHS"
+      ],
+      "speculative": false
     },
     {
       "id": "198emh8",
@@ -426,6 +504,18 @@
       "speculative": true
     },
     {
+      "id": "lzml1u",
+      "title": "NPS rules change from December 1: What subscribers need to know about choosing pension schemes",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/nps-rules-change-from-december-1-what-subscribers-need-to-know-about-choosing-pension-schemes/nps-central-cra-and-star-nps-platforms-what-changes/slideshow/135877296.cms",
+      "date": "2026-11-16T08:38:50.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "nwrmn2",
       "title": "HRTC Pensioners To Protest On November 27 Over Dearness Relief Hike, Arrears",
       "source": "Outlook Money",
@@ -476,18 +566,6 @@
       "speculative": false
     },
     {
-      "id": "1w7zzuq",
-      "title": "8th Pay Commission: Will central government employees get arrears from January 2026? Key lessons from previous CPCs",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-employees-get-arrears-from-january-2026-key-lessons-from-previous-cpcs-11794792601989.html",
-      "date": "2026-11-16T02:08:23.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1van3e8",
       "title": "NPS default funds should include top-performing private fund managers, not just public sector players, say",
       "source": "The Economic Times",
@@ -498,19 +576,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "k3fomq",
-      "title": "8th Pay Commission salary hike: How a 7% annual increment could take your basic pay above ₹1 lakh in 10 years",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-how-a-7-annual-increment-could-take-your-basic-pay-above-1-lakh-in-10-years-11794750743953.html",
-      "date": "2026-11-15T14:01:31.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
     },
     {
       "id": "137bhgk",
@@ -697,68 +762,6 @@
         "8th CPC"
       ],
       "speculative": false
-    },
-    {
-      "id": "1r2wqie",
-      "title": "Centre spells out ₹9,000 income test for family pension",
-      "source": "indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/govt-news/family-pension-income-limit-9000-dr-14670",
-      "date": "2026-11-14T06:53:31.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "16bfgqf",
-      "title": "How could a Level 5 employee's basic salary change over 10 years under different fitment factors and annual increment rates? - 8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to…",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-higher-fitment-factor-vs-higher-annual-increment-rate-which-can-give-bigger-salary-hike-to-employees/how-could-a-level-5-employees-basic-salary-change-over-10-years-under-different-fitment-factors-and-annual-increment-rates/slideshow/135822893.cms",
-      "date": "2026-11-14T06:09:37.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "n6dprk",
-      "title": "8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to employees?",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-higher-fitment-factor-vs-higher-annual-increment-rate-which-can-give-bigger-salary-hike-to-employees/higher-fitment-factor-vs-higher-annual-increment-rate/slideshow/135822910.cms",
-      "date": "2026-11-14T05:48:45.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "19slg7q",
-      "title": "8th Pay Commission: Two pay compression ratio proposals compared; how salaries could differ across levels",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-two-pay-compression-ratio-proposals-compared-how-salaries-could-differ-across-levels/article-203456/",
-      "date": "2026-11-13T15:55:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "7srgjz",
-      "title": "8th Pay Commission: Will 4x Fitment Factor Bring ₹15.20 Lakh Arrears for Govt Employees?",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-update-rs-15-20-lakh-arrears-expected-for-govt-employees-with-4x-fitment-factor-gx80ac0",
-      "date": "2026-11-13T06:14:20.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
