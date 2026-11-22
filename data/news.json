@@ -1,7 +1,131 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T07:07:18.835Z",
+  "updated": "2026-11-22T06:47:13.982Z",
   "items": [
+    {
+      "id": "cqynre",
+      "title": "Rs 45,000 Minimum Pension Demaded By Bharat Pensioners’ Samaj",
+      "source": "Trak.in",
+      "url": "https://trak.in/stories/rs-45000-minimum-pension-demaded-by-bharat-pensioners-samaj/",
+      "date": "2026-11-22T05:48:45.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1ox4fms",
+      "title": "8th Pay Commission: MSA and IRTSA proposals show how fitment factors could reshape central government salary structures",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-msa-and-irtsa-proposals-show-how-fitment-factors-could-reshape-central-government-salary-structures-11795013686090.html",
+      "date": "2026-11-22T00:53:19.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1de6qog",
+      "title": "8th Pay Commission: Is 3.833 Fitment Factor Possible?",
+      "source": "News Karnataka",
+      "url": "https://newskarnataka.com/finance/8th-pay-commission-is-3-833-fitment-factor-possible/21112026/",
+      "date": "2026-11-21T23:20:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "tceyc4",
+      "title": "8th CPC Pension Revision for Central Government Employees Who Retired Before 1 January 2026: Position as of 21 November 2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/8th-cpc-pension-revision.html",
+      "date": "2026-11-21T18:05:11.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "olxs9i",
+      "title": "8th Pay Commission: Postal employees seek major changes in promotion rules, propose 1-4 years qualifying service",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/news/india/8th-pay-commission-postal-employees-seek-major-changes-in-promotion-rules-propose-1-4-years-qualifying-service-11795282408534.html",
+      "date": "2026-11-21T18:04:17.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "2htj58",
+      "title": "8th Pay Commission: Waiting 12 Years For A Promotion? Union Wants It Capped At 4",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-waiting-12-years-for-a-promotion-union-wants-it-capped-at-4-12359270",
+      "date": "2026-11-21T14:52:10.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "14n7vhz",
+      "title": "8th Central Pay Commission Gets Union Demand for 6% Raise",
+      "source": "JournalArta",
+      "url": "https://journalarta.com/en/2026/11/21/8th-central-pay-commission-union-pay-pension-demands/",
+      "date": "2026-11-21T13:28:45.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "dtlbz1",
+      "title": "8th Pay Commission Hears 3.833 Fitment Request",
+      "source": "JournalArta",
+      "url": "https://journalarta.com/en/2026/11/21/8th-pay-commission-fitment-factor-request/",
+      "date": "2026-11-21T12:16:56.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "ro0tts",
+      "title": "8th Pay Commission: Fitment Factor Of 3.833 In Consideration? What Top Negotiator Says",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-fitment-factor-of-3-83-in-consideration-what-top-negotiator-says-12358347",
+      "date": "2026-11-21T09:54:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "6iwm2k",
+      "title": "8th Pay Commission: Merger of 50% dearness allowance with basic pay demand returns as 8th CPC completes a year",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-merger-of-50-dearness-allowance-with-basic-pay-demand-returns-as-8th-cpc-completes-a-year/article-203805/",
+      "date": "2026-11-21T09:03:50.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1w6fo0n",
       "title": "Rs 45,000 minimum pension? What pensioners want from 8th Pay Commission",
@@ -54,6 +178,31 @@
         "Pension"
       ],
       "speculative": true
+    },
+    {
+      "id": "1eralos",
+      "title": "BHU issues policy for CGHS-rate treatment at private hospitals, subject to agreements",
+      "source": "GK Today",
+      "url": "https://www.gktoday.in/bhu-issues-policy-for-cghs-rate-treatment-at-private-hospitals-subject-to-agreements/",
+      "date": "2026-11-20T19:52:08.000Z",
+      "official": false,
+      "tags": [
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1lqdvsi",
+      "title": "Additional Director CGHS Chennai Designated Nodal Officer for Eligible A&N Pensioners - Nicobar Times",
+      "source": "Nicobar Times",
+      "url": "https://nicobartimes.com/local-news/additional-director-cghs-chennai-designated-nodal-officer-for-eligible-an-pensioners/",
+      "date": "2026-11-20T17:59:37.000Z",
+      "official": false,
+      "tags": [
+        "Pension",
+        "CGHS"
+      ],
+      "speculative": false
     },
     {
       "id": "14i6h4q",
@@ -134,6 +283,18 @@
       "speculative": true
     },
     {
+      "id": "174yktp",
+      "title": "ISRO Scientist Salary Per Month: Structure, In-Hand Pay, Allowance",
+      "source": "PW",
+      "url": "https://www.pw.live/gate/exams/isro-scientist-salary",
+      "date": "2026-11-19T08:00:00.000Z",
+      "official": false,
+      "tags": [
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
       "id": "1fxddbk",
       "title": "Centre Names CGHS Nodal Officer for A&N Pensioners",
       "source": "The Wave Andaman",
@@ -145,19 +306,6 @@
         "CGHS"
       ],
       "speculative": false
-    },
-    {
-      "id": "198emh8",
-      "title": "8th Pay Commission: Pensioners seek 67% of last basic pay as pension; how much could retirees receive if approved?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pensioners-seek-67-of-last-basic-pay-as-pension-how-much-could-retirees-receive-if-approved-11795066934188.html",
-      "date": "2026-11-19T06:31:14.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
     },
     {
       "id": "1mkjhmk",
@@ -441,19 +589,6 @@
       "speculative": false
     },
     {
-      "id": "142t576",
-      "title": "8th Pay Commission: Unions seek 3.833 fitment factor, ₹69,000 minimum pay and 50% family pension for pensioners",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-unions-seek-3-833-fitment-factor-69-000-minimum-pay-and-50-family-pension-for-pensioners-11794845052801.html",
-      "date": "2026-11-16T16:09:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "172xfxf",
       "title": "8th Pay Commission: Pension Increase Calculations Explained",
       "source": "Udaipur Kiran",
@@ -620,143 +755,6 @@
       "source": "Asianet Newsable",
       "url": "https://newsable.asianetnews.com/india/8th-pay-commission-5-latest-updates-every-central-government-employee-should-know-articleshow-esqzzp4",
       "date": "2026-11-15T07:15:23.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1su2xq7",
-      "title": "Indian Army Reportedly Preparing to Seek Abolition of Brigadier Rank Through 8th Pay Commission",
-      "source": "Shop SSBCrack",
-      "url": "https://shop.ssbcrack.com/blogs/blog/indian-army-reportedly-preparing-to-seek-abolition-of-brigadier-rank-through-8th-pay-commission",
-      "date": "2026-11-15T07:01:22.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "16teq11",
-      "title": "Pre-2026 retirees seek clarity on 8th Pay Commission pension hike | Tap to know more | Inshorts",
-      "source": "Inshorts",
-      "url": "https://inshorts.com/en/news/pre-2026-retirees-seek-clarity-on-8th-pay-commission-pension-hike-1794723297433",
-      "date": "2026-11-15T06:14:57.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "xcr4b9",
-      "title": "8th Pay Commission: Will Employees Retiring Before January 2026 Get Higher Pension and Arrears?",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/india/8th-pay-commission-will-employees-retiring-before-january-2026-get-higher-pension-and-arrears-articleshow-s6yvu6y",
-      "date": "2026-11-15T06:05:40.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "zrmirm",
-      "title": "8th Pay Commission: ₹25,000 to ₹75,000 Basic Pension—Check Revised Amount Under 3 Fitment Factors",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/delhi-ncr-air-quality-plunges-to-severe-category-blanket-of-smog-covers-capital-sdd3g4f",
-      "date": "2026-11-15T05:23:30.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ku7tbj",
-      "title": "Charge Structure Applicable to PoPs for All Schemes under NPS and NPS Lite - Modification: PFRDA Circular",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/charge-structure-applicable-to-pops-for-nps-nps-lite-modification.html",
-      "date": "2026-11-15T02:26:45.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "a5cg0k",
-      "title": "CGHS beneficiaries in Keralam facing hardship",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/cghs-beneficiaries-in-keralam-facing-hardship/article71702129.ece/amp/",
-      "date": "2026-11-15T01:30:00.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ldicj9",
-      "title": "Advisory to Banks Regarding Recovery of Excess Amount of Pension paid to Pensioners/Family Pensioners: CPAO",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/advisory-to-banks-regarding-recovery-of-excess-amount-of-pension.html",
-      "date": "2026-11-14T14:38:54.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "plevf1",
-      "title": "8th Pay Commission insider gives update on increments with '100%' certainty | NC-JCM staff side seeking 3.833 fitment factor | Inshorts",
-      "source": "Inshorts",
-      "url": "https://inshorts.com/en/amp_news/8th-pay-commission-insider-gives-update-on-increments-with--100---certainty-1794646815232",
-      "date": "2026-11-14T09:00:15.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "3j53uz",
-      "title": "8th Pay Commission: Will retirees get higher pension and arrears?",
-      "source": "CNBC TV18",
-      "url": "https://www.cnbctv18.com/personal-finance/8th-pay-commission-employees-retiring-before-january-2026-higher-pension-arrears-retirees-eligibility-20034005.htm",
-      "date": "2026-11-14T08:23:27.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ubh3wp",
-      "title": "8th Pay Commission Exclusive: '100% Sure Of Arrears From January 2026', Says NC-JCM Staff Side Chief",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-exclusive-100-sure-of-arrears-from-january-2026-says-nc-jcm-staff-side-chief-12325709",
-      "date": "2026-11-14T07:33:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "ssn1mz",
-      "title": "8th Pay Commission Lists Five Key Website Updates",
-      "source": "BW People",
-      "url": "https://www.bwpeople.in/article/8th-pay-commission-lists-five-key-website-updates-633588",
-      "date": "2026-11-14T06:55:58.000Z",
       "official": false,
       "tags": [
         "8th CPC"
