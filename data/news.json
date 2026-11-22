@@ -1,7 +1,46 @@
 {
   "schema": 1,
-  "updated": "2026-11-22T06:47:13.982Z",
+  "updated": "2026-11-22T19:39:47.034Z",
   "items": [
+    {
+      "id": "6zupnv",
+      "title": "SAKP Intensifies Demand for DA Arrears and 8th Pay Commission Rollout",
+      "source": "Asianet Newsable",
+      "url": "https://newsable.asianetnews.com/india/sakp-intensifies-demand-for-da-arrears-and-8th-pay-commission-rollout-articleshow-zn1bt96",
+      "date": "2026-11-22T15:00:07.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "15v4453",
+      "title": "8th Pay Commission salary hike: Why employees want 50% DA merged with basic pay before fitment factor calculation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-why-employees-want-50-da-merged-with-basic-pay-before-fitment-factor-calculation-11795347645844.html",
+      "date": "2026-11-22T11:46:09.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1di7i8x",
+      "title": "8th Pay Commission: FNPO seeks maximum four-year promotion wait for postal staff, flags vacancies and career stagnation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fnpo-seeks-maximum-four-year-promotion-wait-for-postal-staff-flags-vacancies-and-career-stagnation-11795332754011.html",
+      "date": "2026-11-22T07:59:32.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "cqynre",
       "title": "Rs 45,000 Minimum Pension Demaded By Bharat Pensioners’ Samaj",
@@ -217,19 +256,6 @@
       "speculative": false
     },
     {
-      "id": "1udp9yy",
-      "title": "8th Pay Commission: What could be gross salary of Level 3 to 6 employees at 2.1, 2.28 and 2.57 fitment factors?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-could-be-gross-salary-of-level-3-to-6-employees-at-2-1-2-28-and-2-57-fitment-factors-11795144253892.html",
-      "date": "2026-11-20T05:01:14.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "mmo5we",
       "title": "8th Central Pay Commission: BPMS Demands 6% Annual Increment, 50% DA Merger, OPS Restoration and 5 MACP Upgradations",
       "source": "Staff News",
@@ -255,19 +281,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "135zcr0",
-      "title": "8th Pay Commission: Will govt pensioners get a minimum monthly pension of ₹45,000? Here's what the latest demand means",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-govt-pensioners-get-a-minimum-monthly-pension-of-45-000-heres-what-the-latest-demand-means-11795103610781.html",
-      "date": "2026-11-19T16:30:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
     },
     {
       "id": "7xlven",
@@ -748,18 +761,6 @@
         "Pension"
       ],
       "speculative": true
-    },
-    {
-      "id": "14yutd2",
-      "title": "8th Pay Commission: 5 Latest Updates Every Central Government Employee Should Know",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/india/8th-pay-commission-5-latest-updates-every-central-government-employee-should-know-articleshow-esqzzp4",
-      "date": "2026-11-15T07:15:23.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
     }
   ]
 }
