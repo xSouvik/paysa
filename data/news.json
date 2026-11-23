@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "updated": "2026-11-22T19:39:47.034Z",
+  "updated": "2026-11-23T07:38:03.454Z",
   "items": [
+    {
+      "id": "n7i0c4",
+      "title": "Dr. Preeti Maternity Center, Jhunsi: Empanelment under CGHS, Prayagraj for 3 year",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/empanelment-of-hcos-under-cghs-prayagraj.html",
+      "date": "2026-11-23T03:13:46.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "CGHS"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1t0xclx",
+      "title": "8th Pay Commission: Check how ₹25,000, ₹35,000 and ₹50,000 basic salaries could change under proposed fitment factors",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-check-how-25-000-35-000-and-50-000-basic-salaries-could-change-under-proposed-fitment-factors-11795379274172.html",
+      "date": "2026-11-23T01:15:33.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "6zupnv",
       "title": "SAKP Intensifies Demand for DA Arrears and 8th Pay Commission Rollout",
@@ -52,6 +77,19 @@
         "Pension"
       ],
       "speculative": false
+    },
+    {
+      "id": "a0cuzm",
+      "title": "8th Pay Commission: Can minimum pension increase from Rs 9,000 to Rs 45,000? Here's what pensioners demand",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-can-minimum-pension-increase-from-rs-9000-to-rs-45000-heres-what-pensioners-demand-article-156548427",
+      "date": "2026-11-22T01:58:50.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
     },
     {
       "id": "1ox4fms",
@@ -193,19 +231,6 @@
       "speculative": true
     },
     {
-      "id": "1qpihjj",
-      "title": "8th Pay Commission pension: How NC-JCM, MSA and IRTSA fitment-factor demands could change monthly payouts for pensioners",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-how-nc-jcm-msa-and-irtsa-fitment-factor-demands-could-change-monthly-payouts-for-pensioners-11795017800807.html",
-      "date": "2026-11-21T03:43:36.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "rvk0n5",
       "title": "Rs 45,000 minimum pension under 8th Pay Commission demanded by BPS: Will it be implemented?",
       "source": "The Economic Times",
@@ -278,6 +303,18 @@
       "official": false,
       "tags": [
         "8th CPC",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "184mtql",
+      "title": "National Pension System: PFRDA introduced 3 changes for subscribers in a month; all you need to know",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/investing/national-pension-system-pfrda-introduced-3-changes-for-subscribers-in-a-month-all-you-need-to-know/article-203724/",
+      "date": "2026-11-19T13:14:03.000Z",
+      "official": false,
+      "tags": [
         "Pension"
       ],
       "speculative": false
@@ -361,6 +398,18 @@
       "speculative": true
     },
     {
+      "id": "1geaxi2",
+      "title": "Credit of First Pension/Family Pension: CPAO Issues Instructions to Banks for Same-Day Generation and Submission of eScrolls",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/credit-of-first-pension-family-pension-cpao.html",
+      "date": "2026-11-18T13:39:00.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "2k9w7",
       "title": "8th Pay Commission: What will be Basic Pay Vs Gross Salary Vs Home Salary; Check Fitment Factor-Wise Estimate",
       "source": "Goodreturns",
@@ -408,6 +457,18 @@
       "official": false,
       "tags": [
         "DA",
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "w2ykr9",
+      "title": "Family Pension and Gratuity on Death or Disappearance of a Serving Government Servant: DoP&PW O.M. Oct 2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/family-pension-and-gratuity-on-death-or-disappearance.html",
+      "date": "2026-11-18T03:17:17.000Z",
+      "official": false,
+      "tags": [
         "Pension"
       ],
       "speculative": false
@@ -461,18 +522,6 @@
         "CGHS"
       ],
       "speculative": true
-    },
-    {
-      "id": "1ntlq9e",
-      "title": "Revision of rates of Dearness Relief of 5th CPC: 497% and 489% for CPF Beneficiaries w.e.f. 01.07.2026 – DoPPW",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/revision-of-rates-of-dearness-relief-of-5th-cpc-w-e-f-01-07-2026.html",
-      "date": "2026-11-17T16:44:24.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
     },
     {
       "id": "1v2no12",
@@ -702,18 +751,6 @@
       "speculative": false
     },
     {
-      "id": "5axejt",
-      "title": "National Pension System(NPS): FAQs on PRAN, Mandatory Nomination and 25% Partial Withdrawal Rules",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/national-pension-system-nps-important-faqs.html",
-      "date": "2026-11-16T03:17:26.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "1van3e8",
       "title": "NPS default funds should include top-performing private fund managers, not just public sector players, say",
       "source": "The Economic Times",
@@ -724,43 +761,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "137bhgk",
-      "title": "8th Pay Commission: Are arrears guaranteed? What the 5th, 6th and 7th CPCs did",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-are-arrears-guaranteed-what-the-5th-6th-and-7th-cp-cs-did/article-203470/",
-      "date": "2026-11-15T12:15:14.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "y7t3xk",
-      "title": "8th Pay Commission: Key Updates That You Should Be Aware Of",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-key-updates-that-you-should-be-aware-of-12326624",
-      "date": "2026-11-15T10:58:49.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1mf1y2i",
-      "title": "8th Pay Commission: How Rs 25,000 to Rs 75,000 basic pensions may change at 2.0, 2.25, and 2.57 fitment factors",
-      "source": "ET Now",
-      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-how-rs-25000-to-rs-75000-basic-pensions-may-change-at-2-0-2-25-and-2-57-fitment-factors-article-156513791",
-      "date": "2026-11-15T10:50:35.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
     }
   ]
 }
