@@ -1,7 +1,44 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T23:53:47.903Z",
+  "updated": "2026-11-24T09:53:44.230Z",
   "items": [
+    {
+      "id": "1l8jemm",
+      "title": "8th Pay Commission: बेसिक पे में जुड़ेगा 50% DA, दोगुना होगा सालाना इंक्रीमेंट? आयोग से 13 बड़ी मांगें",
+      "source": "Asianet News Hindi",
+      "url": "https://hindi.asianetnews.com/business-news/8th-pay-commission-latest-news-50-percent-da-merger-double-annual-increment-ops-restoration-13-key-demands-articleshow-sh2r7cw",
+      "date": "2026-11-24T05:28:33.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1gxu3kl",
+      "title": "8th Pay Commission: Rs 15 Lakh Insurance Demand",
+      "source": "News Karnataka",
+      "url": "https://newskarnataka.com/finance/8th-pay-commission-rs-15-lakh-insurance-demand/24112026/",
+      "date": "2026-11-24T03:48:02.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1iuh421",
+      "title": "8th Pay Commission: Insurance Cover From Rs 30,000 To Rs 15 Lakh? Defence Staff Union's Big Demand",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-insurance-cover-from-rs-30-000-to-rs-15-lakh-defence-staff-unions-big-demand-12367849",
+      "date": "2026-11-24T01:30:01.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
     {
       "id": "s2bpg5",
       "title": "8th Pay Commission: Civilian defence staff seek 6% annual increment, OPS and 50% DA merger— 13 key demands explained",
@@ -56,6 +93,20 @@
       "speculative": true
     },
     {
+      "id": "1cmh7vz",
+      "title": "8th Pay Commission: Salary, pension, bonus to promotion - full list of 73 demands by BPMS",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-full-list-of-73-demands-covering-salary-pension-bonus-promotion-by-bpms/article-203869/",
+      "date": "2026-11-23T08:33:09.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
       "id": "1ah88lq",
       "title": "8th Pay Commission: Full list of 73 demands covering salary, pension, bonus, promotion by BPMS",
       "source": "Upstox",
@@ -92,6 +143,18 @@
         "8th CPC"
       ],
       "speculative": true
+    },
+    {
+      "id": "1h9uq8n",
+      "title": "Jitendra Singh calls for review of pension rules to reduce litigation, strengthen pensioners’ welfare",
+      "source": "DD News",
+      "url": "https://ddnews.gov.in/en/jitendra-singh-calls-for-review-of-pension-rules-to-reduce-litigation-strengthen-pensioners-welfare/",
+      "date": "2026-11-23T04:26:49.000Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
     },
     {
       "id": "n7i0c4",
@@ -371,6 +434,18 @@
       "speculative": false
     },
     {
+      "id": "wsnwc3",
+      "title": "Sanction and Payment of Provisional Family Pension on Death of Serving Government Servant: DoP&PW O.M. Oct 2026",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/sanction-and-payment-of-provisional-family-pension-on-death.html",
+      "date": "2026-11-20T15:11:16.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
       "id": "14i6h4q",
       "title": "How Corporate NPS Tax Benefits Help Employees Build Retirement Wealth",
       "source": "TechBullion",
@@ -537,18 +612,6 @@
       "speculative": true
     },
     {
-      "id": "1geaxi2",
-      "title": "Credit of First Pension/Family Pension: CPAO Issues Instructions to Banks for Same-Day Generation and Submission of eScrolls",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/credit-of-first-pension-family-pension-cpao.html",
-      "date": "2026-11-18T13:39:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
       "id": "2k9w7",
       "title": "8th Pay Commission: What will be Basic Pay Vs Gross Salary Vs Home Salary; Check Fitment Factor-Wise Estimate",
       "source": "Goodreturns",
@@ -700,70 +763,6 @@
         "Pay"
       ],
       "speculative": true
-    },
-    {
-      "id": "9u2gtq",
-      "title": "8th Pay Commission: Indian Railways employees seek two extra days for talks, while defence civilians dema",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-indian-railways-employees-seek-two-extra-days-for-talks-while-defence-civilians-demand-rs-69000-minimum-pay-3-83-fitment-factor-and-ops-restoration/articleshow/135914740.cms",
-      "date": "2026-11-17T07:29:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "xgxrna",
-      "title": "8th Pay Commission Update: Basic Pension Calculation Under 2.1, 2.57 and 2.75 Fitment Factors",
-      "source": "Asianet Newsable",
-      "url": "https://newsable.asianetnews.com/gallery/india/8th-pay-commission-basic-pension-calculation-for-fitment-factors-agt8csy",
-      "date": "2026-11-17T07:09:27.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "dn1dhp",
-      "title": "8th Pay Commission: Why Railway employees want 2 more days to present their demands",
-      "source": "India Today",
-      "url": "https://www.indiatoday.in/amp/business/personal-finance/story/8th-pay-commission-why-railway-employees-want-2-more-days-to-present-their-demands-3040553-2026-11-17",
-      "date": "2026-11-17T07:00:44.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "mzabll",
-      "title": "8th Pay Commission: Railway employees seek two-day discussion with 8th CPC; AIDEF set to meet commission o",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-calculator-8th-pay-commission-railway-employees-seek-two-day-discussion-with-8th-cpc-aidef-to-meet-on-november-18/amp_articleshow/135911581.cms",
-      "date": "2026-11-17T05:19:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "we79nm",
-      "title": "NPS rules for government employees: Check PRAN, mandatory nomination and partial withdrawal conditions",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/nps-rules-for-government-employees-check-pran-mandatory-nomination-and-partial-withdrawal-conditions/slideshow/135911551.cms",
-      "date": "2026-11-17T05:10:56.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
