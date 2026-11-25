@@ -1,7 +1,59 @@
 {
   "schema": 1,
-  "updated": "2026-11-25T08:32:55.455Z",
+  "updated": "2026-11-25T21:41:47.449Z",
   "items": [
+    {
+      "id": "1opdwsd",
+      "title": "8th pay commission news: BPMS proposes 6% increment, 45-day paternity leave, higher insurance",
+      "source": "Business Today",
+      "url": "https://www.businesstoday.in/latest/economy/story/8th-pay-commission-news-bpms-proposes-6-increment-45-day-paternity-leave-higher-insurance-569546-2026-11-25",
+      "date": "2026-11-25T14:43:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "snqjs",
+      "title": "Government employee dies or goes missing: How can the family claim pension, PF, gratuity and other financial benefits?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/government-employee-dies-or-goes-missing-how-can-the-family-claim-pension-pf-gratuity-and-other-financial-benefits-11795608736075.html",
+      "date": "2026-11-25T12:58:44.000Z",
+      "official": false,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "14j6sdv",
+      "title": "8th Pay Commission: Govt employees seek 6% annual increment, restoration of Old Pension Scheme - CNBC TV18",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/cnbc-tv18_8th-pay-commission-govt-employees-seek-6-activity-7531323495784284160-j7G3",
+      "date": "2026-11-25T11:50:46.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1iuzzil",
+      "title": "BPMS seeks 6% annual increment and five career upgrades under 8th Pay Commission",
+      "source": "HR Katha",
+      "url": "https://www.hrkatha.com/news/bpms-seeks-6-annual-increment-and-five-career-upgrades-under-8th-pay-commission/",
+      "date": "2026-11-25T09:30:04.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1wqkiyc",
       "title": "8th Pay Commission: 6% Annual Increment, OPS Return, Among Top Demands From Defence Employees' Federation",
@@ -51,6 +103,33 @@
       "official": false,
       "tags": [
         "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1jkvq0k",
+      "title": "8th Pay Commission May Be Delayed Until 2029, NC-JCM Secretary Raises Concern Over Salary Hike",
+      "source": "DNP India",
+      "url": "https://www.dnpindia.in/nation/8th-pay-commission-may-be-delayed-until-2029-nc-jcm-secretary-raises-concern-over-salary-hike/621831/",
+      "date": "2026-11-24T09:29:50.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "2rf8g",
+      "title": "8th Pay Commission Update: 8वें वेतन आयोग पर बड़ा अपडेट, ₹45000 होगी मिनिमम पेंशन?",
+      "source": "YouTube",
+      "url": "https://youtu.be/Ac0LHqg6rbU",
+      "date": "2026-11-24T08:30:07.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
         "Pay"
       ],
       "speculative": true
@@ -308,19 +387,6 @@
       "tags": [
         "8th CPC",
         "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1ox4fms",
-      "title": "8th Pay Commission: MSA and IRTSA proposals show how fitment factors could reshape central government salary structures",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-msa-and-irtsa-proposals-show-how-fitment-factors-could-reshape-central-government-salary-structures-11795013686090.html",
-      "date": "2026-11-22T00:53:19.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
       ],
       "speculative": true
     },
@@ -703,68 +769,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "web7ew",
-      "title": "8th Pay Commission: Pensioners renew a demand rejected by 7th CPC; how it will impact pension, family pension and gratuity",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-pensioners-renew-a-demand-rejected-by-7th-cpc-how-it-will-impact-pension-family-pension-and-gratuity/article-203597/",
-      "date": "2026-11-18T01:51:28.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "142wpwj",
-      "title": "8th Pay Commission Update: Railway union seeks two days for discussions; AIDEF to present its demands today",
-      "source": "India.com",
-      "url": "https://www.india.com/business/8th-pay-commission-railway-union-ashwini-vaishnaw-aidef-defence-employees-dearness-allowance-insurance-airf-finance-department-nirmala-sitharaman-8545779/",
-      "date": "2026-11-18T01:41:51.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "unflen",
-      "title": "Central govt employees seek establishment of CGHS Wellness Centre in Belagavi",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/central-govt-employees-seek-establishment-of-cghs-wellness-centre-in-belagavi/articleshow/135935113.cms",
-      "date": "2026-11-17T17:22:00.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1v2no12",
-      "title": "CPF retirees' Dearness Relief raised to 497% from July",
-      "source": "www.indianpaycalculator.in",
-      "url": "https://www.indianpaycalculator.in/govt-news/cpf-ex-gratia-dearness-relief-497-percent-july-2026",
-      "date": "2026-11-17T15:42:52.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "pskwl2",
-      "title": "8th Pay Commission: Fitment factor demands range from 3.61 to 4; how much could basic pay rise?",
-      "source": "Moneycontrol.com",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/8th-pay-commission-fitment-factor-demands-range-from-3-61-to-4-how-much-could-basic-pay-rise-14082520.html/amp",
-      "date": "2026-11-17T10:35:08.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     }
   ]
 }
