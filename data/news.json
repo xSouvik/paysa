@@ -1,7 +1,60 @@
 {
   "schema": 1,
-  "updated": "2026-11-24T09:53:44.230Z",
+  "updated": "2026-11-25T08:32:55.455Z",
   "items": [
+    {
+      "id": "1wqkiyc",
+      "title": "8th Pay Commission: 6% Annual Increment, OPS Return, Among Top Demands From Defence Employees' Federation",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-6-annual-increment-ops-return-among-top-demands-from-defence-employees-federation-article-156563852",
+      "date": "2026-11-25T08:14:09.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "b2dede",
+      "title": "8th Pay Commission pension: Rs 45,000 minimum pension demand, 67% of last salary & OROP explained",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-pension-rs-45000-minimum-pension-demand-67-of-last-salary-orop-explained/slideshow/136150071.cms",
+      "date": "2026-11-25T06:25:32.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1fctoq9",
+      "title": "8th Pay Commission: 13 Demands That Defence Civilian Employees Want The Government To Consider",
+      "source": "Outlook Money",
+      "url": "https://www.outlookmoney.com/news/8th-pay-commission-13-demands-that-defence-civilian-employees-want-the-government-to-consider",
+      "date": "2026-11-25T03:05:57.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "32yrdk",
+      "title": "8th Pay Commission: BPMS demands 6% annual increment, five career upgrades and higher insurance cover for employees",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-demands-6-annual-increment-five-career-upgrades-and-higher-insurance-cover-for-employees-11795531431830.html",
+      "date": "2026-11-24T14:54:21.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "1l8jemm",
       "title": "8th Pay Commission: बेसिक पे में जुड़ेगा 50% DA, दोगुना होगा सालाना इंक्रीमेंट? आयोग से 13 बड़ी मांगें",
@@ -295,18 +348,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "olxs9i",
-      "title": "8th Pay Commission: Postal employees seek major changes in promotion rules, propose 1-4 years qualifying service",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/news/india/8th-pay-commission-postal-employees-seek-major-changes-in-promotion-rules-propose-1-4-years-qualifying-service-11795282408534.html",
-      "date": "2026-11-21T18:04:17.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     },
     {
       "id": "2htj58",
@@ -722,45 +763,6 @@
       "official": false,
       "tags": [
         "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "a09swb",
-      "title": "8th Pay Commission: When Will Salaries And Pensions Increase? Here's What We Know",
-      "source": "News18",
-      "url": "https://www.news18.com/photogallery/business/savings-and-investments/8th-pay-commission-when-will-salaries-and-pensions-increase-heres-what-we-know-shil-ws-l-10429149.html",
-      "date": "2026-11-17T10:27:50.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "zvxhr9",
-      "title": "8th Pay Commission Gets Fresh Railway, Defence Pay Demands",
-      "source": "Urban Acres",
-      "url": "https://urbanacres.in/8th-pay-commission-faces-fresh-railway-defence-pay-demands/",
-      "date": "2026-11-17T09:46:38.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1v9irwm",
-      "title": "8th Pay Commission: Basic pay vs gross salary — what could change in an employee's monthly payslip?",
-      "source": "Zee Business",
-      "url": "https://www.zeebiz.com/personal-finance/news-8th-pay-commission-basic-pay-vs-gross-salary-what-could-change-in-an-employees-monthly-payslip-fitment-factor-405663",
-      "date": "2026-11-17T09:08:57.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
       ],
       "speculative": true
     }
