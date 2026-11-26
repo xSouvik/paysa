@@ -1,7 +1,109 @@
 {
   "schema": 1,
-  "updated": "2026-11-26T08:16:34.174Z",
+  "updated": "2026-11-26T21:30:55.820Z",
   "items": [
+    {
+      "id": "1vk8ssr",
+      "title": "वित्तीय सेवाएं विभाग के पेंशन सुधार प्रभाग ने प्रशासनिक सुधार एवं लोक शिकायत विभाग द्वारा अक्टूबर 2026 के लिए जारी शिकायत निवारण मूल्यांकन एवं सूचकांक (जीआरएआई) के समूह बी श्रेणी में शीर्ष स्थान प्राप्त किया है",
+      "summary": "वित्तीय सेवाएं विभाग (डीएफएस) के पेंशन सुधार प्रभाग ने प्रशासनिक सुधार और लोक शिकायत विभाग (डीएआरपीजी) की ओर से जारी अक्टूबर 2026 के शिकायत निवारण मूल्यांकन और सूचकांक (जीआरएआई) में समूह बी श्रेणी (500 से कम शिकायतें दर…",
+      "source": "PIB",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342252",
+      "date": "2026-11-26T21:30:51.825Z",
+      "official": true,
+      "tags": [
+        "Pension"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "p7qnrf",
+      "title": "8th Pay Commission: JPMorgan's 1.83 Fitment Factor Math Could Surprise Govt Employees",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-jpmorgans-1-83-fitment-factor-math-could-surprise-govt-employees-12382377",
+      "date": "2026-11-26T18:40:08.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "jtwwn1",
+      "title": "Pensioners 11 Demands to PM: 8th CPC Pension Revision, Repeal of Pension Validation Act 2025, OPS Restoration, 20% Interim Relief, Commutation and CGHS",
+      "source": "Staff News",
+      "url": "https://www.staffnews.in/2026/11/pensioners-11-demands-to-pm-8th-cpc.html",
+      "date": "2026-11-26T16:53:15.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "CGHS"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "pj0xkc",
+      "title": "8th Pay Commission Arrears: Rs 3.4 Lakh Per Employee? What JPMorgan's Math Shows",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-arrears-rs-3-4-lakh-per-employee-what-jpmorgans-math-shows-12382004",
+      "date": "2026-11-26T16:23:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "15xmbdq",
+      "title": "8th Pay Commission may bring ₹15,400 monthly hike",
+      "source": "Inshorts",
+      "url": "https://inshorts.com/en/news/8th-pay-commission-may-bring--15-400-monthly-hike-1795709664036",
+      "date": "2026-11-26T16:14:24.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1hku4a0",
+      "title": "8th Pay Commission: Govt Employees Could Get Rs 15,400 More A Month, JPMorgan Estimates",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-govt-employees-could-get-rs-15-400-more-a-month-jpmorgan-estimates-12381863",
+      "date": "2026-11-26T15:52:21.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "g253px",
+      "title": "8th Pay Commission pension hike: ₹45,000 minimum pension and One Rank One Pension demand explained",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-pay-commission-pension-hike-rs-45-000-minimum-pension-and-one-rank-one-pension-demand-explained-11795691279134.html",
+      "date": "2026-11-26T11:35:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "5iyv21",
+      "title": "8th Pay Commission pension calculator: Can it go beyond 50% of last drawn salary, resulting in Rs 56,000 h",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-fitment-factor-calculator-can-level-10-employees-get-rs-56000-more-payout-compared-to-7th-cpc/articleshow/136185406.cms",
+      "date": "2026-11-26T10:24:19.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension",
+        "Pay"
+      ],
+      "speculative": true
+    },
     {
       "id": "k4yycj",
       "title": "8th Pay Commission Update: Basic Pay, DA Merger And Fitment Factor Explained With Examples",
@@ -91,6 +193,19 @@
         "Pay"
       ],
       "speculative": false
+    },
+    {
+      "id": "f4fgi0",
+      "title": "8th Pay Commission BIG NEWS! 1 फरवरी 2027 तक रिपोर्ट? रेलवे कर्मचारियों को मिलेगा सबसे बड़ा फायदा!",
+      "source": "YouTube",
+      "url": "https://youtu.be/D6B3GEZ5p2Y?si=GFFkTNMfcGVc-sPv",
+      "date": "2026-11-25T14:15:28.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Railways"
+      ],
+      "speculative": true
     },
     {
       "id": "snqjs",
@@ -417,20 +532,6 @@
       "speculative": true
     },
     {
-      "id": "15v4453",
-      "title": "8th Pay Commission salary hike: Why employees want 50% DA merged with basic pay before fitment factor calculation",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-why-employees-want-50-da-merged-with-basic-pay-before-fitment-factor-calculation-11795347645844.html",
-      "date": "2026-11-22T11:46:09.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
       "id": "cqynre",
       "title": "Rs 45,000 Minimum Pension Demaded By Bharat Pensioners’ Samaj",
       "source": "Trak.in",
@@ -643,20 +744,6 @@
       "speculative": true
     },
     {
-      "id": "mmo5we",
-      "title": "8th Central Pay Commission: BPMS Demands 6% Annual Increment, 50% DA Merger, OPS Restoration and 5 MACP Upgradations",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/8th-central-pay-commission-bpms-demands.html",
-      "date": "2026-11-20T03:49:22.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "vwuiek",
       "title": "8th Pay Commission Proposes ₹45,000 Minimum Pension for Retirees",
       "source": "Udaipur Kiran",
@@ -680,96 +767,6 @@
         "Pension"
       ],
       "speculative": false
-    },
-    {
-      "id": "7xlven",
-      "title": "8th Pay Commission: Pensioners demand 67% of last pay drawn",
-      "source": "NewsBytes",
-      "url": "https://www.newsbytesapp.com/news/business/8th-pay-commission-pensioners-demand-67-of-last-pay-drawn/story",
-      "date": "2026-11-19T08:40:22.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1dro5xh",
-      "title": "RRB Paramedical Salary 2026, Post wise Salary, Allowances and Job Profile",
-      "source": "Adda247",
-      "url": "https://www.adda247.com/exams/nursing/rrb-paramedical-staff-salary/",
-      "date": "2026-11-19T08:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "174yktp",
-      "title": "ISRO Scientist Salary Per Month: Structure, In-Hand Pay, Allowance",
-      "source": "PW",
-      "url": "https://www.pw.live/gate/exams/isro-scientist-salary",
-      "date": "2026-11-19T08:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1fxddbk",
-      "title": "Centre Names CGHS Nodal Officer for A&N Pensioners",
-      "source": "The Wave Andaman",
-      "url": "https://thewaveandaman.com/andaman-pensioners-cghs-nodal-officer-chennai/",
-      "date": "2026-11-19T08:00:00.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1mkjhmk",
-      "title": "8th Pay Commission: Will Government Employees Get Higher Salaries, Better Pensions And More Benefits? Check What Defence And Railway Staff Want",
-      "source": "Jagran Josh",
-      "url": "https://www.jagranjosh.com/lite/general-knowledge/8th-pay-commission-will-government-employees-get-higher-salaries-better-pensions-and-more-benefits-check-what-defence-and-railway-staff-want-1820013952-1",
-      "date": "2026-11-19T05:07:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Railways"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "13v76cy",
-      "title": "8th Pay Commission : 8वें वेतन आयोग में देरी पड़ेगी भारी! Salary Hike Update Pension | SHORTS",
-      "source": "Jagran",
-      "url": "https://www.jagran.com/short-videos/8th-pay-commission-8-salary-hike-update-pension-shorts-141110.html",
-      "date": "2026-11-18T20:30:18.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension",
-        "Pay"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1ov4ox8",
-      "title": "Bijapur: Employees-Officers Federation Demands Revocation of Punitive Action Against Patwaris and 3% DA Hike",
-      "source": "CGKhabar",
-      "url": "https://cgkhabar.com/news/chhattisgarh-bijapur-employees-officers-federation-demands-revocation-of-punitive-action-against-patwaris-20261119",
-      "date": "2026-11-18T19:47:27.000Z",
-      "official": false,
-      "tags": [
-        "DA"
-      ],
-      "speculative": true
     }
   ]
 }
