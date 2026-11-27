@@ -1,7 +1,152 @@
 {
   "schema": 1,
-  "updated": "2026-11-26T21:30:55.820Z",
+  "updated": "2026-11-27T08:32:36.878Z",
   "items": [
+    {
+      "id": "1m1yce9",
+      "title": "8th Pay Commission: 2 pensioners' bodies urge PM to include pre-2026 retirees in pension revision; protest",
+      "source": "The Economic Times",
+      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-2-pensioners-bodies-urge-pm-to-include-pre-2026-retirees-in-payout-revision/articleshow/136212500.cms",
+      "date": "2026-11-27T08:16:37.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "azklt3",
+      "title": "8th Pay Commission: Pensioners’ Body Writes to PM Modi, Seeks Equal Benefits and DA Merger; Raises 11 Demands",
+      "source": "NKTV",
+      "url": "https://www.nktv.in/8th-pay-commission-pensioners-body-writes-to-pm-modi-seeks-equal-benefits-and-da-merger-raises-11-demands/",
+      "date": "2026-11-27T07:56:58.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "6w7ufj",
+      "title": "8th Pay Commission: From OPS restoration to DA merger, pensioners’ body lists 11 demands - CNBC TV18",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/cnbc-tv18_8th-pay-commission-from-ops-restoration-activity-7531983896796823552-ywIb",
+      "date": "2026-11-27T07:34:58.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "11tyaab",
+      "title": "8th Pay Commission news: Pensioners seek higher benefits, DA merger and equal treatment for older retirees",
+      "source": "ET Now",
+      "url": "https://www.etnownews.com/personal-finance/8th-pay-commission-news-pensioners-seek-higher-benefits-da-merger-and-equal-treatment-for-older-retirees-article-156573325",
+      "date": "2026-11-27T05:43:24.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "yl4a6u",
+      "title": "8th Pay Commission: How much could pension rise if proposed 67% of last-drawn pay formula is accepted?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-much-could-pension-rise-if-proposed-67-of-last-drawn-pay-formula-is-accepted-11795753665745.html",
+      "date": "2026-11-27T05:42:51.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "l7qf4h",
+      "title": "8th Pay Commission: Rs 3.4 Lakh Arrears Estimate",
+      "source": "News Karnataka",
+      "url": "https://newskarnataka.com/finance/8th-pay-commission-rs-3-4-lakh-arrears-estimate/27112026/",
+      "date": "2026-11-27T04:28:55.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1efvffq",
+      "title": "8th Pay Commission: JPMorgan’s 1.83 Factor",
+      "source": "News Karnataka",
+      "url": "https://newskarnataka.com/finance/8th-pay-commission-jpmorgans-1-83-factor/27112026/",
+      "date": "2026-11-27T04:12:32.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": false
+    },
+    {
+      "id": "1c678kh",
+      "title": "8th Pay Commission: Pensioners' body seeks inclusion of pre-2026 pensioners, lists 11 demands on pension revision, 50% DA merger and OPS restoration",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/8th-pay-commission-pensioners-body-seeks-inclusion-of-pre-2026-pensioners-lists-11-demands-on-pension-revision-50-da-merger-and-ops-restoration/article-204058/",
+      "date": "2026-11-27T03:25:42.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1bqbx4k",
+      "title": "8th Pay Commission completes 70% tenure — DA merger, high fitment factor, revised pay structure among top demands",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/8th-cpc-pay-commission-complete-70-pc-tenure-da-merger-high-fitment-factor-revised-pay-structure-salary-hike-top-demands-11795744933321.html",
+      "date": "2026-11-27T03:21:00.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "1hu5yn7",
+      "title": "8th Pay Commission: How ₹18,000 basic pay could translate into ₹2.06 lakh in arrears at 2.57 fitment factor",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-18-000-basic-pay-could-translate-into-2-06-lakh-in-arrears-at-2-57-fitment-factor/amp-11795744600281.html",
+      "date": "2026-11-27T02:52:58.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "34ji8l",
+      "title": "8th Pay Commission: Pensioners' body writes to PM Modi, seeks equal benefits for retirees, DA merger; check 11 demands",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pensioners-body-writes-to-pm-modi-seeks-equal-benefits-for-retirees-da-merger-check-11-demands-11795739701414.html",
+      "date": "2026-11-27T02:13:28.000Z",
+      "official": false,
+      "tags": [
+        "DA",
+        "8th CPC",
+        "Pension"
+      ],
+      "speculative": true
+    },
     {
       "id": "1vk8ssr",
       "title": "वित्तीय सेवाएं विभाग के पेंशन सुधार प्रभाग ने प्रशासनिक सुधार एवं लोक शिकायत विभाग द्वारा अक्टूबर 2026 के लिए जारी शिकायत निवारण मूल्यांकन एवं सूचकांक (जीआरएआई) के समूह बी श्रेणी में शीर्ष स्थान प्राप्त किया है",
@@ -47,6 +192,18 @@
       "source": "NDTV Profit",
       "url": "https://www.ndtvprofit.com/economy/8th-pay-commission-arrears-rs-3-4-lakh-per-employee-what-jpmorgans-math-shows-12382004",
       "date": "2026-11-26T16:23:35.000Z",
+      "official": false,
+      "tags": [
+        "8th CPC"
+      ],
+      "speculative": true
+    },
+    {
+      "id": "18pq20y",
+      "title": "8th Pay Commission: Rs 15,400 Monthly Hike Estimate",
+      "source": "News Karnataka",
+      "url": "https://newskarnataka.com/finance/8th-pay-commission-rs-15400-monthly-hike-estimate/26112026/",
+      "date": "2026-11-26T16:14:26.000Z",
       "official": false,
       "tags": [
         "8th CPC"
@@ -208,18 +365,6 @@
       "speculative": true
     },
     {
-      "id": "snqjs",
-      "title": "Government employee dies or goes missing: How can the family claim pension, PF, gratuity and other financial benefits?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/government-employee-dies-or-goes-missing-how-can-the-family-claim-pension-pf-gratuity-and-other-financial-benefits-11795608736075.html",
-      "date": "2026-11-25T12:58:44.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
       "id": "14j6sdv",
       "title": "8th Pay Commission: Govt employees seek 6% annual increment, restoration of Old Pension Scheme - CNBC TV18",
       "source": "LinkedIn",
@@ -287,19 +432,6 @@
       "speculative": true
     },
     {
-      "id": "32yrdk",
-      "title": "8th Pay Commission: BPMS demands 6% annual increment, five career upgrades and higher insurance cover for employees",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-demands-6-annual-increment-five-career-upgrades-and-higher-insurance-cover-for-employees-11795531431830.html",
-      "date": "2026-11-24T14:54:21.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pay"
-      ],
-      "speculative": true
-    },
-    {
       "id": "1jkvq0k",
       "title": "8th Pay Commission May Be Delayed Until 2029, NC-JCM Secretary Raises Concern Over Salary Hike",
       "source": "DNP India",
@@ -360,20 +492,6 @@
       "official": false,
       "tags": [
         "8th CPC"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "s2bpg5",
-      "title": "8th Pay Commission: Civilian defence staff seek 6% annual increment, OPS and 50% DA merger— 13 key demands explained",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-civilian-defence-staff-seek-6-annual-increment-ops-and-50-da-merger-13-key-demands-explained-11795439112048.html",
-      "date": "2026-11-23T15:23:24.000Z",
-      "official": false,
-      "tags": [
-        "DA",
-        "8th CPC",
-        "Pension"
       ],
       "speculative": true
     },
@@ -492,18 +610,6 @@
         "CGHS"
       ],
       "speculative": false
-    },
-    {
-      "id": "1t0xclx",
-      "title": "8th Pay Commission: Check how ₹25,000, ₹35,000 and ₹50,000 basic salaries could change under proposed fitment factors",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-check-how-25-000-35-000-and-50-000-basic-salaries-could-change-under-proposed-fitment-factors-11795379274172.html",
-      "date": "2026-11-23T01:15:33.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC"
-      ],
-      "speculative": true
     },
     {
       "id": "6zupnv",
@@ -667,106 +773,6 @@
         "Pension"
       ],
       "speculative": true
-    },
-    {
-      "id": "rvk0n5",
-      "title": "Rs 45,000 minimum pension under 8th Pay Commission demanded by BPS: Will it be implemented?",
-      "source": "The Economic Times",
-      "url": "https://m.economictimes.com/wealth/save/8th-pay-commission-latest-news-salary-pension-fitment-factor-calculator-rs-45000-payout-under-8th-cpc-demanded-by-bps-will-it-be-implemented/amp_articleshow/136028166.cms",
-      "date": "2026-11-21T02:30:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "1eralos",
-      "title": "BHU issues policy for CGHS-rate treatment at private hospitals, subject to agreements",
-      "source": "GK Today",
-      "url": "https://www.gktoday.in/bhu-issues-policy-for-cghs-rate-treatment-at-private-hospitals-subject-to-agreements/",
-      "date": "2026-11-20T19:52:08.000Z",
-      "official": false,
-      "tags": [
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1lqdvsi",
-      "title": "Additional Director CGHS Chennai Designated Nodal Officer for Eligible A&N Pensioners - Nicobar Times",
-      "source": "Nicobar Times",
-      "url": "https://nicobartimes.com/local-news/additional-director-cghs-chennai-designated-nodal-officer-for-eligible-an-pensioners/",
-      "date": "2026-11-20T17:59:37.000Z",
-      "official": false,
-      "tags": [
-        "Pension",
-        "CGHS"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "wsnwc3",
-      "title": "Sanction and Payment of Provisional Family Pension on Death of Serving Government Servant: DoP&PW O.M. Oct 2026",
-      "source": "Staff News",
-      "url": "https://www.staffnews.in/2026/11/sanction-and-payment-of-provisional-family-pension-on-death.html",
-      "date": "2026-11-20T15:11:16.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "14i6h4q",
-      "title": "How Corporate NPS Tax Benefits Help Employees Build Retirement Wealth",
-      "source": "TechBullion",
-      "url": "https://techbullion.com/how-corporate-nps-tax-benefits-help-employees-build-retirement-wealth/",
-      "date": "2026-11-20T13:21:46.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "1x2vp05",
-      "title": "8th Pay Commission: Pensioners Renew Higher Pension Demand and What It Means",
-      "source": "Kalkine India",
-      "url": "https://www.kalkine.co.in/article/retirement-planning/8th-pay-commission-pensioners-renew-a-demand-rejected-by-the-7th-cpc-and-what-it-would-mean-for-pension-family-pension-and-gratuity",
-      "date": "2026-11-20T09:48:00.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": true
-    },
-    {
-      "id": "vwuiek",
-      "title": "8th Pay Commission Proposes ₹45,000 Minimum Pension for Retirees",
-      "source": "Udaipur Kiran",
-      "url": "https://udaipurkiran.com/8th-pay-commission-proposes-%E2%82%B945000-minimum-pension-for-retirees/",
-      "date": "2026-11-20T02:03:08.000Z",
-      "official": false,
-      "tags": [
-        "8th CPC",
-        "Pension"
-      ],
-      "speculative": false
-    },
-    {
-      "id": "184mtql",
-      "title": "National Pension System: PFRDA introduced 3 changes for subscribers in a month; all you need to know",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/personal-finance/investing/national-pension-system-pfrda-introduced-3-changes-for-subscribers-in-a-month-all-you-need-to-know/article-203724/",
-      "date": "2026-11-19T13:14:03.000Z",
-      "official": false,
-      "tags": [
-        "Pension"
-      ],
-      "speculative": false
     }
   ]
 }
